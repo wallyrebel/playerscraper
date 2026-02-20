@@ -1,0 +1,53 @@
+name: Daily Top Performers
+
+on:
+  schedule:
+    - cron: "15 12 * * *"
+  workflow_dispatch:
+    inputs:
+      test_mode:
+        description: "Run in test mode"
+        required: false
+        default: "false"
+      date_override:
+        description: "Optional MM/DD/YYYY date"
+        required: false
+        default: ""
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    env:
+      MAXPREPS_EMAIL: ${{ secrets.MAXPREPS_EMAIL }}
+      MAXPREPS_PASSWORD: ${{ secrets.MAXPREPS_PASSWORD }}
+      GMAIL_SENDER: ${{ secrets.GMAIL_SENDER }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      GMAIL_RECIPIENT: ${{ secrets.GMAIL_RECIPIENT }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          playwright install chromium
+
+      - name: Run scraper
+        shell: bash
+        run: |
+          CMD="python top_performers.py"
+          if [ "${{ github.event.inputs.test_mode }}" = "true" ]; then
+            CMD="$CMD --test"
+          fi
+          if [ -n "${{ github.event.inputs.date_override }}" ]; then
+            CMD="$CMD --date \"${{ github.event.inputs.date_override }}\""
+          fi
+          eval "$CMD"

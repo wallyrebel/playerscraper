@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+storage_state.json
+.env
+.venv/
+venv/
+test_run.log
