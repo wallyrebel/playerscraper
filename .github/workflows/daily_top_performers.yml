@@ -2,28 +2,54 @@ name: Daily Top Performers
 
 on:
   schedule:
+    # 12:15 UTC = 6:15/7:15 a.m. America/Chicago. GitHub delays scheduled runs
+    # under load, so the job must tolerate firing late -- it does, because the
+    # lookback window re-checks several days rather than only yesterday.
     - cron: "15 12 * * *"
+
   workflow_dispatch:
     inputs:
-      test_mode:
-        description: "Run in test mode"
-        required: false
-        default: "false"
       date_override:
-        description: "Optional MM/DD/YYYY date"
+        description: "Game date to report on, e.g. 08/28/2026 (blank = yesterday)"
         required: false
         default: ""
+      days:
+        description: "Days to scan, ending at that date (blank = 1 when a date is given, else 4)"
+        required: false
+        default: ""
+      sports:
+        description: "Sport keys, comma separated (blank = all in season)"
+        required: false
+        default: ""
+      include_offseason:
+        description: "Scan sports listed as out of season for that month"
+        type: boolean
+        required: false
+        default: false
+      resend_already_reported:
+        description: "Re-send performers already emailed (normally leave unchecked)"
+        type: boolean
+        required: false
+        default: false
+      test_mode:
+        description: "Verbose logging, TEST subject"
+        type: boolean
+        required: false
+        default: false
+
+# Never let two runs scrape and race to write the ledger at the same time. A
+# manual run started while the scheduled one is going will queue behind it.
+concurrency:
+  group: daily-top-performers
+  cancel-in-progress: false
+
+permissions:
+  contents: write # required to commit the ledger back to the repo
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-
-    env:
-      MAXPREPS_EMAIL: ${{ secrets.MAXPREPS_EMAIL }}
-      MAXPREPS_PASSWORD: ${{ secrets.MAXPREPS_PASSWORD }}
-      GMAIL_SENDER: ${{ secrets.GMAIL_SENDER }}
-      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-      GMAIL_RECIPIENT: ${{ secrets.GMAIL_RECIPIENT }}
+    timeout-minutes: 90
 
     steps:
       - name: Checkout
@@ -33,21 +59,81 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: pip
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          playwright install chromium
+
+      - name: Cache Playwright browsers
+        id: playwright-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+
+      - name: Install Playwright Chromium
+        run: python -m playwright install --with-deps chromium
 
       - name: Run scraper
-        shell: bash
+        env:
+          GMAIL_SENDER: ${{ secrets.GMAIL_SENDER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_RECIPIENT: ${{ secrets.GMAIL_RECIPIENT }}
+          # Inputs are passed through the environment rather than interpolated
+          # into the shell. Interpolating `${{ inputs.* }}` into a run block
+          # lets the typed text execute as shell.
+          DATE_OVERRIDE: ${{ inputs.date_override }}
+          DAYS: ${{ inputs.days }}
+          SPORTS: ${{ inputs.sports }}
+          INCLUDE_OFFSEASON: ${{ inputs.include_offseason }}
+          RESEND: ${{ inputs.resend_already_reported }}
+          TEST_MODE: ${{ inputs.test_mode }}
         run: |
-          CMD="python top_performers.py"
-          if [ "${{ github.event.inputs.test_mode }}" = "true" ]; then
-            CMD="$CMD --test"
+          set -euo pipefail
+          args=()
+          # if-blocks, not `[ ... ] && args+=(...)`: a false test makes the &&
+          # chain return non-zero, which under `set -e` aborts the step.
+          if [ -n "${DATE_OVERRIDE:-}" ]; then
+            args+=(--date "$DATE_OVERRIDE")
+            # A named date means "report on that day", so default the window to
+            # that single day rather than the four-day catch-up window.
+            args+=(--days "${DAYS:-1}")
+            args+=(--label "ON-DEMAND")
+          elif [ -n "${DAYS:-}" ]; then
+            args+=(--days "$DAYS")
           fi
-          if [ -n "${{ github.event.inputs.date_override }}" ]; then
-            CMD="$CMD --date \"${{ github.event.inputs.date_override }}\""
+          if [ -n "${SPORTS:-}" ]; then args+=(--sports "$SPORTS"); fi
+          if [ "${INCLUDE_OFFSEASON:-false}" = "true" ]; then args+=(--include-offseason); fi
+          if [ "${RESEND:-false}" = "true" ]; then args+=(--ignore-ledger); fi
+          if [ "${TEST_MODE:-false}" = "true" ]; then args+=(--test); fi
+
+          echo "Running: python top_performers.py ${args[*]:-}"
+          python top_performers.py "${args[@]}" 2>&1 | tee run.log
+
+      - name: Commit ledger
+        # Runs even if the scrape failed, so performers already emailed before
+        # the failure are not emailed again on the next run.
+        if: always()
+        run: |
+          set -euo pipefail
+          if [ -n "$(git status --porcelain state/)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add state/
+            git commit -m "Update reported-performers ledger [skip ci]"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          else
+            echo "Ledger unchanged."
           fi
-          eval "$CMD"
+
+      - name: Upload run log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: run-log-${{ github.run_id }}
+          path: run.log
+          retention-days: 14
+          if-no-files-found: ignore

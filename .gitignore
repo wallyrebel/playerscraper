@@ -5,3 +5,4 @@ storage_state.json
 .venv/
 venv/
 test_run.log
+run.log
