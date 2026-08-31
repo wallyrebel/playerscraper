@@ -190,6 +190,12 @@ opponent's star does not headline a Mississippi report. Pass
 **Baseball / Softball** — 4+ hits, 4+ RBI, 2+ HR, 3+ extra-base hits, 12+ strikeouts,
 complete-game shutout, no-hitter, perfect game.
 
+MaxPreps splits pitching across three tables and the one carrying `CG` has no
+runs columns, so a complete-game shutout is only detected from the table that
+has `IP`/`R`/`ER` — meaning it needs 7+ innings. A five-inning run-rule shutout
+is missed. That is deliberate: inferring a shutout from the `CG` table alone
+reported every complete game as one, 6.00 ERA included.
+
 **Basketball** — 32+ points, triple-double, scoring double-double (22+ pts with 10+
 reb or ast), high double-double (28+ pts with a second 10+ category), 18+ rebounds,
 12+ assists, 7+ threes, 6+ steals, 6+ blocks.

@@ -959,7 +959,13 @@ def eval_baseball(stats: Dict[str, float], norm_headers: Sequence[str], section:
         # CG is not always a column. A pitcher who went the distance with no
         # runs allowed is a shutout regardless of whether MaxPreps flags it.
         full_game = complete_game >= 1 or innings >= 7
-        if full_game and earned_runs == 0 and runs_allowed == 0:
+        # Only claim a shutout when this table actually carries the runs
+        # columns. MaxPreps splits softball pitching across several tables and
+        # the one holding CG has no R or ER, so an absent column would read as
+        # zero and report every complete game -- 6.00 ERA included -- as a
+        # shutout.
+        has_runs = "er" in stats or "r" in stats
+        if full_game and has_runs and earned_runs == 0 and runs_allowed == 0:
             reasons.append("complete-game shutout")
         if no_hitter >= 1 or (full_game and "h" in stats and hits_allowed == 0):
             reasons.append("no-hitter")
