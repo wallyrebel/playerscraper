@@ -264,8 +264,10 @@ you what was held back:
 (2 other qualifying performance(s) were already reported earlier.)
 ```
 
-The date field accepts `08/28/2026`, `8/28/2026`, `08-28-2026`, `2026-08-28`,
-or `Aug 28 2026`.
+The date field is forgiving about format. All of these mean the same day:
+`08/28/2026`, `8/28/26`, `08-28-26`, `08.28.2026`, `2026-08-28`, `Aug 28 2026`.
+Anything it cannot read is rejected with a message naming the expected format,
+and the run emails you the error rather than guessing.
 
 ### Other dispatch options
 

@@ -335,7 +335,12 @@ def clean_player_name(value: str) -> str:
 # ---------------------------------------------------------------------------
 
 
-DATE_INPUT_FORMATS = ("%m/%d/%Y", "%m-%d-%Y", "%Y-%m-%d", "%m/%d/%y", "%b %d %Y", "%B %d %Y")
+DATE_INPUT_FORMATS = (
+    "%m/%d/%Y", "%m-%d-%Y", "%m.%d.%Y",
+    "%m/%d/%y", "%m-%d-%y", "%m.%d.%y",
+    "%Y-%m-%d", "%Y/%m/%d",
+    "%b %d %Y", "%B %d %Y", "%b %d %y", "%B %d %y",
+)
 
 
 def parse_mdy(value: str) -> date_cls:
@@ -345,7 +350,9 @@ def parse_mdy(value: str) -> date_cls:
     the GitHub Actions dispatch form, where a rejected format costs a whole
     round trip.
     """
-    text = normalize_text(value).replace(".", "")
+    # Strip only the period in a month abbreviation ("Aug. 28 2026"), not the
+    # separators in "08.28.2026".
+    text = re.sub(r"(?<=[A-Za-z])\.", "", normalize_text(value))
     for fmt in DATE_INPUT_FORMATS:
         try:
             return datetime.strptime(text, fmt).date()
