@@ -1,0 +1,17 @@
+# Diagnostic only. Ten-second job with no concurrency group, no secrets and no
+# dependencies, to prove whether GitHub can allocate a runner for this repo.
+# Delete once the main workflow is confirmed healthy.
+name: Smoke Test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Prove a runner picked this up
+        run: |
+          echo "Runner OK on $(uname -a)"
+          echo "UTC now: $(date -u)"

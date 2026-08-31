@@ -39,8 +39,11 @@ on:
 
 # Never let two runs scrape and race to write the ledger at the same time. A
 # manual run started while the scheduled one is going will queue behind it.
+# The group name carries a suffix so it can be rotated. Runs stuck in the
+# queue hold their concurrency group and block every later run in it; bumping
+# the suffix moves new runs into a clean group.
 concurrency:
-  group: daily-top-performers
+  group: daily-top-performers-v2
   cancel-in-progress: false
 
 permissions:
