@@ -670,6 +670,16 @@
    "sport": "volleyball",
    "team": "East Central"
   },
+  "08/29/2026|football|space|meridianhomeschool|54c11916-4605-441c-9ba0-269e8e5cb386": {
+   "fingerprint": "ac2ccdf652bf25c1",
+   "first_reported": "2026-09-02T07:51:34-05:00",
+   "game_date": "08/29/2026",
+   "last_reported": "2026-09-02T07:51:34-05:00",
+   "player": "S. Pace",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Meridian HomeSchool"
+  },
   "08/29/2026|volleyball|aclifton|pottscamp|c6523105-3f4a-4395-9a86-f14d5c17e05e": {
    "fingerprint": "881b4e169d6e8ad3",
    "first_reported": "2026-09-01T08:06:51-05:00",
@@ -700,6 +710,26 @@
    "sport": "softball",
    "team": "Lamar Christian"
   },
+  "08/31/2026|volleyball|clong|tupelo|8e14c511-4bb8-4e01-9b7f-98c4c3b30b6c": {
+   "fingerprint": "b1a90cee62b542be",
+   "first_reported": "2026-09-02T07:51:34-05:00",
+   "game_date": "08/31/2026",
+   "last_reported": "2026-09-02T07:51:34-05:00",
+   "player": "C. Long",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Tupelo"
+  },
+  "08/31/2026|volleyball|csiders|sumrall|43d88b53-001f-4a49-9579-875dca7df77b": {
+   "fingerprint": "ce59c06839ca0e67",
+   "first_reported": "2026-09-02T07:51:34-05:00",
+   "game_date": "08/31/2026",
+   "last_reported": "2026-09-02T07:51:34-05:00",
+   "player": "C. Siders",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Sumrall"
+  },
   "08/31/2026|volleyball|edorr|madisonridgelandacademy|8e14c511-4bb8-4e01-9b7f-98c4c3b30b6c": {
    "fingerprint": "c8066c4d725bc5b4",
    "first_reported": "2026-09-01T08:06:51-05:00",
@@ -710,6 +740,26 @@
    "sport": "volleyball",
    "team": "Madison-Ridgeland Academy"
   },
+  "08/31/2026|volleyball|kamos|forest|4337a69e-6378-44e6-9d14-a194b068538e": {
+   "fingerprint": "92396cd3f815fedd",
+   "first_reported": "2026-09-02T07:51:34-05:00",
+   "game_date": "08/31/2026",
+   "last_reported": "2026-09-02T07:51:34-05:00",
+   "player": "K. Amos",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Forest"
+  },
+  "08/31/2026|volleyball|mjones|forest|4337a69e-6378-44e6-9d14-a194b068538e": {
+   "fingerprint": "ad63273d25ba92d8",
+   "first_reported": "2026-09-02T07:51:34-05:00",
+   "game_date": "08/31/2026",
+   "last_reported": "2026-09-02T07:51:34-05:00",
+   "player": "M. Jones",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Forest"
+  },
   "08/31/2026|volleyball|mstringer|westmarion|febace27-109a-44ac-ae15-dd2978b784a2": {
    "fingerprint": "0442ef21b5b4a516",
    "first_reported": "2026-09-01T08:06:51-05:00",
@@ -719,8 +769,28 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "West Marion"
+  },
+  "08/31/2026|volleyball|rbarbles|tupelo|8e14c511-4bb8-4e01-9b7f-98c4c3b30b6c": {
+   "fingerprint": "6540498d0188d004",
+   "first_reported": "2026-09-02T07:51:34-05:00",
+   "game_date": "08/31/2026",
+   "last_reported": "2026-09-02T07:51:34-05:00",
+   "player": "R. Barbles",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Tupelo"
+  },
+  "09/01/2026|volleyball|ahill|salem|24ae589d-7ef9-40df-958c-41dd26c62069": {
+   "fingerprint": "f6b6e3634dee6423",
+   "first_reported": "2026-09-02T07:51:34-05:00",
+   "game_date": "09/01/2026",
+   "last_reported": "2026-09-02T07:51:34-05:00",
+   "player": "A. Hill",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Salem"
   }
  },
- "updated": "2026-09-01T08:06:51-05:00",
+ "updated": "2026-09-02T07:51:34-05:00",
  "version": 1
 }
