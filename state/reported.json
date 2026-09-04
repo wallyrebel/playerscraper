@@ -870,6 +870,16 @@
    "sport": "volleyball",
    "team": "St. Patrick"
   },
+  "09/01/2026|volleyball|rdedeaux|sumrall|abb0a41c-5c47-43cc-b601-e2e3a7fa4e38": {
+   "fingerprint": "881b4e169d6e8ad3",
+   "first_reported": "2026-09-04T07:57:08-05:00",
+   "game_date": "09/01/2026",
+   "last_reported": "2026-09-04T07:57:08-05:00",
+   "player": "R. Dedeaux",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Sumrall"
+  },
   "09/01/2026|volleyball|rjohnson|eastunion|e2605a56-4638-4991-8ca3-83f936dc5816": {
    "fingerprint": "ca6cc824e912ba93",
    "first_reported": "2026-09-03T07:51:57-05:00",
@@ -889,8 +899,18 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Center Hill"
+  },
+  "09/03/2026|volleyball|mthompson|lakecormorant|c13c6df5-e4e6-46c5-bdda-4cc0738244a3": {
+   "fingerprint": "970bd82b846927c5",
+   "first_reported": "2026-09-04T07:57:08-05:00",
+   "game_date": "09/03/2026",
+   "last_reported": "2026-09-04T07:57:08-05:00",
+   "player": "M. Thompson",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Lake Cormorant"
   }
  },
- "updated": "2026-09-03T07:51:57-05:00",
+ "updated": "2026-09-04T07:57:08-05:00",
  "version": 1
 }
