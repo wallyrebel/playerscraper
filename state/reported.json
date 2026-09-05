@@ -820,6 +820,16 @@
    "sport": "volleyball",
    "team": "East Union"
   },
+  "09/01/2026|volleyball|alofton|newtoncounty|5f2f638f-3eb4-4b60-a044-11d5ccddb582": {
+   "fingerprint": "d7839d497a26e4af",
+   "first_reported": "2026-09-05T08:00:23-05:00",
+   "game_date": "09/01/2026",
+   "last_reported": "2026-09-05T08:00:23-05:00",
+   "player": "A. Lofton",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Newton County"
+  },
   "09/01/2026|volleyball|apeterson|longbeach|f2628b3e-8693-42a0-9d5a-f37183eb78d9": {
    "fingerprint": "451f79db1bf897c5",
    "first_reported": "2026-09-03T07:51:57-05:00",
@@ -839,6 +849,16 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "East Central"
+  },
+  "09/01/2026|volleyball|ealford|newtoncounty|5f2f638f-3eb4-4b60-a044-11d5ccddb582": {
+   "fingerprint": "95d2e9160b5ea4cd",
+   "first_reported": "2026-09-05T08:00:23-05:00",
+   "game_date": "09/01/2026",
+   "last_reported": "2026-09-05T08:00:23-05:00",
+   "player": "E. Alford",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Newton County"
   },
   "09/01/2026|volleyball|lgerrie|eastcentral|7b49d078-fc19-4458-8416-96056cfd5803": {
    "fingerprint": "c1d4f6cb2321e76a",
@@ -890,6 +910,16 @@
    "sport": "volleyball",
    "team": "East Union"
   },
+  "09/01/2026|volleyball|statum|northwestrankin|7ecfd0fa-a212-40f5-854b-5fdcb3d87c1b": {
+   "fingerprint": "277871d0f978c347",
+   "first_reported": "2026-09-05T08:00:23-05:00",
+   "game_date": "09/01/2026",
+   "last_reported": "2026-09-05T08:00:23-05:00",
+   "player": "S. Tatum",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Northwest Rankin"
+  },
   "09/01/2026|volleyball|tcraig|centerhill|df687c0e-6a53-4994-a531-7262a76b1711": {
    "fingerprint": "af4de6db867ca74c",
    "first_reported": "2026-09-03T07:51:57-05:00",
@@ -900,6 +930,46 @@
    "sport": "volleyball",
    "team": "Center Hill"
   },
+  "09/03/2026|football|jgee|canton|a7dcca36-1762-425a-8385-853589408c75": {
+   "fingerprint": "ed8f77fcfa3b2183",
+   "first_reported": "2026-09-05T08:00:23-05:00",
+   "game_date": "09/03/2026",
+   "last_reported": "2026-09-05T08:00:23-05:00",
+   "player": "J. Gee",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Canton"
+  },
+  "09/03/2026|volleyball|csmith|eupora|41e1b652-c687-46bc-9c53-a37519dae5a5": {
+   "fingerprint": "86c3ff021f9ca0bc",
+   "first_reported": "2026-09-05T08:00:23-05:00",
+   "game_date": "09/03/2026",
+   "last_reported": "2026-09-05T08:00:23-05:00",
+   "player": "C. Smith",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Eupora"
+  },
+  "09/03/2026|volleyball|kkalgren|pascagoula|9b2d73c2-2e22-4038-9055-1a51a2d2c197": {
+   "fingerprint": "af4de6db867ca74c",
+   "first_reported": "2026-09-05T08:00:23-05:00",
+   "game_date": "09/03/2026",
+   "last_reported": "2026-09-05T08:00:23-05:00",
+   "player": "K. Kalgren",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Pascagoula"
+  },
+  "09/03/2026|volleyball|mhoskin|lafayette|8f7cbf53-98a4-4c1c-bfd2-955c2ade5adb": {
+   "fingerprint": "95819e67a5734fc5",
+   "first_reported": "2026-09-05T08:00:23-05:00",
+   "game_date": "09/03/2026",
+   "last_reported": "2026-09-05T08:00:23-05:00",
+   "player": "M. Hoskin",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Lafayette"
+  },
   "09/03/2026|volleyball|mthompson|lakecormorant|c13c6df5-e4e6-46c5-bdda-4cc0738244a3": {
    "fingerprint": "970bd82b846927c5",
    "first_reported": "2026-09-04T07:57:08-05:00",
@@ -909,8 +979,38 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Lake Cormorant"
+  },
+  "09/03/2026|volleyball|nnesler|sumrall|990b6619-6c14-4f9d-9dd6-d24c831ddd92": {
+   "fingerprint": "2ddb95c0688a6dae",
+   "first_reported": "2026-09-05T08:00:23-05:00",
+   "game_date": "09/03/2026",
+   "last_reported": "2026-09-05T08:00:23-05:00",
+   "player": "N. Nesler",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Sumrall"
+  },
+  "09/04/2026|football|jstowers|morton|0e67d8e4-b34a-4314-8f19-40b27a4e15ff": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-09-05T08:00:23-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-05T08:00:23-05:00",
+   "player": "J. Stowers",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Morton"
+  },
+  "09/04/2026|football|thobson|morton|0e67d8e4-b34a-4314-8f19-40b27a4e15ff": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-09-05T08:00:23-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-05T08:00:23-05:00",
+   "player": "T. Hobson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Morton"
   }
  },
- "updated": "2026-09-04T07:57:08-05:00",
+ "updated": "2026-09-05T08:00:23-05:00",
  "version": 1
 }
