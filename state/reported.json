@@ -930,6 +930,26 @@
    "sport": "volleyball",
    "team": "Center Hill"
   },
+  "09/03/2026|football|ccraft|heidelberg|9945db6e-361b-4f35-980b-72383b07b675": {
+   "fingerprint": "b96451f6b2977d29",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/03/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "C. Craft",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Heidelberg"
+  },
+  "09/03/2026|football|dgaddis|heidelberg|9945db6e-361b-4f35-980b-72383b07b675": {
+   "fingerprint": "8eb3aa4710e40631",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/03/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "D. Gaddis",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Heidelberg"
+  },
   "09/03/2026|football|jgee|canton|a7dcca36-1762-425a-8385-853589408c75": {
    "fingerprint": "ed8f77fcfa3b2183",
    "first_reported": "2026-09-05T08:00:23-05:00",
@@ -939,6 +959,46 @@
    "reason_count": 2,
    "sport": "football",
    "team": "Canton"
+  },
+  "09/03/2026|football|jmoore|heidelberg|9945db6e-361b-4f35-980b-72383b07b675": {
+   "fingerprint": "a9edfa959a865e15",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/03/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "J. Moore",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Heidelberg"
+  },
+  "09/03/2026|football|kgilmore|heidelberg|9945db6e-361b-4f35-980b-72383b07b675": {
+   "fingerprint": "da3a7506ee39134b",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/03/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "K. Gilmore",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Heidelberg"
+  },
+  "09/03/2026|softball|bwilliamson|laurelchristian|a053b0b1-ab6c-4a71-bba0-78fef3d1e1e3": {
+   "fingerprint": "a4ccfd544231cac9",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/03/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "B. Williamson",
+   "reason_count": 1,
+   "sport": "softball",
+   "team": "Laurel Christian"
+  },
+  "09/03/2026|volleyball|alofton|newtoncounty|55fc1129-404a-4c15-af92-8d98084c5b6b": {
+   "fingerprint": "d7839d497a26e4af",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/03/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "A. Lofton",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Newton County"
   },
   "09/03/2026|volleyball|csmith|eupora|41e1b652-c687-46bc-9c53-a37519dae5a5": {
    "fingerprint": "86c3ff021f9ca0bc",
@@ -990,6 +1050,66 @@
    "sport": "volleyball",
    "team": "Sumrall"
   },
+  "09/04/2026|football|abrown|mcadams|2296d894-e30c-49e6-81b7-0c18d348b1c4": {
+   "fingerprint": "9535a4a7a05ff9cd",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "A. Brown",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "McAdams"
+  },
+  "09/04/2026|football|agivensjr|natchez|2c452b24-c171-40b1-a89a-a1673d0843c8": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "A. Givens Jr.",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Natchez"
+  },
+  "09/04/2026|football|caguilar|madisoncentral|a13cdcbe-edc1-4058-a3ef-ea1519ae1f45": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "C. Aguilar",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Madison Central"
+  },
+  "09/04/2026|football|cwiggins|madisoncentral|a13cdcbe-edc1-4058-a3ef-ea1519ae1f45": {
+   "fingerprint": "2d8f31df86c5f3d6",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "C. Wiggins",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Madison Central"
+  },
+  "09/04/2026|football|garevalo|enterprise|6c9c1f7d-9e78-4b5e-b99f-a43229306b82": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "G. Arevalo",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Enterprise"
+  },
+  "09/04/2026|football|jshelby|pascagoula|44dacfe2-696f-45f0-b991-c73182e68d72": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "J. Shelby",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pascagoula"
+  },
   "09/04/2026|football|jstowers|morton|0e67d8e4-b34a-4314-8f19-40b27a4e15ff": {
    "fingerprint": "9ac3d9e8216ff223",
    "first_reported": "2026-09-05T08:00:23-05:00",
@@ -1000,6 +1120,76 @@
    "sport": "football",
    "team": "Morton"
   },
+  "09/04/2026|football|jyoung|mcadams|2296d894-e30c-49e6-81b7-0c18d348b1c4": {
+   "fingerprint": "0f4ca64a7afe3480",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "J. Young",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "McAdams"
+  },
+  "09/04/2026|football|kbradley|staloysius|29f7bdfb-46a7-4a0f-b5ab-738adbc3349a": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "K. Bradley",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "St. Aloysius"
+  },
+  "09/04/2026|football|lcato|mosspoint|7936b21b-2a34-4143-b0b0-11056dab5beb": {
+   "fingerprint": "2d8f31df86c5f3d6",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "L. Cato",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Moss Point"
+  },
+  "09/04/2026|football|nbrycejohnson|germantown|3683b7fe-5671-4a11-a61e-9215d8b9124c": {
+   "fingerprint": "cf9b28e32efd2c24",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "N. Bryce Johnson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Germantown"
+  },
+  "09/04/2026|football|slambert|enterprise|6c9c1f7d-9e78-4b5e-b99f-a43229306b82": {
+   "fingerprint": "f74f33fc36e9c66f",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "S. Lambert",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Enterprise"
+  },
+  "09/04/2026|football|tfortenberry|loydstar|3c7b1ad2-816e-4c83-ab86-47316a9d9890": {
+   "fingerprint": "40da94f6a5149893",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "T. Fortenberry",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Loyd Star"
+  },
+  "09/04/2026|football|tharris|enterprise|6c9c1f7d-9e78-4b5e-b99f-a43229306b82": {
+   "fingerprint": "bdd320f5c6aed71b",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "T. Harris",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Enterprise"
+  },
   "09/04/2026|football|thobson|morton|0e67d8e4-b34a-4314-8f19-40b27a4e15ff": {
    "fingerprint": "e2911c145d3fd60e",
    "first_reported": "2026-09-05T08:00:23-05:00",
@@ -1009,8 +1199,18 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Morton"
+  },
+  "09/04/2026|football|twashington|brandon|a13cdcbe-edc1-4058-a3ef-ea1519ae1f45": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-09-06T07:57:26-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-06T07:57:26-05:00",
+   "player": "T. Washington",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Brandon"
   }
  },
- "updated": "2026-09-05T08:00:23-05:00",
+ "updated": "2026-09-06T07:57:26-05:00",
  "version": 1
 }
