@@ -1140,6 +1140,16 @@
    "sport": "football",
    "team": "Biloxi"
   },
+  "09/04/2026|football|csandifer|kosciusko|e1fa51b5-a7cb-4685-9512-8c3bb64cb629": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-09-08T07:59:05-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-08T07:59:05-05:00",
+   "player": "C. Sandifer",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Kosciusko"
+  },
   "09/04/2026|football|cwiggins|madisoncentral|a13cdcbe-edc1-4058-a3ef-ea1519ae1f45": {
    "fingerprint": "2d8f31df86c5f3d6",
    "first_reported": "2026-09-06T07:57:26-05:00",
@@ -1269,6 +1279,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Olive Branch"
+  },
+  "09/04/2026|football|jmorris|eupora|83a5d6cc-c7e4-43f5-83b0-ca973a3254a0": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-09-08T07:59:05-05:00",
+   "game_date": "09/04/2026",
+   "last_reported": "2026-09-08T07:59:05-05:00",
+   "player": "J. Morris",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Eupora"
   },
   "09/04/2026|football|jshelby|pascagoula|44dacfe2-696f-45f0-b991-c73182e68d72": {
    "fingerprint": "c8c47321704cc4c3",
@@ -1511,6 +1531,6 @@
    "team": "Meridian HomeSchool"
   }
  },
- "updated": "2026-09-07T08:09:33-05:00",
+ "updated": "2026-09-08T07:59:05-05:00",
  "version": 1
 }
