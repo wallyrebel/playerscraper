@@ -1530,6 +1530,16 @@
    "sport": "football",
    "team": "Meridian HomeSchool"
   },
+  "09/08/2026|softball|lrigby|laurelchristian|8887673b-5a0a-40b2-8670-9698a1ca95b3": {
+   "fingerprint": "6591b1fde4150dd7",
+   "first_reported": "2026-09-11T07:49:42-05:00",
+   "game_date": "09/08/2026",
+   "last_reported": "2026-09-11T07:49:42-05:00",
+   "player": "L. Rigby",
+   "reason_count": 2,
+   "sport": "softball",
+   "team": "Laurel Christian"
+  },
   "09/08/2026|volleyball|aclifton|pottscamp|447d036d-0959-4e85-a825-15fbbd64418c": {
    "fingerprint": "1eb6b3a8180c4229",
    "first_reported": "2026-09-10T07:44:22-05:00",
@@ -1630,6 +1640,16 @@
    "sport": "volleyball",
    "team": "Harrison Central"
   },
+  "09/08/2026|volleyball|mreso|hancock|544a3cd1-c833-44f0-bdcc-c7625877d3e8": {
+   "fingerprint": "2ddb95c0688a6dae",
+   "first_reported": "2026-09-11T07:49:42-05:00",
+   "game_date": "09/08/2026",
+   "last_reported": "2026-09-11T07:49:42-05:00",
+   "player": "M. Reso",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Hancock"
+  },
   "09/08/2026|volleyball|scarney|lawrencecounty|8f961d2b-02de-425d-87d9-a1fa5500d495": {
    "fingerprint": "ad63273d25ba92d8",
    "first_reported": "2026-09-10T07:44:22-05:00",
@@ -1640,6 +1660,16 @@
    "sport": "volleyball",
    "team": "Lawrence County"
   },
+  "09/08/2026|volleyball|statum|northwestrankin|8bbd9ef4-1658-4006-86da-6e3481a360b8": {
+   "fingerprint": "6680ca7be825262a",
+   "first_reported": "2026-09-11T07:49:42-05:00",
+   "game_date": "09/08/2026",
+   "last_reported": "2026-09-11T07:49:42-05:00",
+   "player": "S. Tatum",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Northwest Rankin"
+  },
   "09/08/2026|volleyball|zmadison|lawrencecounty|8f961d2b-02de-425d-87d9-a1fa5500d495": {
    "fingerprint": "af4de6db867ca74c",
    "first_reported": "2026-09-10T07:44:22-05:00",
@@ -1649,8 +1679,18 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Lawrence County"
+  },
+  "09/10/2026|volleyball|edorr|madisonridgelandacademy|a48887c4-67ae-45fc-8d3b-7b820c39013e": {
+   "fingerprint": "881b4e169d6e8ad3",
+   "first_reported": "2026-09-11T07:49:42-05:00",
+   "game_date": "09/10/2026",
+   "last_reported": "2026-09-11T07:49:42-05:00",
+   "player": "E. Dorr",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Madison-Ridgeland Academy"
   }
  },
- "updated": "2026-09-10T07:44:22-05:00",
+ "updated": "2026-09-11T07:49:42-05:00",
  "version": 1
 }
