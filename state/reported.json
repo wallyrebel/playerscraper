@@ -1810,6 +1810,16 @@
    "sport": "football",
    "team": "Hernando"
   },
+  "09/11/2026|football|areynolds|jacksonprep|4505a773-eb22-43cd-935a-3ebcf4b9ec1c": {
+   "fingerprint": "d97a7aad10a0f4b8",
+   "first_reported": "2026-09-15T08:19:01-05:00",
+   "game_date": "09/11/2026",
+   "last_reported": "2026-09-15T08:19:01-05:00",
+   "player": "A. Reynolds",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Jackson Prep"
+  },
   "09/11/2026|football|awages|eastunion|bbb36693-7124-4a52-b387-43d2672ce4b1": {
    "fingerprint": "d97a7aad10a0f4b8",
    "first_reported": "2026-09-13T08:01:59-05:00",
@@ -1850,6 +1860,26 @@
    "sport": "football",
    "team": "Puckett"
   },
+  "09/11/2026|football|cgarner|sacredheart|f400192e-51e7-46f0-89be-c96161f0806f": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-09-15T08:19:01-05:00",
+   "game_date": "09/11/2026",
+   "last_reported": "2026-09-15T08:19:01-05:00",
+   "player": "C. Garner",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Sacred Heart"
+  },
+  "09/11/2026|football|cjohnson|cantonacademy|a8759bdc-7800-4e34-ae2a-054f362b83c6": {
+   "fingerprint": "12166b55de17a481",
+   "first_reported": "2026-09-15T08:19:01-05:00",
+   "game_date": "09/11/2026",
+   "last_reported": "2026-09-15T08:19:01-05:00",
+   "player": "C. Johnson",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Canton Academy"
+  },
   "09/11/2026|football|clankford|hernando|26abf791-59b2-4d12-a4ec-a86bf2f971f2": {
    "fingerprint": "315039412048118a",
    "first_reported": "2026-09-13T08:01:59-05:00",
@@ -1859,6 +1889,16 @@
    "reason_count": 2,
    "sport": "football",
    "team": "Hernando"
+  },
+  "09/11/2026|football|crobertson|presbyterianchristian|2a6af43c-5411-482e-a875-670df154a3e2": {
+   "fingerprint": "bff0013ccec64bc1",
+   "first_reported": "2026-09-15T08:19:01-05:00",
+   "game_date": "09/11/2026",
+   "last_reported": "2026-09-15T08:19:01-05:00",
+   "player": "C. Robertson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Presbyterian Christian"
   },
   "09/11/2026|football|dburkhalter|noxubeecounty|2a9e29d3-1417-482e-a088-d11fee524964": {
    "fingerprint": "78bf9c8f80946a62",
@@ -1950,6 +1990,16 @@
    "sport": "football",
    "team": "Regents"
   },
+  "09/11/2026|football|hmoore|sacredheart|f400192e-51e7-46f0-89be-c96161f0806f": {
+   "fingerprint": "df44c37c74b4faaf",
+   "first_reported": "2026-09-15T08:19:01-05:00",
+   "game_date": "09/11/2026",
+   "last_reported": "2026-09-15T08:19:01-05:00",
+   "player": "H. Moore",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Sacred Heart"
+  },
   "09/11/2026|football|hsmith|brookhaven|6a04d110-d8ab-44b1-9990-2faa838c1c28": {
    "fingerprint": "c8c47321704cc4c3",
    "first_reported": "2026-09-14T08:17:01-05:00",
@@ -2000,6 +2050,16 @@
    "sport": "football",
    "team": "East Union"
   },
+  "09/11/2026|football|jhussey|mooreville|d309b4c6-4fa6-4ad7-b6b5-0da149f3e232": {
+   "fingerprint": "d97a7aad10a0f4b8",
+   "first_reported": "2026-09-15T08:19:01-05:00",
+   "game_date": "09/11/2026",
+   "last_reported": "2026-09-15T08:19:01-05:00",
+   "player": "J. Hussey",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Mooreville"
+  },
   "09/11/2026|football|jparker|brandon|c33cd798-4ca8-4997-8ac1-06579271031c": {
    "fingerprint": "88d51d02443939a9",
    "first_reported": "2026-09-13T08:01:59-05:00",
@@ -2009,6 +2069,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Brandon"
+  },
+  "09/11/2026|football|jpoole|boguechitto|93274ff7-914b-4bac-ba64-f1a3cffe01a8": {
+   "fingerprint": "cf08c03cffb6769c",
+   "first_reported": "2026-09-15T08:19:01-05:00",
+   "game_date": "09/11/2026",
+   "last_reported": "2026-09-15T08:19:01-05:00",
+   "player": "J. Poole",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Bogue Chitto"
   },
   "09/11/2026|football|jstowers|morton|7d426a5a-0ce2-458f-9205-5d68f74aa7df": {
    "fingerprint": "e872a115cff45c85",
@@ -2040,6 +2110,16 @@
    "sport": "football",
    "team": "Pearl River Central"
   },
+  "09/11/2026|football|kgeorge|terry|3ba918c7-887d-47e9-9e1b-3342caa78e1f": {
+   "fingerprint": "138ed9dd10cd8367",
+   "first_reported": "2026-09-15T08:19:01-05:00",
+   "game_date": "09/11/2026",
+   "last_reported": "2026-09-15T08:19:01-05:00",
+   "player": "K. George",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Terry"
+  },
   "09/11/2026|football|kjett|picayune|b30100ae-9378-4ea8-af41-89f2e8afe385": {
    "fingerprint": "095fd565ced6a8d6",
    "first_reported": "2026-09-14T08:17:01-05:00",
@@ -2049,6 +2129,26 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Picayune"
+  },
+  "09/11/2026|football|kmathis|mooreville|d309b4c6-4fa6-4ad7-b6b5-0da149f3e232": {
+   "fingerprint": "3ed17a301a7bc192",
+   "first_reported": "2026-09-15T08:19:01-05:00",
+   "game_date": "09/11/2026",
+   "last_reported": "2026-09-15T08:19:01-05:00",
+   "player": "K. Mathis",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Mooreville"
+  },
+  "09/11/2026|football|kratliff|salem|d52e6fc0-741f-4ac9-bb34-ccbc5ab88301": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-09-15T08:19:01-05:00",
+   "game_date": "09/11/2026",
+   "last_reported": "2026-09-15T08:19:01-05:00",
+   "player": "K. Ratliff",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Salem"
   },
   "09/11/2026|football|lbranson|germantown|011ab1b0-814b-4413-858e-883ff2837559": {
    "fingerprint": "9eaa359adcfb93ef",
@@ -2070,6 +2170,16 @@
    "sport": "football",
    "team": "Wesson"
   },
+  "09/11/2026|football|lessary|jacksonprep|4505a773-eb22-43cd-935a-3ebcf4b9ec1c": {
+   "fingerprint": "fcc65dbf231fb529",
+   "first_reported": "2026-09-15T08:19:01-05:00",
+   "game_date": "09/11/2026",
+   "last_reported": "2026-09-15T08:19:01-05:00",
+   "player": "L. Essary",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Jackson Prep"
+  },
   "09/11/2026|football|mseals|stjoseph|bc503488-b000-4794-8b4e-ce0c141b0324": {
    "fingerprint": "81d4baf3442fa352",
    "first_reported": "2026-09-14T08:17:01-05:00",
@@ -2089,6 +2199,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Warren Central"
+  },
+  "09/11/2026|football|ptrivillion|passchristian|2a6af43c-5411-482e-a875-670df154a3e2": {
+   "fingerprint": "19cbc45e3c6632dd",
+   "first_reported": "2026-09-15T08:19:01-05:00",
+   "game_date": "09/11/2026",
+   "last_reported": "2026-09-15T08:19:01-05:00",
+   "player": "P. Trivillion",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pass Christian"
   },
   "09/11/2026|football|qfairley|pisgah|847c47fc-d08d-4c28-88b5-d286e65e9793": {
    "fingerprint": "95b5c27c140febac",
@@ -2190,6 +2310,16 @@
    "sport": "football",
    "team": "Picayune"
   },
+  "09/11/2026|softball|lrigby|laurelchristian|0fb36fe7-8c87-4246-bbd9-1a20ca5cc35e": {
+   "fingerprint": "291cccfa80a1edf3",
+   "first_reported": "2026-09-15T08:19:01-05:00",
+   "game_date": "09/11/2026",
+   "last_reported": "2026-09-15T08:19:01-05:00",
+   "player": "L. Rigby",
+   "reason_count": 1,
+   "sport": "softball",
+   "team": "Laurel Christian"
+  },
   "09/12/2026|volleyball|akeller|newalbany|4adc2645-8375-466d-85af-d3f64ffaef18": {
    "fingerprint": "2acbcbb9d35cbc51",
    "first_reported": "2026-09-14T08:17:01-05:00",
@@ -2219,8 +2349,38 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Ocean Springs"
+  },
+  "09/14/2026|volleyball|ahill|salem|3d853429-5129-45db-9cc6-df0369367871": {
+   "fingerprint": "45e4708049f629c1",
+   "first_reported": "2026-09-15T08:19:01-05:00",
+   "game_date": "09/14/2026",
+   "last_reported": "2026-09-15T08:19:01-05:00",
+   "player": "A. Hill",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Salem"
+  },
+  "09/14/2026|volleyball|aleflore|eastunion|6e901231-48be-4e85-903c-9f1de68475c3": {
+   "fingerprint": "881b4e169d6e8ad3",
+   "first_reported": "2026-09-15T08:19:01-05:00",
+   "game_date": "09/14/2026",
+   "last_reported": "2026-09-15T08:19:01-05:00",
+   "player": "A. LeFlore",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "East Union"
+  },
+  "09/14/2026|volleyball|jcarr|salem|3d853429-5129-45db-9cc6-df0369367871": {
+   "fingerprint": "13f0807c9771639c",
+   "first_reported": "2026-09-15T08:19:01-05:00",
+   "game_date": "09/14/2026",
+   "last_reported": "2026-09-15T08:19:01-05:00",
+   "player": "J. Carr",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Salem"
   }
  },
- "updated": "2026-09-14T08:17:01-05:00",
+ "updated": "2026-09-15T08:19:01-05:00",
  "version": 1
 }
