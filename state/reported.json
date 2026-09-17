@@ -2449,8 +2449,38 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Jackson Academy"
+  },
+  "09/15/2026|volleyball|ksorenson|desotocentral|09aec83b-4cdc-42a2-a7d6-c5255c65d35e": {
+   "fingerprint": "cacfc2970dda27bb",
+   "first_reported": "2026-09-17T07:48:51-05:00",
+   "game_date": "09/15/2026",
+   "last_reported": "2026-09-17T07:48:51-05:00",
+   "player": "K. Sorenson",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "DeSoto Central"
+  },
+  "09/15/2026|volleyball|smorgan|desotocentral|09aec83b-4cdc-42a2-a7d6-c5255c65d35e": {
+   "fingerprint": "b1a90cee62b542be",
+   "first_reported": "2026-09-17T07:48:51-05:00",
+   "game_date": "09/15/2026",
+   "last_reported": "2026-09-17T07:48:51-05:00",
+   "player": "S. Morgan",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "DeSoto Central"
+  },
+  "09/15/2026|volleyball|vbrown|walnut|685dff56-59dc-4f27-9eb1-b6d2bcde4e26": {
+   "fingerprint": "d7839d497a26e4af",
+   "first_reported": "2026-09-17T07:48:51-05:00",
+   "game_date": "09/15/2026",
+   "last_reported": "2026-09-17T07:48:51-05:00",
+   "player": "V. Brown",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Walnut"
   }
  },
- "updated": "2026-09-16T08:03:02-05:00",
+ "updated": "2026-09-17T07:48:51-05:00",
  "version": 1
 }
