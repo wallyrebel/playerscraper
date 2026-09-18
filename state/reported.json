@@ -2450,6 +2450,46 @@
    "sport": "volleyball",
    "team": "Jackson Academy"
   },
+  "09/15/2026|volleyball|aleflore|eastunion|4bca3b37-a87d-4aa0-b83b-234fb07367b4": {
+   "fingerprint": "b34ac04a0276325f",
+   "first_reported": "2026-09-18T07:55:55-05:00",
+   "game_date": "09/15/2026",
+   "last_reported": "2026-09-18T07:55:55-05:00",
+   "player": "A. LeFlore",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "East Union"
+  },
+  "09/15/2026|volleyball|amason|eupora|c5326012-801d-423b-9476-0e3c4c815247": {
+   "fingerprint": "95819e67a5734fc5",
+   "first_reported": "2026-09-18T07:55:55-05:00",
+   "game_date": "09/15/2026",
+   "last_reported": "2026-09-18T07:55:55-05:00",
+   "player": "A. Mason",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Eupora"
+  },
+  "09/15/2026|volleyball|gmccallum|myrtle|4bca3b37-a87d-4aa0-b83b-234fb07367b4": {
+   "fingerprint": "22affd389c611faf",
+   "first_reported": "2026-09-18T07:55:55-05:00",
+   "game_date": "09/15/2026",
+   "last_reported": "2026-09-18T07:55:55-05:00",
+   "player": "G. McCallum",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Myrtle"
+  },
+  "09/15/2026|volleyball|jlarabee|itawambaagricultural|673c7374-2856-4404-bc58-c569521b6866": {
+   "fingerprint": "95819e67a5734fc5",
+   "first_reported": "2026-09-18T07:55:55-05:00",
+   "game_date": "09/15/2026",
+   "last_reported": "2026-09-18T07:55:55-05:00",
+   "player": "J. Larabee",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Itawamba Agricultural"
+  },
   "09/15/2026|volleyball|ksorenson|desotocentral|09aec83b-4cdc-42a2-a7d6-c5255c65d35e": {
    "fingerprint": "cacfc2970dda27bb",
    "first_reported": "2026-09-17T07:48:51-05:00",
@@ -2459,6 +2499,26 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "DeSoto Central"
+  },
+  "09/15/2026|volleyball|mreso|hancock|7429f4fe-5859-4c7b-9ebc-22d160502bd4": {
+   "fingerprint": "2ddb95c0688a6dae",
+   "first_reported": "2026-09-18T07:55:55-05:00",
+   "game_date": "09/15/2026",
+   "last_reported": "2026-09-18T07:55:55-05:00",
+   "player": "M. Reso",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Hancock"
+  },
+  "09/15/2026|volleyball|rjohnson|eastunion|4bca3b37-a87d-4aa0-b83b-234fb07367b4": {
+   "fingerprint": "e41993776c76e45d",
+   "first_reported": "2026-09-18T07:55:55-05:00",
+   "game_date": "09/15/2026",
+   "last_reported": "2026-09-18T07:55:55-05:00",
+   "player": "R. Johnson",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "East Union"
   },
   "09/15/2026|volleyball|smorgan|desotocentral|09aec83b-4cdc-42a2-a7d6-c5255c65d35e": {
    "fingerprint": "b1a90cee62b542be",
@@ -2470,6 +2530,26 @@
    "sport": "volleyball",
    "team": "DeSoto Central"
   },
+  "09/15/2026|volleyball|statum|northwestrankin|dea515f0-3043-48d9-abb5-c5c33d77af2b": {
+   "fingerprint": "2e1ec9293fbf14b6",
+   "first_reported": "2026-09-18T07:55:55-05:00",
+   "game_date": "09/15/2026",
+   "last_reported": "2026-09-18T07:55:55-05:00",
+   "player": "S. Tatum",
+   "reason_count": 2,
+   "sport": "volleyball",
+   "team": "Northwest Rankin"
+  },
+  "09/15/2026|volleyball|staylor|northwestrankin|dea515f0-3043-48d9-abb5-c5c33d77af2b": {
+   "fingerprint": "b34ac04a0276325f",
+   "first_reported": "2026-09-18T07:55:55-05:00",
+   "game_date": "09/15/2026",
+   "last_reported": "2026-09-18T07:55:55-05:00",
+   "player": "S. Taylor",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Northwest Rankin"
+  },
   "09/15/2026|volleyball|vbrown|walnut|685dff56-59dc-4f27-9eb1-b6d2bcde4e26": {
    "fingerprint": "d7839d497a26e4af",
    "first_reported": "2026-09-17T07:48:51-05:00",
@@ -2479,8 +2559,28 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Walnut"
+  },
+  "09/15/2026|volleyball|zfloyd|booneville|355e0e34-d4bc-4303-b758-4a447197c983": {
+   "fingerprint": "af4de6db867ca74c",
+   "first_reported": "2026-09-18T07:55:55-05:00",
+   "game_date": "09/15/2026",
+   "last_reported": "2026-09-18T07:55:55-05:00",
+   "player": "Z. Floyd",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Booneville"
+  },
+  "09/17/2026|volleyball|jbell|scottcentral|07f9a0b7-3a42-49f4-81e3-53578273c20f": {
+   "fingerprint": "451f79db1bf897c5",
+   "first_reported": "2026-09-18T07:55:55-05:00",
+   "game_date": "09/17/2026",
+   "last_reported": "2026-09-18T07:55:55-05:00",
+   "player": "J. Bell",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Scott Central"
   }
  },
- "updated": "2026-09-17T07:48:51-05:00",
+ "updated": "2026-09-18T07:55:55-05:00",
  "version": 1
 }
