@@ -2570,6 +2570,56 @@
    "sport": "volleyball",
    "team": "Booneville"
   },
+  "09/17/2026|football|ccaston|foresthill|814c8518-f2a0-4740-8754-606ed7cf96f8": {
+   "fingerprint": "bdd320f5c6aed71b",
+   "first_reported": "2026-09-19T08:01:59-05:00",
+   "game_date": "09/17/2026",
+   "last_reported": "2026-09-19T08:01:59-05:00",
+   "player": "C. Caston",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Forest Hill"
+  },
+  "09/17/2026|football|mdotsonjr|foresthill|814c8518-f2a0-4740-8754-606ed7cf96f8": {
+   "fingerprint": "19cbc45e3c6632dd",
+   "first_reported": "2026-09-19T08:01:59-05:00",
+   "game_date": "09/17/2026",
+   "last_reported": "2026-09-19T08:01:59-05:00",
+   "player": "M. Dotson jr",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Forest Hill"
+  },
+  "09/17/2026|volleyball|akeller|newalbany|cd3d5ff4-e045-459e-b694-b11013f3247e": {
+   "fingerprint": "881b4e169d6e8ad3",
+   "first_reported": "2026-09-19T08:01:59-05:00",
+   "game_date": "09/17/2026",
+   "last_reported": "2026-09-19T08:01:59-05:00",
+   "player": "A. Keller",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "New Albany"
+  },
+  "09/17/2026|volleyball|ccraven|baldwyn|c248e6d0-1d5f-4c4a-a640-9c34fffbea37": {
+   "fingerprint": "881b4e169d6e8ad3",
+   "first_reported": "2026-09-19T08:01:59-05:00",
+   "game_date": "09/17/2026",
+   "last_reported": "2026-09-19T08:01:59-05:00",
+   "player": "C. Craven",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Baldwyn"
+  },
+  "09/17/2026|volleyball|ckelly|baldwyn|c248e6d0-1d5f-4c4a-a640-9c34fffbea37": {
+   "fingerprint": "723c99208fc8b13a",
+   "first_reported": "2026-09-19T08:01:59-05:00",
+   "game_date": "09/17/2026",
+   "last_reported": "2026-09-19T08:01:59-05:00",
+   "player": "C. Kelly",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Baldwyn"
+  },
   "09/17/2026|volleyball|jbell|scottcentral|07f9a0b7-3a42-49f4-81e3-53578273c20f": {
    "fingerprint": "451f79db1bf897c5",
    "first_reported": "2026-09-18T07:55:55-05:00",
@@ -2579,8 +2629,68 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Scott Central"
+  },
+  "09/18/2026|football|jgoodin|enterprise|670bc34a-b680-4fd3-a2a8-03450e15f1cc": {
+   "fingerprint": "f018d110c8a23450",
+   "first_reported": "2026-09-19T08:01:59-05:00",
+   "game_date": "09/18/2026",
+   "last_reported": "2026-09-19T08:01:59-05:00",
+   "player": "J. Goodin",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Enterprise"
+  },
+  "09/18/2026|football|jgoodwin|eastunion|90762a8c-5b34-4ef8-af64-faea20d340a1": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-09-19T08:01:59-05:00",
+   "game_date": "09/18/2026",
+   "last_reported": "2026-09-19T08:01:59-05:00",
+   "player": "J. Goodwin",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "East Union"
+  },
+  "09/18/2026|football|kwiggins|lewisburg|056dacef-6bd4-4b59-ae18-2b4e68e29c35": {
+   "fingerprint": "44002d9813b5f8e9",
+   "first_reported": "2026-09-19T08:01:59-05:00",
+   "game_date": "09/18/2026",
+   "last_reported": "2026-09-19T08:01:59-05:00",
+   "player": "K. Wiggins",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Lewisburg"
+  },
+  "09/18/2026|football|lstewart|calhounacademy|82a88e9d-0143-4954-a9da-8075394eeeeb": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-09-19T08:01:59-05:00",
+   "game_date": "09/18/2026",
+   "last_reported": "2026-09-19T08:01:59-05:00",
+   "player": "L. Stewart",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Calhoun Academy"
+  },
+  "09/18/2026|football|mtreadaway|eastunion|90762a8c-5b34-4ef8-af64-faea20d340a1": {
+   "fingerprint": "84799d8f763287d7",
+   "first_reported": "2026-09-19T08:01:59-05:00",
+   "game_date": "09/18/2026",
+   "last_reported": "2026-09-19T08:01:59-05:00",
+   "player": "M. Treadaway",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "East Union"
+  },
+  "09/18/2026|football|pspencer|loydstar|2607c161-b9b0-4312-a101-05ea51f43c6a": {
+   "fingerprint": "1c8ff16d94f35098",
+   "first_reported": "2026-09-19T08:01:59-05:00",
+   "game_date": "09/18/2026",
+   "last_reported": "2026-09-19T08:01:59-05:00",
+   "player": "P. Spencer",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Loyd Star"
   }
  },
- "updated": "2026-09-18T07:55:55-05:00",
+ "updated": "2026-09-19T08:01:59-05:00",
  "version": 1
 }
