@@ -3560,6 +3560,26 @@
    "sport": "volleyball",
    "team": "New Albany"
   },
+  "09/22/2026|volleyball|alofton|newtoncounty|ca92228f-973c-4787-afdf-b0ffb64db4ad": {
+   "fingerprint": "140037c58ea9a5c6",
+   "first_reported": "2026-09-25T07:55:15-05:00",
+   "game_date": "09/22/2026",
+   "last_reported": "2026-09-25T07:55:15-05:00",
+   "player": "A. Lofton",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Newton County"
+  },
+  "09/22/2026|volleyball|arussell|westunion|64ec3957-518d-49d7-b818-6c282340d4d8": {
+   "fingerprint": "d4b2ab051506b72b",
+   "first_reported": "2026-09-25T07:55:15-05:00",
+   "game_date": "09/22/2026",
+   "last_reported": "2026-09-25T07:55:15-05:00",
+   "player": "A. Russell",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "West Union"
+  },
   "09/22/2026|volleyball|bedmiston|oceansprings|00e466ff-9ee3-4bd1-a988-64542b4724bd": {
    "fingerprint": "2ddb95c0688a6dae",
    "first_reported": "2026-09-23T07:53:49-05:00",
@@ -3569,6 +3589,26 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Ocean Springs"
+  },
+  "09/22/2026|volleyball|clong|tupelo|f83cd29e-d62a-4117-9c0a-b1292dce7b54": {
+   "fingerprint": "13f0807c9771639c",
+   "first_reported": "2026-09-25T07:55:15-05:00",
+   "game_date": "09/22/2026",
+   "last_reported": "2026-09-25T07:55:15-05:00",
+   "player": "C. Long",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Tupelo"
+  },
+  "09/22/2026|volleyball|ekirkland|westunion|64ec3957-518d-49d7-b818-6c282340d4d8": {
+   "fingerprint": "be608bdc2233a04b",
+   "first_reported": "2026-09-25T07:55:15-05:00",
+   "game_date": "09/22/2026",
+   "last_reported": "2026-09-25T07:55:15-05:00",
+   "player": "E. Kirkland",
+   "reason_count": 2,
+   "sport": "volleyball",
+   "team": "West Union"
   },
   "09/22/2026|volleyball|ktrotter|caledonia|32a74630-09e4-4daa-8084-b74ea2d64b2a": {
    "fingerprint": "e6a070aed7a13cf1",
@@ -3630,6 +3670,16 @@
    "sport": "volleyball",
    "team": "Sumrall"
   },
+  "09/22/2026|volleyball|rbarbles|tupelo|f83cd29e-d62a-4117-9c0a-b1292dce7b54": {
+   "fingerprint": "41e7aa071bfd4331",
+   "first_reported": "2026-09-25T07:55:15-05:00",
+   "game_date": "09/22/2026",
+   "last_reported": "2026-09-25T07:55:15-05:00",
+   "player": "R. Barbles",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Tupelo"
+  },
   "09/22/2026|volleyball|rdedeaux|sumrall|f1f6fb40-3367-4d0d-b600-10ebab9da885": {
    "fingerprint": "19a80fe216cc57ad",
    "first_reported": "2026-09-24T07:49:37-05:00",
@@ -3649,8 +3699,28 @@
    "reason_count": 2,
    "sport": "volleyball",
    "team": "New Albany"
+  },
+  "09/22/2026|volleyball|vbrown|walnut|01cc5dc5-1186-4587-a927-0ffdedc81f7f": {
+   "fingerprint": "c1d4f6cb2321e76a",
+   "first_reported": "2026-09-25T07:55:15-05:00",
+   "game_date": "09/22/2026",
+   "last_reported": "2026-09-25T07:55:15-05:00",
+   "player": "V. Brown",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Walnut"
+  },
+  "09/24/2026|volleyball|amason|eupora|0d884fe1-b7a4-418a-86dc-998b5774a7fb": {
+   "fingerprint": "86c3ff021f9ca0bc",
+   "first_reported": "2026-09-25T07:55:15-05:00",
+   "game_date": "09/24/2026",
+   "last_reported": "2026-09-25T07:55:15-05:00",
+   "player": "A. Mason",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Eupora"
   }
  },
- "updated": "2026-09-24T07:49:37-05:00",
+ "updated": "2026-09-25T07:55:15-05:00",
  "version": 1
 }
