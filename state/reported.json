@@ -3540,6 +3540,16 @@
    "sport": "volleyball",
    "team": "East Union"
   },
+  "09/22/2026|volleyball|abrewer|resurrectioncatholic|1bd33265-62bc-4e03-ab5a-258f09fbec74": {
+   "fingerprint": "723c99208fc8b13a",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/22/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "A. Brewer",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Resurrection Catholic"
+  },
   "09/22/2026|volleyball|abright|newalbany|32a74630-09e4-4daa-8084-b74ea2d64b2a": {
    "fingerprint": "970bd82b846927c5",
    "first_reported": "2026-09-24T07:49:37-05:00",
@@ -3549,6 +3559,26 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "New Albany"
+  },
+  "09/22/2026|volleyball|ahenderson|oxford|7551e047-9092-431a-a55c-7b757e80ba15": {
+   "fingerprint": "22affd389c611faf",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/22/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "A. Henderson",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Oxford"
+  },
+  "09/22/2026|volleyball|ahoward|stpatrick|1bd33265-62bc-4e03-ab5a-258f09fbec74": {
+   "fingerprint": "881b4e169d6e8ad3",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/22/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "A. Howard",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "St. Patrick"
   },
   "09/22/2026|volleyball|akeller|newalbany|32a74630-09e4-4daa-8084-b74ea2d64b2a": {
    "fingerprint": "2acbcbb9d35cbc51",
@@ -3590,6 +3620,16 @@
    "sport": "volleyball",
    "team": "Ocean Springs"
   },
+  "09/22/2026|volleyball|cball|lafayette|892bf44d-a06a-43a8-8718-7f608884bad4": {
+   "fingerprint": "723c99208fc8b13a",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/22/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "C. Ball",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Lafayette"
+  },
   "09/22/2026|volleyball|clong|tupelo|f83cd29e-d62a-4117-9c0a-b1292dce7b54": {
    "fingerprint": "13f0807c9771639c",
    "first_reported": "2026-09-25T07:55:15-05:00",
@@ -3599,6 +3639,16 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Tupelo"
+  },
+  "09/22/2026|volleyball|cpulley|resurrectioncatholic|1bd33265-62bc-4e03-ab5a-258f09fbec74": {
+   "fingerprint": "2e465382ea14a180",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/22/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "C. Pulley",
+   "reason_count": 2,
+   "sport": "volleyball",
+   "team": "Resurrection Catholic"
   },
   "09/22/2026|volleyball|ekirkland|westunion|64ec3957-518d-49d7-b818-6c282340d4d8": {
    "fingerprint": "be608bdc2233a04b",
@@ -3610,6 +3660,26 @@
    "sport": "volleyball",
    "team": "West Union"
   },
+  "09/22/2026|volleyball|kables|brandon|c21cf381-01b1-4fbf-8c8d-778ca1b18c62": {
+   "fingerprint": "92396cd3f815fedd",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/22/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "K. Ables",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Brandon"
+  },
+  "09/22/2026|volleyball|kpavolini|ourladyacademy|c21cf381-01b1-4fbf-8c8d-778ca1b18c62": {
+   "fingerprint": "b34ac04a0276325f",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/22/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "K. Pavolini",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Our Lady Academy"
+  },
   "09/22/2026|volleyball|ktrotter|caledonia|32a74630-09e4-4daa-8084-b74ea2d64b2a": {
    "fingerprint": "e6a070aed7a13cf1",
    "first_reported": "2026-09-24T07:49:37-05:00",
@@ -3619,6 +3689,16 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Caledonia"
+  },
+  "09/22/2026|volleyball|llumbrerasgomez|stpatrick|1bd33265-62bc-4e03-ab5a-258f09fbec74": {
+   "fingerprint": "140037c58ea9a5c6",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/22/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "L. Lumbreras Gomez",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "St. Patrick"
   },
   "09/22/2026|volleyball|mdowney|caledonia|32a74630-09e4-4daa-8084-b74ea2d64b2a": {
    "fingerprint": "970bd82b846927c5",
@@ -3710,6 +3790,36 @@
    "sport": "volleyball",
    "team": "Walnut"
   },
+  "09/24/2026|volleyball|aclifton|pottscamp|21de83b8-741d-488e-9a31-a166b434ecf4": {
+   "fingerprint": "df289f9fc29dc509",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/24/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "A. Clifton",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Potts Camp"
+  },
+  "09/24/2026|volleyball|aduckworth|alcorncentral|c455d1af-7e95-4c4b-a1ea-ddd18910404e": {
+   "fingerprint": "22affd389c611faf",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/24/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "A. Duckworth",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Alcorn Central"
+  },
+  "09/24/2026|volleyball|ahopkins|kossuth|d64c12dc-fc6b-41e8-8c28-2b50a00b47fe": {
+   "fingerprint": "03034b21d5cdf82e",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/24/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "A. Hopkins",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Kossuth"
+  },
   "09/24/2026|volleyball|amason|eupora|0d884fe1-b7a4-418a-86dc-998b5774a7fb": {
    "fingerprint": "86c3ff021f9ca0bc",
    "first_reported": "2026-09-25T07:55:15-05:00",
@@ -3719,8 +3829,158 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Eupora"
+  },
+  "09/24/2026|volleyball|arobinson|pottscamp|21de83b8-741d-488e-9a31-a166b434ecf4": {
+   "fingerprint": "cadfbee940dad209",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/24/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "A. Robinson",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Potts Camp"
+  },
+  "09/24/2026|volleyball|arowland|hickoryflat|21de83b8-741d-488e-9a31-a166b434ecf4": {
+   "fingerprint": "2acbcbb9d35cbc51",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/24/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "A. Rowland",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Hickory Flat"
+  },
+  "09/24/2026|volleyball|cball|lafayette|8b6f19e6-becf-45c7-817f-133dd473d706": {
+   "fingerprint": "881b4e169d6e8ad3",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/24/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "C. Ball",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Lafayette"
+  },
+  "09/24/2026|volleyball|khooks|eastcentral|10b0554d-83b8-4765-857c-5084495615b1": {
+   "fingerprint": "15b861cdaebbf19a",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/24/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "K. Hooks",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "East Central"
+  },
+  "09/24/2026|volleyball|lgerrie|eastcentral|10b0554d-83b8-4765-857c-5084495615b1": {
+   "fingerprint": "d07a2ece0da92282",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/24/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "L. Gerrie",
+   "reason_count": 2,
+   "sport": "volleyball",
+   "team": "East Central"
+  },
+  "09/24/2026|volleyball|lsanders|kosciusko|c513b697-2c06-4540-9485-91d5a9f2fc5b": {
+   "fingerprint": "95819e67a5734fc5",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/24/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "L. Sanders",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Kosciusko"
+  },
+  "09/24/2026|volleyball|mrolison|walnut|42ccb105-795b-49d2-aa2d-eb6082571d4b": {
+   "fingerprint": "b34ac04a0276325f",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/24/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "M. Rolison",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Walnut"
+  },
+  "09/24/2026|volleyball|rdedeaux|sumrall|f56c9e61-e4fd-4f41-ba40-ef63200c2eee": {
+   "fingerprint": "b34ac04a0276325f",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/24/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "R. Dedeaux",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Sumrall"
+  },
+  "09/24/2026|volleyball|vbrown|walnut|42ccb105-795b-49d2-aa2d-eb6082571d4b": {
+   "fingerprint": "946093a8f46596f8",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/24/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "V. Brown",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Walnut"
+  },
+  "09/24/2026|volleyball|zclark|pottscamp|21de83b8-741d-488e-9a31-a166b434ecf4": {
+   "fingerprint": "140037c58ea9a5c6",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/24/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "Z. Clark",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Potts Camp"
+  },
+  "09/25/2026|football|calexander|rosafort|f212c964-c35b-444f-8f86-31edb8ee444e": {
+   "fingerprint": "bdf3502adf353f13",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/25/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "C. Alexander",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Rosa Fort"
+  },
+  "09/25/2026|football|dmcdonald|morton|95de85d3-e104-4320-b3a2-d90a40bfacd3": {
+   "fingerprint": "afda02b9d4281910",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/25/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "D. Mcdonald",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Morton"
+  },
+  "09/25/2026|football|jstowers|morton|95de85d3-e104-4320-b3a2-d90a40bfacd3": {
+   "fingerprint": "e025f7d0845f7e83",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/25/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "J. Stowers",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Morton"
+  },
+  "09/25/2026|football|tfortenberry|loydstar|dcb7167a-3afb-46e2-84d7-efc1bae7ead1": {
+   "fingerprint": "fa3f434ef80d6b98",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/25/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "T. Fortenberry",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Loyd Star"
+  },
+  "09/25/2026|football|wbutler|lewisburg|58972954-fbcc-4715-8bb2-43396046688e": {
+   "fingerprint": "0dbe9658ad02f236",
+   "first_reported": "2026-09-26T08:01:19-05:00",
+   "game_date": "09/25/2026",
+   "last_reported": "2026-09-26T08:01:19-05:00",
+   "player": "W. Butler",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Lewisburg"
   }
  },
- "updated": "2026-09-25T07:55:15-05:00",
+ "updated": "2026-09-26T08:01:19-05:00",
  "version": 1
 }
