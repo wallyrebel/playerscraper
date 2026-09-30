@@ -4990,6 +4990,76 @@
    "sport": "softball",
    "team": "Lamar Christian"
   },
+  "09/28/2026|volleyball|acraft|jacksonacademy|e892702e-3774-4769-84a5-56654ec67701": {
+   "fingerprint": "95d2e9160b5ea4cd",
+   "first_reported": "2026-09-30T07:58:42-05:00",
+   "game_date": "09/28/2026",
+   "last_reported": "2026-09-30T07:58:42-05:00",
+   "player": "A. Craft",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Jackson Academy"
+  },
+  "09/28/2026|volleyball|aleflore|eastunion|74e04f1f-29d1-4707-856c-685af8d35718": {
+   "fingerprint": "881b4e169d6e8ad3",
+   "first_reported": "2026-09-30T07:58:42-05:00",
+   "game_date": "09/28/2026",
+   "last_reported": "2026-09-30T07:58:42-05:00",
+   "player": "A. LeFlore",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "East Union"
+  },
+  "09/28/2026|volleyball|alindsay|jacksonacademy|e892702e-3774-4769-84a5-56654ec67701": {
+   "fingerprint": "92396cd3f815fedd",
+   "first_reported": "2026-09-30T07:58:42-05:00",
+   "game_date": "09/28/2026",
+   "last_reported": "2026-09-30T07:58:42-05:00",
+   "player": "A. Lindsay",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Jackson Academy"
+  },
+  "09/28/2026|volleyball|awillis|stone|d0e0ad06-d3d6-4888-8aad-c6f8b87168f4": {
+   "fingerprint": "bb4b8513d2b2380b",
+   "first_reported": "2026-09-30T07:58:42-05:00",
+   "game_date": "09/28/2026",
+   "last_reported": "2026-09-30T07:58:42-05:00",
+   "player": "A. Willis",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Stone"
+  },
+  "09/28/2026|volleyball|ccaraway|jacksonacademy|e892702e-3774-4769-84a5-56654ec67701": {
+   "fingerprint": "2acbcbb9d35cbc51",
+   "first_reported": "2026-09-30T07:58:42-05:00",
+   "game_date": "09/28/2026",
+   "last_reported": "2026-09-30T07:58:42-05:00",
+   "player": "C. Caraway",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Jackson Academy"
+  },
+  "09/28/2026|volleyball|dbreanna|northeastjones|30f1bb6b-54f1-4e12-8d3e-c16b7ac84586": {
+   "fingerprint": "2ddb95c0688a6dae",
+   "first_reported": "2026-09-30T07:58:42-05:00",
+   "game_date": "09/28/2026",
+   "last_reported": "2026-09-30T07:58:42-05:00",
+   "player": "D. Breanna",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Northeast Jones"
+  },
+  "09/28/2026|volleyball|lreeves|stone|d0e0ad06-d3d6-4888-8aad-c6f8b87168f4": {
+   "fingerprint": "d4b2ab051506b72b",
+   "first_reported": "2026-09-30T07:58:42-05:00",
+   "game_date": "09/28/2026",
+   "last_reported": "2026-09-30T07:58:42-05:00",
+   "player": "L. Reeves",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Stone"
+  },
   "09/28/2026|volleyball|rbarbles|tupelo|b7118a3e-9b2b-4457-af37-05b378158c6c": {
    "fingerprint": "451f79db1bf897c5",
    "first_reported": "2026-09-29T08:12:52-05:00",
@@ -4999,8 +5069,18 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Tupelo"
+  },
+  "09/29/2026|volleyball|lbrowning|tupelo|6e0c3ebe-4e3f-4180-93fe-f90945ed2151": {
+   "fingerprint": "ce59c06839ca0e67",
+   "first_reported": "2026-09-30T07:58:42-05:00",
+   "game_date": "09/29/2026",
+   "last_reported": "2026-09-30T07:58:42-05:00",
+   "player": "L. Browning",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Tupelo"
   }
  },
- "updated": "2026-09-29T08:12:52-05:00",
+ "updated": "2026-09-30T07:58:42-05:00",
  "version": 1
 }
