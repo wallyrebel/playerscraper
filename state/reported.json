@@ -5190,6 +5190,136 @@
    "sport": "volleyball",
    "team": "Resurrection Catholic"
   },
+  "10/01/2026|football|ajackson|southjones|01b9b255-33ec-43df-b5f5-70345aec7883": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/01/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "A. Jackson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "South Jones"
+  },
+  "10/01/2026|football|bconley|eupora|0a2fb24f-ef9a-4393-bd0b-a551b76ecbc2": {
+   "fingerprint": "59647e7319933548",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/01/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "B. Conley",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Eupora"
+  },
+  "10/01/2026|football|cpass|pontotoc|0342b46e-dece-4524-9a7f-25d038c137ed": {
+   "fingerprint": "b4279eb33da2f2e7",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/01/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "C. Pass",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pontotoc"
+  },
+  "10/01/2026|football|dgary|eupora|0a2fb24f-ef9a-4393-bd0b-a551b76ecbc2": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/01/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "D. Gary",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Eupora"
+  },
+  "10/01/2026|football|dsullivan|stmartin|98862441-9ddf-4e03-b6b3-7186600c4efe": {
+   "fingerprint": "31c46af855cf6686",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/01/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "D. Sullivan",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "St. Martin"
+  },
+  "10/01/2026|football|egraves|westmarion|a83920f5-bd29-4617-9257-8a55db723b5c": {
+   "fingerprint": "0dbe9658ad02f236",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/01/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "E. Graves",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "West Marion"
+  },
+  "10/01/2026|football|jdavis|choctawcounty|4a48e1b2-f001-4847-b436-9e71a2dcfc1e": {
+   "fingerprint": "89c1e66c36922e3d",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/01/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "J. Davis",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Choctaw County"
+  },
+  "10/01/2026|football|jthomas|gulfport|4750b430-266d-4e8f-8ffb-bfd063dbdd50": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/01/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "J. Thomas",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Gulfport"
+  },
+  "10/01/2026|football|lmallard|mccomb|1f60df5c-a17d-40b8-91d1-6a3a19fea342": {
+   "fingerprint": "d97a7aad10a0f4b8",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/01/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "L. Mallard",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "McComb"
+  },
+  "10/01/2026|football|lthompson|tylertown|a83920f5-bd29-4617-9257-8a55db723b5c": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/01/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "L. Thompson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Tylertown"
+  },
+  "10/01/2026|football|sisaac|mccomb|1f60df5c-a17d-40b8-91d1-6a3a19fea342": {
+   "fingerprint": "e0e3c9c63adc0f80",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/01/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "S. Isaac",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "McComb"
+  },
+  "10/01/2026|football|tdavis|mccomb|1f60df5c-a17d-40b8-91d1-6a3a19fea342": {
+   "fingerprint": "b916552a68698dfe",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/01/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "T. Davis",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "McComb"
+  },
+  "10/01/2026|volleyball|ckelly|baldwyn|274a9e19-4c01-40a1-9729-7cd8332fdf73": {
+   "fingerprint": "970bd82b846927c5",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/01/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "C. Kelly",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Baldwyn"
+  },
   "10/01/2026|volleyball|lmay|hartfieldacademy|1d7e7bfd-57a1-487c-9cf3-8fbb5747574f": {
    "fingerprint": "95819e67a5734fc5",
    "first_reported": "2026-10-02T07:59:05-05:00",
@@ -5199,8 +5329,68 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Hartfield Academy"
+  },
+  "10/01/2026|volleyball|lwells|poplarville|c97d7cca-4a53-4bee-a9c1-61ffb4edced7": {
+   "fingerprint": "c1d4f6cb2321e76a",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/01/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "L. Wells",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Poplarville"
+  },
+  "10/01/2026|volleyball|mjones|forest|aaf509f7-1182-49a1-8b2d-3b9144418428": {
+   "fingerprint": "af4de6db867ca74c",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/01/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "M. Jones",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Forest"
+  },
+  "10/02/2026|football|jstowers|morton|7c2e5004-6c17-42f5-90a0-867fb492954f": {
+   "fingerprint": "94e2c6009a6e8368",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/02/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "J. Stowers",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Morton"
+  },
+  "10/02/2026|football|kbradley|staloysius|a8ae97ef-7aa8-4b8c-86c0-7058b456dec5": {
+   "fingerprint": "23fef0a69824b7f8",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/02/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "K. Bradley",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "St. Aloysius"
+  },
+  "10/02/2026|football|mhargrave|staloysius|a8ae97ef-7aa8-4b8c-86c0-7058b456dec5": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/02/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "M. Hargrave",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "St. Aloysius"
+  },
+  "10/02/2026|football|tfortenberry|loydstar|fa92d4ad-5f2b-4248-bae9-23902706aa80": {
+   "fingerprint": "e058076bf29417b9",
+   "first_reported": "2026-10-03T09:26:45-05:00",
+   "game_date": "10/02/2026",
+   "last_reported": "2026-10-03T09:26:45-05:00",
+   "player": "T. Fortenberry",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Loyd Star"
   }
  },
- "updated": "2026-10-02T07:59:05-05:00",
+ "updated": "2026-10-03T09:26:45-05:00",
  "version": 1
 }
