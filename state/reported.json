@@ -5460,6 +5460,16 @@
    "sport": "football",
    "team": "Wesson"
   },
+  "10/02/2026|football|choskins|obannon|83c6a4f3-d113-4aa8-8d26-c578fb42119d": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-10-06T08:02:29-05:00",
+   "game_date": "10/02/2026",
+   "last_reported": "2026-10-06T08:02:29-05:00",
+   "player": "C. Hoskins",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "O'Bannon"
+  },
   "10/02/2026|football|chunt|tricountyacademy|1b32a9d2-743d-4f4d-90bf-60a085cdb2f8": {
    "fingerprint": "1fbf5b4c03933fca",
    "first_reported": "2026-10-05T08:13:27-05:00",
@@ -5610,6 +5620,16 @@
    "sport": "football",
    "team": "DeSoto Central"
   },
+  "10/02/2026|football|jsmith|wayneacademy|fd1d7804-1f61-476d-82da-7d46aaafa3b1": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-10-06T08:02:29-05:00",
+   "game_date": "10/02/2026",
+   "last_reported": "2026-10-06T08:02:29-05:00",
+   "player": "J. Smith",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Wayne Academy"
+  },
   "10/02/2026|football|jstowers|morton|7c2e5004-6c17-42f5-90a0-867fb492954f": {
    "fingerprint": "94e2c6009a6e8368",
    "first_reported": "2026-10-03T09:26:45-05:00",
@@ -5650,6 +5670,16 @@
    "sport": "football",
    "team": "McAdams"
   },
+  "10/02/2026|football|kbailey|lanier|985a51a2-8db8-4669-8cd4-52eb19feed09": {
+   "fingerprint": "f09b42d3fc4b83fd",
+   "first_reported": "2026-10-06T08:02:29-05:00",
+   "game_date": "10/02/2026",
+   "last_reported": "2026-10-06T08:02:29-05:00",
+   "player": "K. Bailey",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Lanier"
+  },
   "10/02/2026|football|kbradley|staloysius|a8ae97ef-7aa8-4b8c-86c0-7058b456dec5": {
    "fingerprint": "23fef0a69824b7f8",
    "first_reported": "2026-10-03T09:26:45-05:00",
@@ -5689,6 +5719,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Starkville Academy"
+  },
+  "10/02/2026|football|lyoung|faithchristianhomeschoolacademy|edae2455-b13e-4f8f-ad1c-32cbeb5dd366": {
+   "fingerprint": "8eb3aa4710e40631",
+   "first_reported": "2026-10-06T08:02:29-05:00",
+   "game_date": "10/02/2026",
+   "last_reported": "2026-10-06T08:02:29-05:00",
+   "player": "L. Young",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Faith Christian HomeSchool Academy"
   },
   "10/02/2026|football|mchamberlin|kempercounty|8da1b468-032e-499d-9732-6132e79aec9e": {
    "fingerprint": "dc2296fb1bdf36f1",
@@ -5840,6 +5880,16 @@
    "sport": "football",
    "team": "Winona"
   },
+  "10/02/2026|football|zbenson|obannon|83c6a4f3-d113-4aa8-8d26-c578fb42119d": {
+   "fingerprint": "da3a7506ee39134b",
+   "first_reported": "2026-10-06T08:02:29-05:00",
+   "game_date": "10/02/2026",
+   "last_reported": "2026-10-06T08:02:29-05:00",
+   "player": "Z. Benson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "O'Bannon"
+  },
   "10/03/2026|volleyball|kburt|baldwyn|810c5c41-b1ba-4553-b13a-8b5fea30d279": {
    "fingerprint": "ce59c06839ca0e67",
    "first_reported": "2026-10-05T08:13:27-05:00",
@@ -5849,8 +5899,18 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Baldwyn"
+  },
+  "10/03/2026|volleyball|kreese|newsite|65f55bfc-fa5e-4c05-b7e2-62f4eb7c2624": {
+   "fingerprint": "6680ca7be825262a",
+   "first_reported": "2026-10-06T08:02:29-05:00",
+   "game_date": "10/03/2026",
+   "last_reported": "2026-10-06T08:02:29-05:00",
+   "player": "K. Reese",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "New Site"
   }
  },
- "updated": "2026-10-05T08:13:27-05:00",
+ "updated": "2026-10-06T08:02:29-05:00",
  "version": 1
 }
