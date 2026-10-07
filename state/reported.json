@@ -5909,8 +5909,48 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "New Site"
+  },
+  "10/05/2026|softball|gblackwell|laurelchristian|2f24f2cc-4c08-4340-abef-685ad3d5daa2": {
+   "fingerprint": "a64c17f453b47b73",
+   "first_reported": "2026-10-07T07:51:25-05:00",
+   "game_date": "10/05/2026",
+   "last_reported": "2026-10-07T07:51:25-05:00",
+   "player": "G. Blackwell",
+   "reason_count": 1,
+   "sport": "softball",
+   "team": "Laurel Christian"
+  },
+  "10/05/2026|softball|lrigby|laurelchristian|2f24f2cc-4c08-4340-abef-685ad3d5daa2": {
+   "fingerprint": "291cccfa80a1edf3",
+   "first_reported": "2026-10-07T07:51:25-05:00",
+   "game_date": "10/05/2026",
+   "last_reported": "2026-10-07T07:51:25-05:00",
+   "player": "L. Rigby",
+   "reason_count": 1,
+   "sport": "softball",
+   "team": "Laurel Christian"
+  },
+  "10/05/2026|volleyball|rjohnson|eastunion|20ca3a57-75e2-443c-b899-a6ebd919406e": {
+   "fingerprint": "95819e67a5734fc5",
+   "first_reported": "2026-10-07T07:51:25-05:00",
+   "game_date": "10/05/2026",
+   "last_reported": "2026-10-07T07:51:25-05:00",
+   "player": "R. Johnson",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "East Union"
+  },
+  "10/06/2026|volleyball|ccaraway|jacksonacademy|a7d42459-c594-4371-9633-9916df71d400": {
+   "fingerprint": "19a80fe216cc57ad",
+   "first_reported": "2026-10-07T07:51:25-05:00",
+   "game_date": "10/06/2026",
+   "last_reported": "2026-10-07T07:51:25-05:00",
+   "player": "C. Caraway",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Jackson Academy"
   }
  },
- "updated": "2026-10-06T08:02:29-05:00",
+ "updated": "2026-10-07T07:51:25-05:00",
  "version": 1
 }
