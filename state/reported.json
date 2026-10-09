@@ -5989,8 +5989,118 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Hernando"
+  },
+  "10/08/2026|football|afarve|hancock|8abd5828-555d-4d9b-8b48-0ae0fe251acf": {
+   "fingerprint": "08ae5343f02aaf1a",
+   "first_reported": "2026-10-09T07:50:25-05:00",
+   "game_date": "10/08/2026",
+   "last_reported": "2026-10-09T07:50:25-05:00",
+   "player": "A. Farve",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Hancock"
+  },
+  "10/08/2026|football|blaneaux|passchristian|b4e63cda-4b5a-4d5b-aa98-ce8bba3ba380": {
+   "fingerprint": "f427c3dbfa81a128",
+   "first_reported": "2026-10-09T07:50:25-05:00",
+   "game_date": "10/08/2026",
+   "last_reported": "2026-10-09T07:50:25-05:00",
+   "player": "B. Laneaux",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pass Christian"
+  },
+  "10/08/2026|football|dwilliams|gulfport|7f9528ef-28a8-45be-9fb3-166f447b5f87": {
+   "fingerprint": "da3a7506ee39134b",
+   "first_reported": "2026-10-09T07:50:25-05:00",
+   "game_date": "10/08/2026",
+   "last_reported": "2026-10-09T07:50:25-05:00",
+   "player": "D. Williams",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Gulfport"
+  },
+  "10/08/2026|football|jbarnes|natchez|633e6db5-5e5b-4837-86a6-e1c27b28a97d": {
+   "fingerprint": "029881de81f453b7",
+   "first_reported": "2026-10-09T07:50:25-05:00",
+   "game_date": "10/08/2026",
+   "last_reported": "2026-10-09T07:50:25-05:00",
+   "player": "J. Barnes",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Natchez"
+  },
+  "10/08/2026|football|jwedgeworth|hancock|8abd5828-555d-4d9b-8b48-0ae0fe251acf": {
+   "fingerprint": "57fc93ce2586fa2a",
+   "first_reported": "2026-10-09T07:50:25-05:00",
+   "game_date": "10/08/2026",
+   "last_reported": "2026-10-09T07:50:25-05:00",
+   "player": "J. Wedgeworth",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Hancock"
+  },
+  "10/08/2026|football|kmorgan|natchez|633e6db5-5e5b-4837-86a6-e1c27b28a97d": {
+   "fingerprint": "275a041ab3575bb5",
+   "first_reported": "2026-10-09T07:50:25-05:00",
+   "game_date": "10/08/2026",
+   "last_reported": "2026-10-09T07:50:25-05:00",
+   "player": "K. Morgan",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Natchez"
+  },
+  "10/08/2026|football|ptrivillion|passchristian|b4e63cda-4b5a-4d5b-aa98-ce8bba3ba380": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-10-09T07:50:25-05:00",
+   "game_date": "10/08/2026",
+   "last_reported": "2026-10-09T07:50:25-05:00",
+   "player": "P. Trivillion",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pass Christian"
+  },
+  "10/08/2026|football|rgreen|diberville|8f7d58fd-fdcc-4fe5-9f31-a3f99f0f398a": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-10-09T07:50:25-05:00",
+   "game_date": "10/08/2026",
+   "last_reported": "2026-10-09T07:50:25-05:00",
+   "player": "R. Green",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "D'Iberville"
+  },
+  "10/08/2026|football|tprimer|choctawcentral|b4819432-89c8-4f0d-8fcf-64494f0dff33": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-10-09T07:50:25-05:00",
+   "game_date": "10/08/2026",
+   "last_reported": "2026-10-09T07:50:25-05:00",
+   "player": "T. Primer",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Choctaw Central"
+  },
+  "10/08/2026|volleyball|alindsay|jacksonacademy|bd90d71d-f17c-4ec4-b761-d3b6ff12aa6c": {
+   "fingerprint": "92396cd3f815fedd",
+   "first_reported": "2026-10-09T07:50:25-05:00",
+   "game_date": "10/08/2026",
+   "last_reported": "2026-10-09T07:50:25-05:00",
+   "player": "A. Lindsay",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Jackson Academy"
+  },
+  "10/08/2026|volleyball|ccaraway|jacksonacademy|bd90d71d-f17c-4ec4-b761-d3b6ff12aa6c": {
+   "fingerprint": "df289f9fc29dc509",
+   "first_reported": "2026-10-09T07:50:25-05:00",
+   "game_date": "10/08/2026",
+   "last_reported": "2026-10-09T07:50:25-05:00",
+   "player": "C. Caraway",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Jackson Academy"
   }
  },
- "updated": "2026-10-08T07:47:41-05:00",
+ "updated": "2026-10-09T07:50:25-05:00",
  "version": 1
 }
