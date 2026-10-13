@@ -6490,6 +6490,16 @@
    "sport": "football",
    "team": "South Jones"
   },
+  "10/09/2026|football|bmcwilliams|hartfieldacademy|40e24681-a9bc-4604-b027-8faffa25b22f": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-10-13T07:57:37-05:00",
+   "game_date": "10/09/2026",
+   "last_reported": "2026-10-13T07:57:37-05:00",
+   "player": "B. McWilliams",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Hartfield Academy"
+  },
   "10/09/2026|football|brobbins|wesson|5da14eb9-ea65-4b4e-a197-586f1193c265": {
    "fingerprint": "bff0013ccec64bc1",
    "first_reported": "2026-10-12T08:20:22-05:00",
@@ -6499,6 +6509,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Wesson"
+  },
+  "10/09/2026|football|btempleton|starkvilleacademy|6590e626-189a-4b5b-89b5-e31dc761ffbb": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-10-13T07:57:37-05:00",
+   "game_date": "10/09/2026",
+   "last_reported": "2026-10-13T07:57:37-05:00",
+   "player": "B. Templeton",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Starkville Academy"
   },
   "10/09/2026|football|cboyd|florence|f4953534-0b03-433c-b314-b21eb23e5fae": {
    "fingerprint": "9ac3d9e8216ff223",
@@ -6519,6 +6539,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Mendenhall"
+  },
+  "10/09/2026|football|cloden|starkvilleacademy|6590e626-189a-4b5b-89b5-e31dc761ffbb": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-10-13T07:57:37-05:00",
+   "game_date": "10/09/2026",
+   "last_reported": "2026-10-13T07:57:37-05:00",
+   "player": "C. Loden",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Starkville Academy"
   },
   "10/09/2026|football|creed|terry|23ba08f0-4768-48ab-9e20-f4e335afb6b2": {
    "fingerprint": "bdd320f5c6aed71b",
@@ -6550,6 +6580,16 @@
    "sport": "football",
    "team": "Neshoba Central"
   },
+  "10/09/2026|football|dburkhalter|noxubeecounty|667310bc-7ff3-4715-94e9-e7276766e128": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-10-13T07:57:37-05:00",
+   "game_date": "10/09/2026",
+   "last_reported": "2026-10-13T07:57:37-05:00",
+   "player": "D. Burkhalter",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Noxubee County"
+  },
   "10/09/2026|football|ddean|tupelo|f62a6e42-3f00-47aa-9b92-e94957f2259b": {
    "fingerprint": "64e564bcbc50cbab",
    "first_reported": "2026-10-11T07:54:54-05:00",
@@ -6559,6 +6599,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Tupelo"
+  },
+  "10/09/2026|football|dmcpipe|amitecounty|43e607e8-cf2b-4204-b9a5-df80663ab118": {
+   "fingerprint": "4c732f7941b5d7b1",
+   "first_reported": "2026-10-13T07:57:37-05:00",
+   "game_date": "10/09/2026",
+   "last_reported": "2026-10-13T07:57:37-05:00",
+   "player": "D. McPipe",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Amite County"
   },
   "10/09/2026|football|ebailey|washington|152a2fd9-17eb-4d48-b995-477cf92d311c": {
    "fingerprint": "43fd21e3b40175b6",
@@ -6610,6 +6660,16 @@
    "sport": "football",
    "team": "Enterprise"
   },
+  "10/09/2026|football|jgoodwin|noxubeecounty|667310bc-7ff3-4715-94e9-e7276766e128": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-10-13T07:57:37-05:00",
+   "game_date": "10/09/2026",
+   "last_reported": "2026-10-13T07:57:37-05:00",
+   "player": "J. Goodwin",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Noxubee County"
+  },
   "10/09/2026|football|jlong|bruce|9d2ba97c-7dc7-4746-9cdf-54da8c0c37a4": {
    "fingerprint": "38c9db7b38baf72d",
    "first_reported": "2026-10-11T07:54:54-05:00",
@@ -6630,6 +6690,26 @@
    "sport": "football",
    "team": "DeSoto Central"
   },
+  "10/09/2026|football|jshields|booneville|431672a3-001e-49e1-9f5c-5352ca0c283f": {
+   "fingerprint": "bff0013ccec64bc1",
+   "first_reported": "2026-10-13T07:57:37-05:00",
+   "game_date": "10/09/2026",
+   "last_reported": "2026-10-13T07:57:37-05:00",
+   "player": "J. Shields",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Booneville"
+  },
+  "10/09/2026|football|jtaylor|alcorncentral|3b75a763-08f9-469d-b493-934b92f679c9": {
+   "fingerprint": "95b5c27c140febac",
+   "first_reported": "2026-10-13T07:57:37-05:00",
+   "game_date": "10/09/2026",
+   "last_reported": "2026-10-13T07:57:37-05:00",
+   "player": "J. Taylor",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Alcorn Central"
+  },
   "10/09/2026|football|jteasley|copiahacademy|1240f144-41c9-4ab7-b926-3c39ec35bdf3": {
    "fingerprint": "64e564bcbc50cbab",
    "first_reported": "2026-10-12T08:20:22-05:00",
@@ -6649,6 +6729,16 @@
    "reason_count": 2,
    "sport": "football",
    "team": "Leake Academy"
+  },
+  "10/09/2026|football|mdeason|enterprise|362efce9-a348-49e0-96f3-49fd23616494": {
+   "fingerprint": "da3a7506ee39134b",
+   "first_reported": "2026-10-13T07:57:37-05:00",
+   "game_date": "10/09/2026",
+   "last_reported": "2026-10-13T07:57:37-05:00",
+   "player": "M. Deason",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Enterprise"
   },
   "10/09/2026|football|mowens|baysprings|362efce9-a348-49e0-96f3-49fd23616494": {
    "fingerprint": "86c4c769f656113a",
@@ -6690,6 +6780,16 @@
    "sport": "football",
    "team": "Canton Academy"
   },
+  "10/09/2026|football|santhony|desotocentral|8ec425bb-361e-46b0-9f9d-bc09d98c2ee4": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-10-13T07:57:37-05:00",
+   "game_date": "10/09/2026",
+   "last_reported": "2026-10-13T07:57:37-05:00",
+   "player": "S. ANTHONY",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "DeSoto Central"
+  },
   "10/09/2026|football|smcbeath|germantown|1b6353e7-f5b2-42fa-b1f9-5239f6af0be9": {
    "fingerprint": "bff0013ccec64bc1",
    "first_reported": "2026-10-10T07:57:09-05:00",
@@ -6710,6 +6810,16 @@
    "sport": "football",
    "team": "Richland"
   },
+  "10/09/2026|football|twhitten|alcorncentral|3b75a763-08f9-469d-b493-934b92f679c9": {
+   "fingerprint": "21f57d2785616086",
+   "first_reported": "2026-10-13T07:57:37-05:00",
+   "game_date": "10/09/2026",
+   "last_reported": "2026-10-13T07:57:37-05:00",
+   "player": "T. Whitten",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Alcorn Central"
+  },
   "10/09/2026|football|wwilliams|kemperacademy|e68217dc-5612-4f8e-aa2c-f49380d774cd": {
    "fingerprint": "dcd6b11f00ef3f18",
    "first_reported": "2026-10-10T07:57:09-05:00",
@@ -6720,6 +6830,16 @@
    "sport": "football",
    "team": "Kemper Academy"
   },
+  "10/09/2026|football|yhudson|winona|667310bc-7ff3-4715-94e9-e7276766e128": {
+   "fingerprint": "8ea6a6eb39436c51",
+   "first_reported": "2026-10-13T07:57:37-05:00",
+   "game_date": "10/09/2026",
+   "last_reported": "2026-10-13T07:57:37-05:00",
+   "player": "Y. Hudson",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Winona"
+  },
   "10/09/2026|football|zjernigan|louisville|44cf09e3-22b7-4378-b5d6-627f22dbd39a": {
    "fingerprint": "1fbf5b4c03933fca",
    "first_reported": "2026-10-12T08:20:22-05:00",
@@ -6729,6 +6849,16 @@
    "reason_count": 2,
    "sport": "football",
    "team": "Louisville"
+  },
+  "10/09/2026|football|znapier|quitman|a31e33d0-e567-4904-b39c-9b42b2b9bda7": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-10-13T07:57:37-05:00",
+   "game_date": "10/09/2026",
+   "last_reported": "2026-10-13T07:57:37-05:00",
+   "player": "Z. Napier",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Quitman"
   },
   "10/10/2026|football|eparker|sahe|a7063358-82a0-42d1-bd15-dff63cec5037": {
    "fingerprint": "84eacf01a2bb9c61",
@@ -6751,6 +6881,6 @@
    "team": "SAHE"
   }
  },
- "updated": "2026-10-12T08:20:22-05:00",
+ "updated": "2026-10-13T07:57:37-05:00",
  "version": 1
 }
