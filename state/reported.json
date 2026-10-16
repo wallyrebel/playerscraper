@@ -6920,6 +6920,26 @@
    "sport": "volleyball",
    "team": "Vancleave"
   },
+  "10/12/2026|volleyball|kbailey|brandon|e0f349d5-57ea-46fb-abb0-c64a9b390dba": {
+   "fingerprint": "af4de6db867ca74c",
+   "first_reported": "2026-10-16T07:40:25-05:00",
+   "game_date": "10/12/2026",
+   "last_reported": "2026-10-16T07:40:25-05:00",
+   "player": "K. Bailey",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Brandon"
+  },
+  "10/12/2026|volleyball|lbonvillain|stjosephcatholic|30ea83ef-007a-48d6-82c9-590b2079c0b2": {
+   "fingerprint": "41e7aa071bfd4331",
+   "first_reported": "2026-10-16T07:40:25-05:00",
+   "game_date": "10/12/2026",
+   "last_reported": "2026-10-16T07:40:25-05:00",
+   "player": "L. Bonvillain",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "St. Joseph Catholic"
+  },
   "10/12/2026|volleyball|lcefalu|winstonacademy|30ea83ef-007a-48d6-82c9-590b2079c0b2": {
    "fingerprint": "140037c58ea9a5c6",
    "first_reported": "2026-10-15T07:39:50-05:00",
@@ -6929,6 +6949,16 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Winston Academy"
+  },
+  "10/12/2026|volleyball|lrhodes|brandon|e0f349d5-57ea-46fb-abb0-c64a9b390dba": {
+   "fingerprint": "723c99208fc8b13a",
+   "first_reported": "2026-10-16T07:40:25-05:00",
+   "game_date": "10/12/2026",
+   "last_reported": "2026-10-16T07:40:25-05:00",
+   "player": "L. Rhodes",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Brandon"
   },
   "10/12/2026|volleyball|nnesler|sumrall|6029fe5b-c88d-43f1-92fa-50b0d29ca4f9": {
    "fingerprint": "41e7aa071bfd4331",
@@ -6979,8 +7009,28 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "New Albany"
+  },
+  "10/15/2026|volleyball|hhill|heritageacademy|f5c43189-021c-46ca-afd0-7e2bfef538d2": {
+   "fingerprint": "95819e67a5734fc5",
+   "first_reported": "2026-10-16T07:40:25-05:00",
+   "game_date": "10/15/2026",
+   "last_reported": "2026-10-16T07:40:25-05:00",
+   "player": "H. Hill",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Heritage Academy"
+  },
+  "10/15/2026|volleyball|lsharp|heritageacademy|f5c43189-021c-46ca-afd0-7e2bfef538d2": {
+   "fingerprint": "c1d4f6cb2321e76a",
+   "first_reported": "2026-10-16T07:40:25-05:00",
+   "game_date": "10/15/2026",
+   "last_reported": "2026-10-16T07:40:25-05:00",
+   "player": "L. Sharp",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Heritage Academy"
   }
  },
- "updated": "2026-10-15T07:39:50-05:00",
+ "updated": "2026-10-16T07:40:25-05:00",
  "version": 1
 }
