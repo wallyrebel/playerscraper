@@ -7010,6 +7010,26 @@
    "sport": "volleyball",
    "team": "New Albany"
   },
+  "10/15/2026|football|gwindham|lumberton|6c35e838-f604-459c-996d-a86c73969df0": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-10-17T07:41:41-05:00",
+   "game_date": "10/15/2026",
+   "last_reported": "2026-10-17T07:41:41-05:00",
+   "player": "G. Windham",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Lumberton"
+  },
+  "10/15/2026|football|jadams|lumberton|6c35e838-f604-459c-996d-a86c73969df0": {
+   "fingerprint": "d2529aa7552dd0fc",
+   "first_reported": "2026-10-17T07:41:41-05:00",
+   "game_date": "10/15/2026",
+   "last_reported": "2026-10-17T07:41:41-05:00",
+   "player": "J. Adams",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Lumberton"
+  },
   "10/15/2026|volleyball|hhill|heritageacademy|f5c43189-021c-46ca-afd0-7e2bfef538d2": {
    "fingerprint": "95819e67a5734fc5",
    "first_reported": "2026-10-16T07:40:25-05:00",
@@ -7029,8 +7049,38 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Heritage Academy"
+  },
+  "10/16/2026|football|ptrivillion|passchristian|c1253966-2a52-40a4-8796-60c2b0a02871": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-10-17T07:41:41-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-17T07:41:41-05:00",
+   "player": "P. Trivillion",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pass Christian"
+  },
+  "10/16/2026|football|tfortune|leake|3eb97a2c-c950-4387-8660-e50a6fd29203": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-10-17T07:41:41-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-17T07:41:41-05:00",
+   "player": "T. Fortune",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Leake"
+  },
+  "10/16/2026|volleyball|thenley|ourladyacademy|234a3edc-0094-41bf-ae43-3d8cbbcbab41": {
+   "fingerprint": "881b4e169d6e8ad3",
+   "first_reported": "2026-10-17T07:41:41-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-17T07:41:41-05:00",
+   "player": "T. Henley",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Our Lady Academy"
   }
  },
- "updated": "2026-10-16T07:40:25-05:00",
+ "updated": "2026-10-17T07:41:41-05:00",
  "version": 1
 }
