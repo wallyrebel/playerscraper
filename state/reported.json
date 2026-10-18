@@ -7050,6 +7050,176 @@
    "sport": "volleyball",
    "team": "Heritage Academy"
   },
+  "10/16/2026|football|abeasley|jacksonacademy|43f3189b-4cbc-4939-9aeb-5899f022a225": {
+   "fingerprint": "312e252d6058cbf9",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "A. Beasley",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Jackson Academy"
+  },
+  "10/16/2026|football|agorden|ridgeland|5887e188-2a23-4741-a8f5-bc6db5410b12": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "A. Gorden",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Ridgeland"
+  },
+  "10/16/2026|football|aladner|diberville|cf7e56a3-9d5d-41d6-835a-6ecf2c5217dd": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "A. Ladner",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "D'Iberville"
+  },
+  "10/16/2026|football|bdyess|northeastjones|f861f72e-ab93-4d5d-8540-c8c40e2ba492": {
+   "fingerprint": "40da94f6a5149893",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "B. Dyess",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Northeast Jones"
+  },
+  "10/16/2026|football|charness|pascagoula|b4ff14a8-7bbf-41e7-9d58-bdb950c04f67": {
+   "fingerprint": "bdd320f5c6aed71b",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "C. Harness",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pascagoula"
+  },
+  "10/16/2026|football|dgary|eupora|3bd6aa16-7049-4685-a5c1-729aeba502cf": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "D. Gary",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Eupora"
+  },
+  "10/16/2026|football|dmonix|leeacademy|f4ece593-fa68-4e0e-a062-eb0f93621338": {
+   "fingerprint": "4074a2efe2ec86af",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "D. Monix",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Lee Academy"
+  },
+  "10/16/2026|football|dstatham|pinebelt|a7349017-d19f-45a7-8a4a-c72533eb7f33": {
+   "fingerprint": "7e35da904d4d2e22",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "D. Statham",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pine Belt"
+  },
+  "10/16/2026|football|dsullivan|stmartin|cf7e56a3-9d5d-41d6-835a-6ecf2c5217dd": {
+   "fingerprint": "376ce54f62d32b5e",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "D. Sullivan",
+   "reason_count": 4,
+   "sport": "football",
+   "team": "St. Martin"
+  },
+  "10/16/2026|football|ebailey|washington|1e024a42-0fc9-4ddc-ac4a-3fc02058d34c": {
+   "fingerprint": "f29dda34fceb077f",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "E. Bailey",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Washington"
+  },
+  "10/16/2026|football|epage|leakeacademy|fcbe336c-4ddf-404d-a68d-16c4103547ee": {
+   "fingerprint": "0e17ed0977458605",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "E. Page",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Leake Academy"
+  },
+  "10/16/2026|football|gadcock|leakeacademy|fcbe336c-4ddf-404d-a68d-16c4103547ee": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "G. Adcock",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Leake Academy"
+  },
+  "10/16/2026|football|jmason|picayune|0ab90930-f1b9-44dd-a861-004f359e2721": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "J. Mason",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Picayune"
+  },
+  "10/16/2026|football|jroberson|washington|1e024a42-0fc9-4ddc-ac4a-3fc02058d34c": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "J. Roberson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Washington"
+  },
+  "10/16/2026|football|jtillman|ridgeland|5887e188-2a23-4741-a8f5-bc6db5410b12": {
+   "fingerprint": "ff1a74948e582bf8",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "J. Tillman",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Ridgeland"
+  },
+  "10/16/2026|football|jwedgeworth|hancock|0ab90930-f1b9-44dd-a861-004f359e2721": {
+   "fingerprint": "ab4b7aa4ef99cd71",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "J. Wedgeworth",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Hancock"
+  },
+  "10/16/2026|football|mchandler|leakeacademy|fcbe336c-4ddf-404d-a68d-16c4103547ee": {
+   "fingerprint": "f6f0bf6cc5099889",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "M. Chandler",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Leake Academy"
+  },
   "10/16/2026|football|ptrivillion|passchristian|c1253966-2a52-40a4-8796-60c2b0a02871": {
    "fingerprint": "64e564bcbc50cbab",
    "first_reported": "2026-10-17T07:41:41-05:00",
@@ -7060,6 +7230,26 @@
    "sport": "football",
    "team": "Pass Christian"
   },
+  "10/16/2026|football|shall|pinebelt|a7349017-d19f-45a7-8a4a-c72533eb7f33": {
+   "fingerprint": "da3a7506ee39134b",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "S. Hall",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pine Belt"
+  },
+  "10/16/2026|football|smagee|baysprings|67e27145-f46a-498a-8be8-3a7cb04654b2": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "S. Magee",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Bay Springs"
+  },
   "10/16/2026|football|tfortune|leake|3eb97a2c-c950-4387-8660-e50a6fd29203": {
    "fingerprint": "81d4baf3442fa352",
    "first_reported": "2026-10-17T07:41:41-05:00",
@@ -7069,6 +7259,26 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Leake"
+  },
+  "10/16/2026|football|tmclaurin|baysprings|67e27145-f46a-498a-8be8-3a7cb04654b2": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "T. McLaurin",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Bay Springs"
+  },
+  "10/16/2026|football|xdennis|picayune|0ab90930-f1b9-44dd-a861-004f359e2721": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-10-18T07:46:17-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-18T07:46:17-05:00",
+   "player": "X. Dennis",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Picayune"
   },
   "10/16/2026|volleyball|thenley|ourladyacademy|234a3edc-0094-41bf-ae43-3d8cbbcbab41": {
    "fingerprint": "881b4e169d6e8ad3",
@@ -7081,6 +7291,6 @@
    "team": "Our Lady Academy"
   }
  },
- "updated": "2026-10-17T07:41:41-05:00",
+ "updated": "2026-10-18T07:46:17-05:00",
  "version": 1
 }
