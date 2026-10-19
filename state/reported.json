@@ -7010,6 +7010,26 @@
    "sport": "volleyball",
    "team": "New Albany"
   },
+  "10/15/2026|football|cbenson|holmescountycentral|449d4c0a-e0e0-4e1c-8248-07e64f2c7a64": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/15/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "C. Benson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Holmes County Central"
+  },
+  "10/15/2026|football|droberts|lanier|449d4c0a-e0e0-4e1c-8248-07e64f2c7a64": {
+   "fingerprint": "40da94f6a5149893",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/15/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "D. Roberts",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Lanier"
+  },
   "10/15/2026|football|gwindham|lumberton|6c35e838-f604-459c-996d-a86c73969df0": {
    "fingerprint": "e2911c145d3fd60e",
    "first_reported": "2026-10-17T07:41:41-05:00",
@@ -7029,6 +7049,26 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Lumberton"
+  },
+  "10/15/2026|football|kbobo|tupelo|3b9cedf7-ff8f-4767-8942-5182f2af4bc8": {
+   "fingerprint": "1040d0da0ac7aea9",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/15/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "K. Bobo",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Tupelo"
+  },
+  "10/15/2026|volleyball|ccaraway|jacksonacademy|b6807c66-cf6f-4f13-b8d7-18cd30dbdc83": {
+   "fingerprint": "b34ac04a0276325f",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/15/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "C. Caraway",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Jackson Academy"
   },
   "10/15/2026|volleyball|hhill|heritageacademy|f5c43189-021c-46ca-afd0-7e2bfef538d2": {
    "fingerprint": "95819e67a5734fc5",
@@ -7080,6 +7120,16 @@
    "sport": "football",
    "team": "D'Iberville"
   },
+  "10/16/2026|football|bcrayton|gautier|46c951fd-5d63-4aee-a772-5e3786c9441f": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "B. Crayton",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Gautier"
+  },
   "10/16/2026|football|bdyess|northeastjones|f861f72e-ab93-4d5d-8540-c8c40e2ba492": {
    "fingerprint": "40da94f6a5149893",
    "first_reported": "2026-10-18T07:46:17-05:00",
@@ -7089,6 +7139,26 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Northeast Jones"
+  },
+  "10/16/2026|football|bhaynes|northpanola|28a276cc-06b8-468f-9599-bcef155ea20e": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "B. Haynes",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "North Panola"
+  },
+  "10/16/2026|football|ccaston|foresthill|ca4616f4-8796-4059-9435-d138a6556a92": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "C. Caston",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Forest Hill"
   },
   "10/16/2026|football|charness|pascagoula|b4ff14a8-7bbf-41e7-9d58-bdb950c04f67": {
    "fingerprint": "bdd320f5c6aed71b",
@@ -7100,6 +7170,76 @@
    "sport": "football",
    "team": "Pascagoula"
   },
+  "10/16/2026|football|chowell|lafayette|de3ddcbc-1d2f-421c-a992-cd31387fc864": {
+   "fingerprint": "7cd1526172f378db",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "C. Howell",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Lafayette"
+  },
+  "10/16/2026|football|chyson|biloxi|8889fa41-8633-4dbe-87a6-73888ec6e51a": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "C. Hyson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Biloxi"
+  },
+  "10/16/2026|football|cpigford|westlauderdale|3eb97a2c-c950-4387-8660-e50a6fd29203": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "C. Pigford",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "West Lauderdale"
+  },
+  "10/16/2026|football|creed|terry|16dc4950-ae91-43c3-9bf9-71ea0cb53e78": {
+   "fingerprint": "bdd320f5c6aed71b",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "C. Reed",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Terry"
+  },
+  "10/16/2026|football|csandifer|kosciusko|36576441-1393-4885-8190-878853b49344": {
+   "fingerprint": "276d1cd4f70ada9f",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "C. Sandifer",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Kosciusko"
+  },
+  "10/16/2026|football|cwillis|hamilton|76f95002-f101-4024-8406-2570a005167d": {
+   "fingerprint": "5e9392cc7f3a289c",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "C. Willis",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Hamilton"
+  },
+  "10/16/2026|football|cworkman|puckett|68a5b1b6-1662-4eff-bcfc-1206c9624659": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "C. Workman",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Puckett"
+  },
   "10/16/2026|football|dgary|eupora|3bd6aa16-7049-4685-a5c1-729aeba502cf": {
    "fingerprint": "c8c47321704cc4c3",
    "first_reported": "2026-10-18T07:46:17-05:00",
@@ -7109,6 +7249,36 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Eupora"
+  },
+  "10/16/2026|football|dhadly|noxubeecounty|bb3ee62d-038a-4139-8698-bbb20ee29ff3": {
+   "fingerprint": "b9db42849f140a2d",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "D. Hadly",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Noxubee County"
+  },
+  "10/16/2026|football|djohnson|watervalley|d97d1e06-4f73-42e0-abb8-d43d14db9895": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "D. Johnson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Water Valley"
+  },
+  "10/16/2026|football|dknight|gautier|46c951fd-5d63-4aee-a772-5e3786c9441f": {
+   "fingerprint": "95b5c27c140febac",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "D. Knight",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Gautier"
   },
   "10/16/2026|football|dmonix|leeacademy|f4ece593-fa68-4e0e-a062-eb0f93621338": {
    "fingerprint": "4074a2efe2ec86af",
@@ -7140,6 +7310,26 @@
    "sport": "football",
    "team": "St. Martin"
   },
+  "10/16/2026|football|dwatson|senatobia|2fcb8f35-fb48-425b-9355-a4a7108245af": {
+   "fingerprint": "a21f3e03971bb771",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "D. Watson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Senatobia"
+  },
+  "10/16/2026|football|eadams|falkner|e3e07075-9f9d-4d52-864a-549625a513ea": {
+   "fingerprint": "491cbdbc95877277",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "E. Adams",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Falkner"
+  },
   "10/16/2026|football|ebailey|washington|1e024a42-0fc9-4ddc-ac4a-3fc02058d34c": {
    "fingerprint": "f29dda34fceb077f",
    "first_reported": "2026-10-18T07:46:17-05:00",
@@ -7149,6 +7339,16 @@
    "reason_count": 2,
    "sport": "football",
    "team": "Washington"
+  },
+  "10/16/2026|football|ehorne|hartfieldacademy|55914b77-1a5e-42c5-b7ba-98cc5a899bb5": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "E. Horne",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Hartfield Academy"
   },
   "10/16/2026|football|epage|leakeacademy|fcbe336c-4ddf-404d-a68d-16c4103547ee": {
    "fingerprint": "0e17ed0977458605",
@@ -7170,6 +7370,46 @@
    "sport": "football",
    "team": "Leake Academy"
   },
+  "10/16/2026|football|ghill|meridian|2b7eba50-d6c6-44c7-8010-19ef0dbd88fe": {
+   "fingerprint": "40da94f6a5149893",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "G. Hill",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Meridian"
+  },
+  "10/16/2026|football|jdavis|choctawcounty|bb3ee62d-038a-4139-8698-bbb20ee29ff3": {
+   "fingerprint": "7cddfd908f7679b3",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "J. Davis",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Choctaw County"
+  },
+  "10/16/2026|football|jhall|westpoint|de3ddcbc-1d2f-421c-a992-cd31387fc864": {
+   "fingerprint": "02c7804632119adb",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "J. Hall",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "West Point"
+  },
+  "10/16/2026|football|jjohnson|wesson|e6bfe28b-16f1-470c-8774-3d7398b41fe9": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "J. Johnson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Wesson"
+  },
   "10/16/2026|football|jmason|picayune|0ab90930-f1b9-44dd-a861-004f359e2721": {
    "fingerprint": "9ac3d9e8216ff223",
    "first_reported": "2026-10-18T07:46:17-05:00",
@@ -7180,6 +7420,16 @@
    "sport": "football",
    "team": "Picayune"
   },
+  "10/16/2026|football|jparker|brandon|76fe5729-c821-4e10-b310-d1944b03fd02": {
+   "fingerprint": "92adc3f16a2db8db",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "J. Parker",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Brandon"
+  },
   "10/16/2026|football|jroberson|washington|1e024a42-0fc9-4ddc-ac4a-3fc02058d34c": {
    "fingerprint": "9ac3d9e8216ff223",
    "first_reported": "2026-10-18T07:46:17-05:00",
@@ -7189,6 +7439,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Washington"
+  },
+  "10/16/2026|football|jruffin|starkville|a54c6a7c-b62d-414d-be9a-1ec41495d328": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "J. Ruffin",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Starkville"
   },
   "10/16/2026|football|jtillman|ridgeland|5887e188-2a23-4741-a8f5-bc6db5410b12": {
    "fingerprint": "ff1a74948e582bf8",
@@ -7210,6 +7470,56 @@
    "sport": "football",
    "team": "Hancock"
   },
+  "10/16/2026|football|kbradley|staloysius|7fc0513d-9398-4921-a2ae-54713e42d73b": {
+   "fingerprint": "276d1cd4f70ada9f",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "K. Bradley",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "St. Aloysius"
+  },
+  "10/16/2026|football|kegana|pearlrivercentral|46c951fd-5d63-4aee-a772-5e3786c9441f": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "K. Egana",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pearl River Central"
+  },
+  "10/16/2026|football|ktaylor|waynecounty|867d213c-28f4-42b2-86e2-8dbd12492654": {
+   "fingerprint": "1040d0da0ac7aea9",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "K. Taylor",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Wayne County"
+  },
+  "10/16/2026|football|lspencer|westlauderdale|3eb97a2c-c950-4387-8660-e50a6fd29203": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "L. Spencer",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "West Lauderdale"
+  },
+  "10/16/2026|football|mbuford|watervalley|d97d1e06-4f73-42e0-abb8-d43d14db9895": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "M. Buford",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Water Valley"
+  },
   "10/16/2026|football|mchandler|leakeacademy|fcbe336c-4ddf-404d-a68d-16c4103547ee": {
    "fingerprint": "f6f0bf6cc5099889",
    "first_reported": "2026-10-18T07:46:17-05:00",
@@ -7219,6 +7529,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Leake Academy"
+  },
+  "10/16/2026|football|mseals|stjoseph|7eabc141-3388-4d8c-a9a8-ebd22e7e67ca": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "M. Seals",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "St. Joseph"
   },
   "10/16/2026|football|ptrivillion|passchristian|c1253966-2a52-40a4-8796-60c2b0a02871": {
    "fingerprint": "64e564bcbc50cbab",
@@ -7230,6 +7550,16 @@
    "sport": "football",
    "team": "Pass Christian"
   },
+  "10/16/2026|football|rclearman|westlauderdale|3eb97a2c-c950-4387-8660-e50a6fd29203": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "R. Clearman",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "West Lauderdale"
+  },
   "10/16/2026|football|shall|pinebelt|a7349017-d19f-45a7-8a4a-c72533eb7f33": {
    "fingerprint": "da3a7506ee39134b",
    "first_reported": "2026-10-18T07:46:17-05:00",
@@ -7240,6 +7570,16 @@
    "sport": "football",
    "team": "Pine Belt"
   },
+  "10/16/2026|football|sjoslin|hamilton|76f95002-f101-4024-8406-2570a005167d": {
+   "fingerprint": "62698f47bbb9baec",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "S. Joslin",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Hamilton"
+  },
   "10/16/2026|football|smagee|baysprings|67e27145-f46a-498a-8be8-3a7cb04654b2": {
    "fingerprint": "81d4baf3442fa352",
    "first_reported": "2026-10-18T07:46:17-05:00",
@@ -7249,6 +7589,36 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Bay Springs"
+  },
+  "10/16/2026|football|tcasnel|clinton|a54c6a7c-b62d-414d-be9a-1ec41495d328": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "T. Casnel",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Clinton"
+  },
+  "10/16/2026|football|tduffy|poplarville|768a63ff-c059-4124-aae2-5ca9900d6e4b": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "T. Duffy",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Poplarville"
+  },
+  "10/16/2026|football|tfeaster|pearlrivercentral|46c951fd-5d63-4aee-a772-5e3786c9441f": {
+   "fingerprint": "78a7d6b27332a20b",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "T. Feaster",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Pearl River Central"
   },
   "10/16/2026|football|tfortune|leake|3eb97a2c-c950-4387-8660-e50a6fd29203": {
    "fingerprint": "81d4baf3442fa352",
@@ -7269,6 +7639,26 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Bay Springs"
+  },
+  "10/16/2026|football|trobinson|brandon|76fe5729-c821-4e10-b310-d1944b03fd02": {
+   "fingerprint": "185ae69690cee988",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "T. Robinson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Brandon"
+  },
+  "10/16/2026|football|wwilkinson|oxford|04db07bd-99d2-4172-8ba9-487103c11ce6": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-10-19T07:59:02-05:00",
+   "game_date": "10/16/2026",
+   "last_reported": "2026-10-19T07:59:02-05:00",
+   "player": "W. Wilkinson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Oxford"
   },
   "10/16/2026|football|xdennis|picayune|0ab90930-f1b9-44dd-a861-004f359e2721": {
    "fingerprint": "9ac3d9e8216ff223",
@@ -7291,6 +7681,6 @@
    "team": "Our Lady Academy"
   }
  },
- "updated": "2026-10-18T07:46:17-05:00",
+ "updated": "2026-10-19T07:59:02-05:00",
  "version": 1
 }
