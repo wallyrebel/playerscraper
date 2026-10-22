@@ -7879,8 +7879,58 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Faith Christian HomeSchool Academy"
+  },
+  "10/19/2026|volleyball|edorr|madisonridgelandacademy|f785438e-2158-48bf-898a-4670cb0731fd": {
+   "fingerprint": "1eb6b3a8180c4229",
+   "first_reported": "2026-10-22T07:39:01-05:00",
+   "game_date": "10/19/2026",
+   "last_reported": "2026-10-22T07:39:01-05:00",
+   "player": "E. Dorr",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Madison-Ridgeland Academy"
+  },
+  "10/20/2026|volleyball|cbensler|jacksonacademy|82a0e228-5f7a-4b36-a1a0-67fb9321fe5f": {
+   "fingerprint": "6540498d0188d004",
+   "first_reported": "2026-10-22T07:39:01-05:00",
+   "game_date": "10/20/2026",
+   "last_reported": "2026-10-22T07:39:01-05:00",
+   "player": "C. Bensler",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Jackson Academy"
+  },
+  "10/20/2026|volleyball|ccaraway|jacksonacademy|82a0e228-5f7a-4b36-a1a0-67fb9321fe5f": {
+   "fingerprint": "11f02c72632fd646",
+   "first_reported": "2026-10-22T07:39:01-05:00",
+   "game_date": "10/20/2026",
+   "last_reported": "2026-10-22T07:39:01-05:00",
+   "player": "C. Caraway",
+   "reason_count": 2,
+   "sport": "volleyball",
+   "team": "Jackson Academy"
+  },
+  "10/20/2026|volleyball|edorr|madisonridgelandacademy|82a0e228-5f7a-4b36-a1a0-67fb9321fe5f": {
+   "fingerprint": "9ee730a0af55d557",
+   "first_reported": "2026-10-22T07:39:01-05:00",
+   "game_date": "10/20/2026",
+   "last_reported": "2026-10-22T07:39:01-05:00",
+   "player": "E. Dorr",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Madison-Ridgeland Academy"
+  },
+  "10/20/2026|volleyball|eeatherly|madisonridgelandacademy|82a0e228-5f7a-4b36-a1a0-67fb9321fe5f": {
+   "fingerprint": "2ddb95c0688a6dae",
+   "first_reported": "2026-10-22T07:39:01-05:00",
+   "game_date": "10/20/2026",
+   "last_reported": "2026-10-22T07:39:01-05:00",
+   "player": "E. Eatherly",
+   "reason_count": 1,
+   "sport": "volleyball",
+   "team": "Madison-Ridgeland Academy"
   }
  },
- "updated": "2026-10-20T07:59:49-05:00",
+ "updated": "2026-10-22T07:39:01-05:00",
  "version": 1
 }
