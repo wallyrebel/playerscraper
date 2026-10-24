@@ -7929,8 +7929,98 @@
    "reason_count": 1,
    "sport": "volleyball",
    "team": "Madison-Ridgeland Academy"
+  },
+  "10/22/2026|football|teacholes|bruce|0221d89a-0e77-4efb-bffb-6176b626758a": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-10-24T07:38:19-05:00",
+   "game_date": "10/22/2026",
+   "last_reported": "2026-10-24T07:38:19-05:00",
+   "player": "T. Eacholes",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Bruce"
+  },
+  "10/23/2026|football|clizana|passchristian|65800708-c82a-4fea-be9c-18deee6ae8ec": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-10-24T07:38:19-05:00",
+   "game_date": "10/23/2026",
+   "last_reported": "2026-10-24T07:38:19-05:00",
+   "player": "C. Lizana",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pass Christian"
+  },
+  "10/23/2026|football|dgarrett|gautier|8819b258-99c7-48e9-8594-bbbe6da8041d": {
+   "fingerprint": "f4504f88b468bcb4",
+   "first_reported": "2026-10-24T07:38:19-05:00",
+   "game_date": "10/23/2026",
+   "last_reported": "2026-10-24T07:38:19-05:00",
+   "player": "D. Garrett",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Gautier"
+  },
+  "10/23/2026|football|dmcdonald|morton|339e3012-9e9f-4b1f-91cb-b690403e4b10": {
+   "fingerprint": "8559727ccdc1337b",
+   "first_reported": "2026-10-24T07:38:19-05:00",
+   "game_date": "10/23/2026",
+   "last_reported": "2026-10-24T07:38:19-05:00",
+   "player": "D. Mcdonald",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Morton"
+  },
+  "10/23/2026|football|dpatterson|northsunfloweracademy|df2ff1fe-1c82-48c6-b913-a72e04454102": {
+   "fingerprint": "dd9afa6c59c17d96",
+   "first_reported": "2026-10-24T07:38:19-05:00",
+   "game_date": "10/23/2026",
+   "last_reported": "2026-10-24T07:38:19-05:00",
+   "player": "D. Patterson",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "North Sunflower Academy"
+  },
+  "10/23/2026|football|jstowers|morton|339e3012-9e9f-4b1f-91cb-b690403e4b10": {
+   "fingerprint": "da8d9a240361249b",
+   "first_reported": "2026-10-24T07:38:19-05:00",
+   "game_date": "10/23/2026",
+   "last_reported": "2026-10-24T07:38:19-05:00",
+   "player": "J. Stowers",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Morton"
+  },
+  "10/23/2026|football|jwedgeworth|hancock|8819b258-99c7-48e9-8594-bbbe6da8041d": {
+   "fingerprint": "85aa6ec4eb18870b",
+   "first_reported": "2026-10-24T07:38:19-05:00",
+   "game_date": "10/23/2026",
+   "last_reported": "2026-10-24T07:38:19-05:00",
+   "player": "J. Wedgeworth",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Hancock"
+  },
+  "10/23/2026|football|lpogue|gautier|8819b258-99c7-48e9-8594-bbbe6da8041d": {
+   "fingerprint": "7926bc0a8a88ac69",
+   "first_reported": "2026-10-24T07:38:19-05:00",
+   "game_date": "10/23/2026",
+   "last_reported": "2026-10-24T07:38:19-05:00",
+   "player": "L. Pogue",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Gautier"
+  },
+  "10/23/2026|football|smcbeath|germantown|7f92a1a0-a3e4-41bb-92ac-03437d1df1f3": {
+   "fingerprint": "b25f72e47016b625",
+   "first_reported": "2026-10-24T07:38:19-05:00",
+   "game_date": "10/23/2026",
+   "last_reported": "2026-10-24T07:38:19-05:00",
+   "player": "S. McBeath",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Germantown"
   }
  },
- "updated": "2026-10-22T07:39:01-05:00",
+ "updated": "2026-10-24T07:38:19-05:00",
  "version": 1
 }
