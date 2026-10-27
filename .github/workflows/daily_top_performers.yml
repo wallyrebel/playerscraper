@@ -69,6 +69,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Check source coverage reporting (isolated)
+        run: python -m unittest discover -s tests -v
+
       - name: Cache Playwright browsers
         id: playwright-cache
         uses: actions/cache@v4
@@ -137,6 +140,8 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: run-log-${{ github.run_id }}
-          path: run.log
+          path: |
+            run.log
+            run-report.json
           retention-days: 14
           if-no-files-found: ignore

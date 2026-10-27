@@ -286,3 +286,36 @@ as though it never happened.
 
 A manual run started while the scheduled one is going will queue behind it
 rather than race it for the ledger.
+
+### Source coverage and failures
+
+The subject, first report lines and `run-report.json` distinguish `complete`,
+`partial` and `failed` coverage. Empty qualifying-results wording is used only
+for complete collection. All failed scoreboards produce a source-collection
+failure notice, never a claim that no players qualified. Partial scans identify
+incomplete coverage, including game fetch errors and games omitted by the cap.
+Partial and failed runs return status 1 after reporting. `--only-when-new`
+suppresses only a complete empty result (or no applicable in-season scans), so
+source outages remain visible. No applicable scans are reported separately.
+
+The email ledger is preserved when no performers were actually delivered; valid
+qualifiers from partial scans are still recorded only after their email sends.
+`--no-email` remains read-only with respect to the ledger. The workflow retains
+both the log and coverage report. Isolated tests require no browser installation,
+mail credentials or network: `python -m unittest discover -s tests -v`.
+
+The October 27 incident was a source-access failure: all twelve existing browser
+scoreboard requests returned HTTP 406. The public robots file allows the tested
+scoreboard path, but that does not override HTTP refusal. 401/403/406 responses
+now stop that request without repeated attempts; they remain errors. Blank 200
+pages without recognizable game links or an explicit empty state also fail.
+No proxy, new authentication, alternate identity or query bypass is used. A
+source-supported access resolution is required before collection can recover;
+no historical catch-up email or expanded date window is automatic.
+
+A bounded local diagnostic of the unchanged football URL returned 200 after a
+server redirect dropped `gender=boys`, but the page title showed October 29 for
+an October 26 request. A scoreboard containing only other dates now fails
+coverage rather than implying an empty requested date. This local response does
+not establish recovery on the hosted Actions runner; no alternate query path
+has been adopted.

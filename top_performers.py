@@ -242,6 +242,15 @@ class SportDateResult:
     qualifiers: List[Qualifier] = field(default_factory=list)
     metrics: Dict[str, int] = field(default_factory=dict)
     error: Optional[str] = None
+    scoreboard_ok: bool = False
+
+    @property
+    def coverage(self) -> str:
+        if self.error or not self.scoreboard_ok:
+            return "failed"
+        if self.metrics.get("games_failed", 0) or self.metrics.get("games_capped", 0):
+            return "partial"
+        return "complete"
 
 
 # ---------------------------------------------------------------------------
@@ -536,6 +545,10 @@ def game_url_is_mississippi(url: str) -> bool:
     return any(part.endswith(f"-{STATE}") or part == STATE for part in slug.split("-vs-"))
 
 
+class SourceAccessError(RuntimeError):
+    """Access restrictions must stay visible; retries cannot resolve them."""
+
+
 def fetch_scoreboard(page: Page, url: str, attempts: int = 3) -> str:
     """Load a scoreboard through the browser.
 
@@ -549,21 +562,28 @@ def fetch_scoreboard(page: Page, url: str, attempts: int = 3) -> str:
         try:
             response = page.goto(url, wait_until="domcontentloaded", timeout=PAGE_TIMEOUT_MS)
             status = response.status if response else 0
+            if status in (401, 403, 406):
+                raise SourceAccessError(f"Scoreboard returned HTTP {status}: {url}")
             if status and status >= 400:
                 raise RuntimeError(f"Scoreboard returned HTTP {status}: {url}")
             html = page.content()
-            if "/game/" in html or "no games" in html.lower():
+            if GAME_URL_RE.search(html) or "no games" in html.lower():
                 return html
             # A scoreboard with neither games nor an explicit empty state was
             # probably served before hydration finished.
             page.wait_for_timeout(1500)
-            return page.content()
+            html = page.content()
+            if GAME_URL_RE.search(html) or "no games" in html.lower():
+                return html
+            raise RuntimeError(f"Scoreboard has no recognizable games or explicit empty state: {url}")
+        except SourceAccessError:
+            raise
         except Exception as exc:  # noqa: BLE001
             last_exc = exc
             logging.warning("Scoreboard fetch failed (%s/%s): %s", attempt, attempts, exc)
             if attempt < attempts:
                 page.wait_for_timeout(1500 * attempt)
-    raise RuntimeError(f"Could not fetch scoreboard {url}") from last_exc
+    raise RuntimeError(f"Could not fetch scoreboard {url}: {last_exc}") from last_exc
 
 
 def discover_games(html: str, target: date_cls) -> Tuple[List[str], Dict[str, int]]:
@@ -1300,8 +1320,15 @@ def goto_with_retry(page: Page, url: str, attempts: int = 2) -> None:
     last_exc: Optional[Exception] = None
     for attempt in range(1, attempts + 1):
         try:
-            page.goto(url, wait_until="domcontentloaded", timeout=PAGE_TIMEOUT_MS)
+            response = page.goto(url, wait_until="domcontentloaded", timeout=PAGE_TIMEOUT_MS)
+            status = response.status if response else 0
+            if status in (401, 403, 406):
+                raise SourceAccessError(f"Game page returned HTTP {status}: {url}")
+            if status >= 400:
+                raise RuntimeError(f"Game page returned HTTP {status}: {url}")
             return
+        except SourceAccessError:
+            raise
         except Exception as exc:  # noqa: BLE001
             last_exc = exc
             logging.warning("Page load failed (%s/%s): %s", attempt, attempts, url)
@@ -1504,6 +1531,8 @@ def process_game(
 def new_metrics() -> Dict[str, int]:
     return {
         "games_found": 0,
+        "games_failed": 0,
+        "games_capped": 0,
         "links_seen": 0,
         "wrong_date": 0,
         "non_ms_url": 0,
@@ -1532,16 +1561,21 @@ def process_sport_date(
         result.error = f"scoreboard fetch failed: {exc}"
         return result
 
+    result.scoreboard_ok = True
     games, discovery = discover_games(html, day)
     result.metrics["links_seen"] = discovery["links_seen"]
     result.metrics["wrong_date"] = discovery["wrong_date"]
     result.metrics["non_ms_url"] = discovery["non_ms"]
     result.metrics["games_found"] = len(games)
+    if discovery["links_seen"] and discovery["wrong_date"] == discovery["links_seen"]:
+        result.error = "Scoreboard returned only other dates; requested-date coverage is unknown"
+        return result
 
     if max_games and len(games) > max_games:
         logging.warning(
             "%s %s: capping %s games at %s", config.key, result.date_value, len(games), max_games
         )
+        result.metrics["games_capped"] = len(games) - max_games
         games = games[:max_games]
 
     bucket: Dict[str, Qualifier] = {}
@@ -1552,6 +1586,7 @@ def process_sport_date(
             ):
                 merge_qualifier(bucket, item)
         except Exception:  # noqa: BLE001
+            result.metrics["games_failed"] += 1
             logging.exception("Failed processing game: %s", game_url)
         random_delay()
 
@@ -1680,6 +1715,28 @@ def run_scrape(
 # ---------------------------------------------------------------------------
 
 
+def coverage_state(results: Sequence[SportDateResult]) -> str:
+    if not results:
+        return "not_applicable"
+    states = [r.coverage for r in results]
+    if all(state == "failed" for state in states):
+        return "failed"
+    if any(state != "complete" for state in states):
+        return "partial"
+    return "complete"
+
+
+def coverage_report(results: Sequence[SportDateResult]) -> dict:
+    return {
+        "coverage": coverage_state(results),
+        "sport_dates": [
+            {"sport": r.config.key, "date": r.date_value, "coverage": r.coverage,
+             "error": r.error, "metrics": r.metrics}
+            for r in results
+        ],
+    }
+
+
 def build_body(
     reported: Sequence[Tuple[str, Qualifier]],
     window: Sequence[date_cls],
@@ -1705,8 +1762,21 @@ def build_body(
             "",
         ]
 
+    coverage = coverage_state(results)
+    complete = sum(r.coverage == "complete" for r in results)
+    lines.extend([f"COVERAGE: {coverage.upper()} ({complete}/{len(results)} sport/date scans complete)", ""])
+    if coverage == "failed":
+        lines.append("Source collection failed. Qualifying performances could not be determined.")
+    elif coverage == "partial":
+        lines.append("Source collection is incomplete. Results below cover only successfully collected data.")
+    elif coverage == "not_applicable":
+        lines.append("No in-season sport/date scans were applicable.")
+
     if not reported:
-        lines.append("No new players met stat thresholds in the scan window.")
+        if coverage == "complete":
+            lines.append("No new players met stat thresholds in the successfully scanned window.")
+        elif coverage == "partial":
+            lines.append("No new qualifiers were found in collected data; unavailable sources remain unknown.")
         if suppressed:
             lines.append(f"({suppressed} qualifying performance(s) were already reported on an earlier run.)")
     else:
@@ -1771,7 +1841,9 @@ def build_body(
             f"{metrics['games_with_stats']} with stats, "
             f"{metrics['games_no_stats']} awaiting stats, "
             f"{metrics['players_parsed']} rows, "
-            f"{metrics['players_qualified']} qualified"
+            f"{metrics['players_qualified']} qualified, "
+            f"{metrics.get('games_failed', 0)} game errors, "
+            f"{metrics.get('games_capped', 0)} games omitted by cap; {result.coverage} coverage"
         )
     if summary:
         lines.extend(["", "--- RUN SUMMARY ---"])
@@ -1792,11 +1864,19 @@ def build_subject(
     reported: Sequence[Tuple[str, Qualifier]],
     window: Sequence[date_cls],
     label: str = "",
+    results: Sequence[SportDateResult] = (),
 ) -> str:
     end = fmt_mdy(window[-1])
     prefix = "TEST RUN – " if test_mode else ""
     if label:
         prefix += f"{label} – "
+    coverage = coverage_state(results)
+    if coverage == "failed":
+        return f"{prefix}FAILED – Top Performers Source Collection – {end}"
+    if coverage == "partial":
+        return f"{prefix}PARTIAL – Top Performers – {end} ({len(reported)} new/updated; incomplete coverage)"
+    if coverage == "not_applicable":
+        return f"{prefix}Top Performers – {end} (no applicable scans)"
     # A single-day window is a report about that one date, not a daily digest.
     if len(window) == 1:
         headline = f"Top Performers – {window[0].strftime('%A %m/%d/%Y')}"
@@ -1972,7 +2052,10 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
             reported.append((status, item))
 
         body = build_body(reported, window, results, suppressed, label=args.label)
-        subject = build_subject(args.test, reported, window, label=args.label)
+        subject = build_subject(args.test, reported, window, label=args.label, results=results)
+        coverage = coverage_state(results)
+        report_path = Path("run-report.json")
+        report_path.write_text(json.dumps(coverage_report(results), indent=2) + "\n")
 
         if args.test or args.no_email:
             print("=" * 80)
@@ -1986,7 +2069,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
             logging.info("--seed-ledger set; marking %s performer(s) as reported without emailing.", len(reported))
         elif args.no_email:
             logging.info("--no-email set; report not sent.")
-        elif args.only_when_new and not reported:
+        elif args.only_when_new and not reported and coverage in ("complete", "not_applicable"):
             logging.info("Nothing new; --only-when-new suppressed the email.")
         else:
             send_email(subject, body)
@@ -1994,7 +2077,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
 
         # Only mark performers as reported once the email is actually out, so
         # an SMTP failure does not silently swallow a day of results.
-        if (emailed or args.seed_ledger) and not args.no_ledger_write:
+        if reported and (emailed or args.seed_ledger) and not args.no_ledger_write:
             for _, item in reported:
                 ledger.record(item)
             pruned = ledger.prune(today_central())
@@ -2002,9 +2085,9 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
                 logging.info("Pruned %s ledger entries older than %s days", pruned, LEDGER_RETENTION_DAYS)
             ledger.save()
 
-        failures = [r for r in results if r.error]
-        if failures:
-            logging.warning("%s sport/date combination(s) failed; see the run summary.", len(failures))
+        if coverage in ("partial", "failed"):
+            logging.error("Source coverage is %s; see run-report.json and the run summary.", coverage)
+            return 1
         return 0
     except Exception:  # noqa: BLE001
         err = traceback.format_exc()
