@@ -8689,8 +8689,18 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Louisville"
+  },
+  "10/29/2026|football|jyoung|mcadams|eac172a8-b744-4495-bef0-ab2c9fd985cc": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-10-30T07:31:14-05:00",
+   "game_date": "10/29/2026",
+   "last_reported": "2026-10-30T07:31:14-05:00",
+   "player": "J. Young",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "McAdams"
   }
  },
- "updated": "2026-10-26T09:21:58-05:00",
+ "updated": "2026-10-30T07:31:14-05:00",
  "version": 1
 }
