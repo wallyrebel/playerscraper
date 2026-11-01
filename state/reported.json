@@ -8920,6 +8920,16 @@
    "sport": "football",
    "team": "Magee"
   },
+  "10/30/2026|football|abanks|madisonridgelandacademy|1ac1d1a1-abef-43d8-9e11-0a6f10689478": {
+   "fingerprint": "eb51b21cd9e1e7a0",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "A. Banks",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Madison-Ridgeland Academy"
+  },
   "10/30/2026|football|awilsonjr|centralhindsacademy|24940bc9-437d-47ac-8e00-39f77098ccb8": {
    "fingerprint": "31c46af855cf6686",
    "first_reported": "2026-10-31T07:32:27-05:00",
@@ -8929,6 +8939,16 @@
    "reason_count": 2,
    "sport": "football",
    "team": "Central Hinds Academy"
+  },
+  "10/30/2026|football|cbell|regents|306bd835-7c92-4c7e-993c-c668105eb076": {
+   "fingerprint": "da3a7506ee39134b",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "C. Bell",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Regents"
   },
   "10/30/2026|football|chowell|diberville|47cdac11-ec0b-4a24-87c9-065c2c173af2": {
    "fingerprint": "2d8f31df86c5f3d6",
@@ -8940,6 +8960,36 @@
    "sport": "football",
    "team": "D'Iberville"
   },
+  "10/30/2026|football|clang|caledonia|69bf4e77-bdbc-42ea-ba39-c8f578f8491c": {
+   "fingerprint": "446c44cfa1ddfdcf",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "C. Lang",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Caledonia"
+  },
+  "10/30/2026|football|crodgers|desotocentral|9e95a4b0-9d6d-44a8-aedc-bade73c127b9": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "C. RODGERS",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "DeSoto Central"
+  },
+  "10/30/2026|football|cwillis|hamilton|e2795b01-22a3-435a-b249-195fcba60d76": {
+   "fingerprint": "d97a7aad10a0f4b8",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "C. Willis",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Hamilton"
+  },
   "10/30/2026|football|dhunter|diberville|47cdac11-ec0b-4a24-87c9-065c2c173af2": {
    "fingerprint": "81d4baf3442fa352",
    "first_reported": "2026-10-31T07:32:27-05:00",
@@ -8949,6 +8999,186 @@
    "reason_count": 1,
    "sport": "football",
    "team": "D'Iberville"
+  },
+  "10/30/2026|football|djohnson|meridian|142ef0b2-131c-42e4-8189-6bb8d36340fa": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "D. Johnson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Meridian"
+  },
+  "10/30/2026|football|dknight|gautier|1b0c01f3-6183-49c0-8d11-109292ec3e55": {
+   "fingerprint": "95b5c27c140febac",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "D. Knight",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Gautier"
+  },
+  "10/30/2026|football|dterry|meridian|142ef0b2-131c-42e4-8189-6bb8d36340fa": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "D. Terry",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Meridian"
+  },
+  "10/30/2026|football|epage|leakeacademy|16592e75-3808-4932-8721-556d7a9779b9": {
+   "fingerprint": "992e9cb3b1018301",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "E. Page",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Leake Academy"
+  },
+  "10/30/2026|football|gwarren|leakeacademy|16592e75-3808-4932-8721-556d7a9779b9": {
+   "fingerprint": "d89462e4306b6ff1",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "G. Warren",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Leake Academy"
+  },
+  "10/30/2026|football|hadams|madisonridgelandacademy|1ac1d1a1-abef-43d8-9e11-0a6f10689478": {
+   "fingerprint": "fd52c4dd5a025389",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "H. Adams",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Madison-Ridgeland Academy"
+  },
+  "10/30/2026|football|idean|gautier|1b0c01f3-6183-49c0-8d11-109292ec3e55": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "I. Dean",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Gautier"
+  },
+  "10/30/2026|football|jbass|biloxi|8555af62-d9d9-44ad-956a-e698c38b0681": {
+   "fingerprint": "bdd320f5c6aed71b",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "J. Bass",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Biloxi"
+  },
+  "10/30/2026|football|jdalton|madisonridgelandacademy|1ac1d1a1-abef-43d8-9e11-0a6f10689478": {
+   "fingerprint": "d97a7aad10a0f4b8",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "J. Dalton",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Madison-Ridgeland Academy"
+  },
+  "10/30/2026|football|jgee|canton|70ac2861-785a-4519-8ca9-4bb338e3aa9f": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "J. Gee",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Canton"
+  },
+  "10/30/2026|football|jhathorne|picayune|1b0c01f3-6183-49c0-8d11-109292ec3e55": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "J. Hathorne",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Picayune"
+  },
+  "10/30/2026|football|kwilliams|provine|cd80b444-7f08-4ff1-b162-ae88ecbe8de3": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "K. Williams",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Provine"
+  },
+  "10/30/2026|football|mchandler|leakeacademy|16592e75-3808-4932-8721-556d7a9779b9": {
+   "fingerprint": "08cd7646053b7972",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "M. Chandler",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Leake Academy"
+  },
+  "10/30/2026|football|mmetcalfe|biloxi|8555af62-d9d9-44ad-956a-e698c38b0681": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "M. Metcalfe",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Biloxi"
+  },
+  "10/30/2026|football|mosby|southpike|52cff476-bbaa-4a1e-8d1f-cdbb0aadfde1": {
+   "fingerprint": "da3a7506ee39134b",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "M. Osby",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "South Pike"
+  },
+  "10/30/2026|football|mpittman|prentisschristian|25941e1b-deec-411e-a051-9ef697c92e07": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "M. Pittman",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Prentiss Christian"
+  },
+  "10/30/2026|football|sjoslin|hamilton|e2795b01-22a3-435a-b249-195fcba60d76": {
+   "fingerprint": "960a5770333bf889",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "S. Joslin",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Hamilton"
+  },
+  "10/30/2026|football|tdanner|hamilton|e2795b01-22a3-435a-b249-195fcba60d76": {
+   "fingerprint": "88d51d02443939a9",
+   "first_reported": "2026-11-01T06:36:59-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-01T06:36:59-06:00",
+   "player": "T. Danner",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Hamilton"
   },
   "10/30/2026|football|twelch|brookhavenacademy|24940bc9-437d-47ac-8e00-39f77098ccb8": {
    "fingerprint": "fd2ef408180a7353",
@@ -8971,6 +9201,6 @@
    "team": "Brookhaven Academy"
   }
  },
- "updated": "2026-10-31T07:32:27-05:00",
+ "updated": "2026-11-01T06:36:59-06:00",
  "version": 1
 }
