@@ -8980,6 +8980,16 @@
    "sport": "football",
    "team": "Madison-Ridgeland Academy"
   },
+  "10/30/2026|football|aingram|edwards|508bd12e-e7ae-426e-b974-57a8895ec424": {
+   "fingerprint": "73de5ebed4b92d4e",
+   "first_reported": "2026-11-03T06:40:26-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-03T06:40:26-06:00",
+   "player": "A. Ingram",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Edwards"
+  },
   "10/30/2026|football|awilsonjr|centralhindsacademy|24940bc9-437d-47ac-8e00-39f77098ccb8": {
    "fingerprint": "31c46af855cf6686",
    "first_reported": "2026-10-31T07:32:27-05:00",
@@ -9019,6 +9029,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Regents"
+  },
+  "10/30/2026|football|cboyd|florence|cd80b444-7f08-4ff1-b162-ae88ecbe8de3": {
+   "fingerprint": "761b6fd92338dfbd",
+   "first_reported": "2026-11-03T06:40:26-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-03T06:40:26-06:00",
+   "player": "C. Boyd",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Florence"
   },
   "10/30/2026|football|chowell|diberville|47cdac11-ec0b-4a24-87c9-065c2c173af2": {
    "fingerprint": "2d8f31df86c5f3d6",
@@ -9100,6 +9120,26 @@
    "sport": "football",
    "team": "Hamilton"
   },
+  "10/30/2026|football|dbrown|parklaneacademy|1ac1d1a1-abef-43d8-9e11-0a6f10689478": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-03T06:40:26-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-03T06:40:26-06:00",
+   "player": "D. Brown",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Parklane Academy"
+  },
+  "10/30/2026|football|dfoxworth|longbeach|514e12f6-6663-4ab9-8494-a9c45097dcbf": {
+   "fingerprint": "bdd320f5c6aed71b",
+   "first_reported": "2026-11-03T06:40:26-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-03T06:40:26-06:00",
+   "player": "D. Foxworth",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Long Beach"
+  },
   "10/30/2026|football|dhunter|diberville|47cdac11-ec0b-4a24-87c9-065c2c173af2": {
    "fingerprint": "81d4baf3442fa352",
    "first_reported": "2026-10-31T07:32:27-05:00",
@@ -9150,6 +9190,16 @@
    "sport": "football",
    "team": "Leake Academy"
   },
+  "10/30/2026|football|ghill|meridian|142ef0b2-131c-42e4-8189-6bb8d36340fa": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-03T06:40:26-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-03T06:40:26-06:00",
+   "player": "G. Hill",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Meridian"
+  },
   "10/30/2026|football|gwarren|leakeacademy|16592e75-3808-4932-8721-556d7a9779b9": {
    "fingerprint": "d89462e4306b6ff1",
    "first_reported": "2026-11-01T06:36:59-06:00",
@@ -9189,6 +9239,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Gautier"
+  },
+  "10/30/2026|football|jallen|brookhaven|8895cc85-e177-46b9-b1b2-6f8309adc3d6": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-11-03T06:40:26-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-03T06:40:26-06:00",
+   "player": "J. Allen",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Brookhaven"
   },
   "10/30/2026|football|jbass|biloxi|8555af62-d9d9-44ad-956a-e698c38b0681": {
    "fingerprint": "bdd320f5c6aed71b",
@@ -9230,6 +9290,16 @@
    "sport": "football",
    "team": "Picayune"
   },
+  "10/30/2026|football|jisland|rosafort|1a991ccf-9a50-4c4d-bf0f-444969aa129c": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-11-03T06:40:26-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-03T06:40:26-06:00",
+   "player": "J. Island",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Rosa Fort"
+  },
   "10/30/2026|football|jportera|starkvilleacademy|b7a8767e-19f1-4618-a21b-e0ea0e1baafc": {
    "fingerprint": "81d4baf3442fa352",
    "first_reported": "2026-11-02T06:47:15-06:00",
@@ -9250,6 +9320,36 @@
    "sport": "football",
    "team": "Starkville Academy"
   },
+  "10/30/2026|football|jroberson|washington|64f25c7a-a3b7-4ba2-8f1c-e6133c68a2c0": {
+   "fingerprint": "550fa64205810ed6",
+   "first_reported": "2026-11-03T06:40:26-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-03T06:40:26-06:00",
+   "player": "J. Roberson",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Washington"
+  },
+  "10/30/2026|football|kbrown|hatley|e2795b01-22a3-435a-b249-195fcba60d76": {
+   "fingerprint": "c41a01bfaccd2ab3",
+   "first_reported": "2026-11-03T06:40:26-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-03T06:40:26-06:00",
+   "player": "K. Brown",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Hatley"
+  },
+  "10/30/2026|football|kcopeland|parklaneacademy|1ac1d1a1-abef-43d8-9e11-0a6f10689478": {
+   "fingerprint": "2c66d40fa1fa500e",
+   "first_reported": "2026-11-03T06:40:26-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-03T06:40:26-06:00",
+   "player": "K. Copeland",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Parklane Academy"
+  },
   "10/30/2026|football|kharper|pascagoula|59cc014b-456f-4c09-ab28-c5d499ef6d0c": {
    "fingerprint": "d93d2139aa4e5df7",
    "first_reported": "2026-11-02T06:47:15-06:00",
@@ -9259,6 +9359,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Pascagoula"
+  },
+  "10/30/2026|football|kraston|mosspoint|f2c209dd-415c-4f46-a280-e867cc61f428": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-11-03T06:40:26-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-03T06:40:26-06:00",
+   "player": "K. Raston",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Moss Point"
   },
   "10/30/2026|football|kreed|olivebranch|d4df7a59-1258-479c-82dc-80beb9314e72": {
    "fingerprint": "1b9009823c06a9bd",
@@ -9299,6 +9409,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Provine"
+  },
+  "10/30/2026|football|lcato|mosspoint|f2c209dd-415c-4f46-a280-e867cc61f428": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-11-03T06:40:26-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-03T06:40:26-06:00",
+   "player": "L. Cato",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Moss Point"
   },
   "10/30/2026|football|lnorsworthy|hartfieldacademy|b7a8767e-19f1-4618-a21b-e0ea0e1baafc": {
    "fingerprint": "e2911c145d3fd60e",
@@ -9380,6 +9500,16 @@
    "sport": "football",
    "team": "Hernando"
   },
+  "10/30/2026|football|rrobinson|parklaneacademy|1ac1d1a1-abef-43d8-9e11-0a6f10689478": {
+   "fingerprint": "47a675d5c76710ad",
+   "first_reported": "2026-11-03T06:40:26-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-03T06:40:26-06:00",
+   "player": "R. Robinson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Parklane Academy"
+  },
   "10/30/2026|football|sjoslin|hamilton|e2795b01-22a3-435a-b249-195fcba60d76": {
    "fingerprint": "960a5770333bf889",
    "first_reported": "2026-11-01T06:36:59-06:00",
@@ -9450,6 +9580,26 @@
    "sport": "football",
    "team": "Terry"
   },
+  "10/30/2026|football|trobinson|brandon|b9499913-5d31-4183-9139-3edf6b4fc21c": {
+   "fingerprint": "6c50f00746153f36",
+   "first_reported": "2026-11-03T06:40:26-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-03T06:40:26-06:00",
+   "player": "T. Robinson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Brandon"
+  },
+  "10/30/2026|football|tsmith|parklaneacademy|1ac1d1a1-abef-43d8-9e11-0a6f10689478": {
+   "fingerprint": "8eb3aa4710e40631",
+   "first_reported": "2026-11-03T06:40:26-06:00",
+   "game_date": "10/30/2026",
+   "last_reported": "2026-11-03T06:40:26-06:00",
+   "player": "T. Smith",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Parklane Academy"
+  },
   "10/30/2026|football|twelch|brookhavenacademy|24940bc9-437d-47ac-8e00-39f77098ccb8": {
    "fingerprint": "fd2ef408180a7353",
    "first_reported": "2026-10-31T07:32:27-05:00",
@@ -9501,6 +9651,6 @@
    "team": "Laurel"
   }
  },
- "updated": "2026-11-02T06:47:15-06:00",
+ "updated": "2026-11-03T06:40:26-06:00",
  "version": 1
 }
