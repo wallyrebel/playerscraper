@@ -9649,8 +9649,68 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Laurel"
+  },
+  "11/02/2026|boys-basketball|kdukesjr|christiancollegiateacademy|119d64d2-0138-4f44-ae4e-72d10aa2fad5": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-04T06:45:20-06:00",
+   "game_date": "11/02/2026",
+   "last_reported": "2026-11-04T06:45:20-06:00",
+   "player": "K. Dukes Jr.",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Christian Collegiate Academy"
+  },
+  "11/02/2026|boys-soccer|clyle|pisgah|61f30ccf-34a5-48b9-96fc-ec7311cd31d8": {
+   "fingerprint": "d5c8a2073be2caa4",
+   "first_reported": "2026-11-04T06:45:20-06:00",
+   "game_date": "11/02/2026",
+   "last_reported": "2026-11-04T06:45:20-06:00",
+   "player": "C. Lyle",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Pisgah"
+  },
+  "11/02/2026|boys-soccer|ppounders|booneville|c6bda062-aef2-4d11-989f-d99abb42a1da": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-04T06:45:20-06:00",
+   "game_date": "11/02/2026",
+   "last_reported": "2026-11-04T06:45:20-06:00",
+   "player": "P. Pounders",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Booneville"
+  },
+  "11/02/2026|girls-basketball|kdukesjr|christiancollegiateacademy|119d64d2-0138-4f44-ae4e-72d10aa2fad5": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-04T06:45:20-06:00",
+   "game_date": "11/02/2026",
+   "last_reported": "2026-11-04T06:45:20-06:00",
+   "player": "K. Dukes Jr.",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Christian Collegiate Academy"
+  },
+  "11/02/2026|girls-soccer|clyle|pisgah|61f30ccf-34a5-48b9-96fc-ec7311cd31d8": {
+   "fingerprint": "d5c8a2073be2caa4",
+   "first_reported": "2026-11-04T06:45:20-06:00",
+   "game_date": "11/02/2026",
+   "last_reported": "2026-11-04T06:45:20-06:00",
+   "player": "C. Lyle",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Pisgah"
+  },
+  "11/02/2026|girls-soccer|ppounders|booneville|c6bda062-aef2-4d11-989f-d99abb42a1da": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-04T06:45:20-06:00",
+   "game_date": "11/02/2026",
+   "last_reported": "2026-11-04T06:45:20-06:00",
+   "player": "P. Pounders",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Booneville"
   }
  },
- "updated": "2026-11-03T06:40:26-06:00",
+ "updated": "2026-11-04T06:45:20-06:00",
  "version": 1
 }
