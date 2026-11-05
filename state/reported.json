@@ -9670,6 +9670,16 @@
    "sport": "boys-soccer",
    "team": "Pisgah"
   },
+  "11/02/2026|boys-soccer|kwaldrop|loydstar|61f30ccf-34a5-48b9-96fc-ec7311cd31d8": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/02/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "K. Waldrop",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Loyd Star"
+  },
   "11/02/2026|boys-soccer|ppounders|booneville|c6bda062-aef2-4d11-989f-d99abb42a1da": {
    "fingerprint": "c6a2e4f51eee1080",
    "first_reported": "2026-11-04T06:45:20-06:00",
@@ -9679,6 +9689,16 @@
    "reason_count": 1,
    "sport": "boys-soccer",
    "team": "Booneville"
+  },
+  "11/02/2026|boys-soccer|soberschmidt|wesson|4200d373-8dc5-42bc-91b6-b90ced34a9e5": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/02/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "S. Oberschmidt",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Wesson"
   },
   "11/02/2026|girls-basketball|kdukesjr|christiancollegiateacademy|119d64d2-0138-4f44-ae4e-72d10aa2fad5": {
    "fingerprint": "4aba233025787a6b",
@@ -9700,6 +9720,16 @@
    "sport": "girls-soccer",
    "team": "Pisgah"
   },
+  "11/02/2026|girls-soccer|kwaldrop|loydstar|61f30ccf-34a5-48b9-96fc-ec7311cd31d8": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/02/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "K. Waldrop",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Loyd Star"
+  },
   "11/02/2026|girls-soccer|ppounders|booneville|c6bda062-aef2-4d11-989f-d99abb42a1da": {
    "fingerprint": "c6a2e4f51eee1080",
    "first_reported": "2026-11-04T06:45:20-06:00",
@@ -9709,8 +9739,178 @@
    "reason_count": 1,
    "sport": "girls-soccer",
    "team": "Booneville"
+  },
+  "11/02/2026|girls-soccer|soberschmidt|wesson|4200d373-8dc5-42bc-91b6-b90ced34a9e5": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/02/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "S. Oberschmidt",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Wesson"
+  },
+  "11/03/2026|boys-basketball|rmallory|eastmarion|708d51d8-e4cd-4d42-81d7-abe6f37897a2": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/03/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "R. Mallory",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "East Marion"
+  },
+  "11/03/2026|boys-basketball|twalker|stmartin|17a8dabb-8e90-46f9-befd-c85274178505": {
+   "fingerprint": "aa3e230910a8d4f2",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/03/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "T. Walker",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "St. Martin"
+  },
+  "11/03/2026|boys-basketball|zbooth|collins|b21159b1-f3e5-4ec7-ab74-51916db6f2e3": {
+   "fingerprint": "a7c0a7e4044c1a8a",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/03/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "Z. Booth",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Collins"
+  },
+  "11/03/2026|boys-soccer|awichman|lamar|a2bc4d90-b429-43b1-8892-810cb265a177": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/03/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "A. Wichman",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Lamar"
+  },
+  "11/03/2026|boys-soccer|bharris|lamar|a2bc4d90-b429-43b1-8892-810cb265a177": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/03/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "B. Harris",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Lamar"
+  },
+  "11/03/2026|boys-soccer|bwilliams|hartfieldacademy|b760910a-8337-4c97-ba10-c4e173a44f5b": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/03/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "B. Williams",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Hartfield Academy"
+  },
+  "11/03/2026|boys-soccer|clee|mooreville|378c7082-37ec-425b-a194-13523be5ccff": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/03/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "C. Lee",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Mooreville"
+  },
+  "11/03/2026|boys-soccer|wrecinos|lawrencecounty|74c6d4ff-934b-4ad8-abbf-b61c5853bef1": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/03/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "W. Recinos",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Lawrence County"
+  },
+  "11/03/2026|girls-basketball|rmallory|eastmarion|708d51d8-e4cd-4d42-81d7-abe6f37897a2": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/03/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "R. Mallory",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "East Marion"
+  },
+  "11/03/2026|girls-basketball|twalker|stmartin|17a8dabb-8e90-46f9-befd-c85274178505": {
+   "fingerprint": "aa3e230910a8d4f2",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/03/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "T. Walker",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "St. Martin"
+  },
+  "11/03/2026|girls-basketball|zbooth|collins|b21159b1-f3e5-4ec7-ab74-51916db6f2e3": {
+   "fingerprint": "a7c0a7e4044c1a8a",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/03/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "Z. Booth",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Collins"
+  },
+  "11/03/2026|girls-soccer|awichman|lamar|a2bc4d90-b429-43b1-8892-810cb265a177": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/03/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "A. Wichman",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Lamar"
+  },
+  "11/03/2026|girls-soccer|bharris|lamar|a2bc4d90-b429-43b1-8892-810cb265a177": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/03/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "B. Harris",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Lamar"
+  },
+  "11/03/2026|girls-soccer|bwilliams|hartfieldacademy|b760910a-8337-4c97-ba10-c4e173a44f5b": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/03/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "B. Williams",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Hartfield Academy"
+  },
+  "11/03/2026|girls-soccer|clee|mooreville|378c7082-37ec-425b-a194-13523be5ccff": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/03/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "C. Lee",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Mooreville"
+  },
+  "11/03/2026|girls-soccer|wrecinos|lawrencecounty|74c6d4ff-934b-4ad8-abbf-b61c5853bef1": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-05T06:53:24-06:00",
+   "game_date": "11/03/2026",
+   "last_reported": "2026-11-05T06:53:24-06:00",
+   "player": "W. Recinos",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Lawrence County"
   }
  },
- "updated": "2026-11-04T06:45:20-06:00",
+ "updated": "2026-11-05T06:53:24-06:00",
  "version": 1
 }
