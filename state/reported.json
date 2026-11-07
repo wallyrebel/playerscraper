@@ -9909,8 +9909,268 @@
    "reason_count": 1,
    "sport": "girls-soccer",
    "team": "Lawrence County"
+  },
+  "11/05/2026|boys-basketball|jmuse|byhalia|5f3af231-6cfa-4a0c-acf0-c35292ad8aef": {
+   "fingerprint": "271e10e1e337db7e",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "J. Muse",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Byhalia"
+  },
+  "11/05/2026|boys-soccer|ogutierrez|vardaman|63fa9ca2-4cd3-4b1f-b8e7-9c7e4828271d": {
+   "fingerprint": "d5c8a2073be2caa4",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "O. Gutierrez",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Vardaman"
+  },
+  "11/05/2026|football|agreen|stone|1619b100-92ae-4d78-aeed-38312cf68530": {
+   "fingerprint": "13fd33a218625710",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "A. Green",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Stone"
+  },
+  "11/05/2026|football|apinkins|hornlake|a0ea433b-599c-4061-a8bb-91004a81da25": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "A. Pinkins",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Horn Lake"
+  },
+  "11/05/2026|football|cpasley|stone|1619b100-92ae-4d78-aeed-38312cf68530": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "C. Pasley",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Stone"
+  },
+  "11/05/2026|football|ddean|tupelo|6e0b62ed-d581-433c-8022-4af83ea4d677": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "D. Dean",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Tupelo"
+  },
+  "11/05/2026|football|dsullivan|oceansprings|82c3d508-ed2e-4319-b1c4-347a21d193c7": {
+   "fingerprint": "f018d110c8a23450",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "D. Sullivan",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Ocean Springs"
+  },
+  "11/05/2026|football|fadams|tupelo|6e0b62ed-d581-433c-8022-4af83ea4d677": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "F. Adams",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Tupelo"
+  },
+  "11/05/2026|football|ghill|meridian|1e786406-6135-4655-bfe2-0baeca0b5193": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "G. Hill",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Meridian"
+  },
+  "11/05/2026|football|jbibbs|brookhaven|7c448176-a155-4df9-be94-edf0913a06e2": {
+   "fingerprint": "d97a7aad10a0f4b8",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "J. Bibbs",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Brookhaven"
+  },
+  "11/05/2026|football|jbrunini|madisoncentral|26fe9e16-9bf0-46e5-b45c-5cc16ac28dc9": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "J. Brunini",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Madison Central"
+  },
+  "11/05/2026|football|jgates|hornlake|a0ea433b-599c-4061-a8bb-91004a81da25": {
+   "fingerprint": "2ae6701bbce9f143",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "J. Gates",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Horn Lake"
+  },
+  "11/05/2026|football|jglaude|pascagoula|f591eac8-51f0-4f4d-8676-0b1033e7e85d": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "J. Glaude",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pascagoula"
+  },
+  "11/05/2026|football|jwilkey|hernando|a1b56353-17cc-49cc-bcd3-61d8cdba681c": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "J. Wilkey",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Hernando"
+  },
+  "11/05/2026|football|khall|oakgrove|fc9dc19b-d66c-4b6a-ac05-db04500632ff": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "K. Hall",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Oak Grove"
+  },
+  "11/05/2026|football|kmcneil|gautier|f591eac8-51f0-4f4d-8676-0b1033e7e85d": {
+   "fingerprint": "ae43c3ecedbac22f",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "K. McNeil",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Gautier"
+  },
+  "11/05/2026|football|kmitchell|clevelandcentral|97b73ad7-dec3-40d1-9adc-3ef2059e67e4": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "K. Mitchell",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Cleveland Central"
+  },
+  "11/05/2026|football|lbranson|germantown|1154ad93-a080-490d-8fc0-0d4e93c0cb7c": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "L. Branson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Germantown"
+  },
+  "11/05/2026|football|lhardy|brookhaven|7c448176-a155-4df9-be94-edf0913a06e2": {
+   "fingerprint": "da3a7506ee39134b",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "L. Hardy",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Brookhaven"
+  },
+  "11/05/2026|football|mjones|pontotoc|8c70c284-d77f-48f7-959f-44a39bf9b23f": {
+   "fingerprint": "00f2567e8f297a1d",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "M. Jones",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Pontotoc"
+  },
+  "11/05/2026|football|xdennis|picayune|b933b52b-7975-49f9-80b1-ff158782c8b9": {
+   "fingerprint": "2bce8565493d1f5e",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "X. Dennis",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Picayune"
+  },
+  "11/05/2026|football|xfoxworth|picayune|b933b52b-7975-49f9-80b1-ff158782c8b9": {
+   "fingerprint": "323fb2c981dc8c4f",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "X. Foxworth",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Picayune"
+  },
+  "11/05/2026|girls-basketball|jmuse|byhalia|5f3af231-6cfa-4a0c-acf0-c35292ad8aef": {
+   "fingerprint": "271e10e1e337db7e",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "J. Muse",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Byhalia"
+  },
+  "11/05/2026|girls-soccer|ogutierrez|vardaman|63fa9ca2-4cd3-4b1f-b8e7-9c7e4828271d": {
+   "fingerprint": "d5c8a2073be2caa4",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "O. Gutierrez",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Vardaman"
+  },
+  "11/06/2026|football|jroberson|washington|fc00a231-7c33-4dc2-9196-a31291f4fd10": {
+   "fingerprint": "e945cf1a5f01550e",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "J. Roberson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Washington"
+  },
+  "11/06/2026|football|wspinks|leeacademy|34f4b94c-c79e-4ae0-a368-e769f058a0b4": {
+   "fingerprint": "bff0013ccec64bc1",
+   "first_reported": "2026-11-07T07:16:53-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-07T07:16:53-06:00",
+   "player": "W. Spinks",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Lee Academy"
   }
  },
- "updated": "2026-11-05T06:53:24-06:00",
+ "updated": "2026-11-07T07:16:53-06:00",
  "version": 1
 }
