@@ -10000,6 +10000,26 @@
    "sport": "football",
    "team": "Meridian"
   },
+  "11/05/2026|football|iharlan|biloxi|8ac60c4a-2a69-462a-b202-55aa00646702": {
+   "fingerprint": "550f696ab342f3ec",
+   "first_reported": "2026-11-08T07:04:38-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-08T07:04:38-06:00",
+   "player": "I. Harlan",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Biloxi"
+  },
+  "11/05/2026|football|jallen|gautier|f591eac8-51f0-4f4d-8676-0b1033e7e85d": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-11-08T07:04:38-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-08T07:04:38-06:00",
+   "player": "J. Allen",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Gautier"
+  },
   "11/05/2026|football|jbibbs|brookhaven|7c448176-a155-4df9-be94-edf0913a06e2": {
    "fingerprint": "d97a7aad10a0f4b8",
    "first_reported": "2026-11-07T07:16:53-06:00",
@@ -10039,6 +10059,26 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Pascagoula"
+  },
+  "11/05/2026|football|jjohnson|diberville|8ac60c4a-2a69-462a-b202-55aa00646702": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-11-08T07:04:38-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-08T07:04:38-06:00",
+   "player": "J. Johnson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "D'Iberville"
+  },
+  "11/05/2026|football|jwalley|diberville|8ac60c4a-2a69-462a-b202-55aa00646702": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-08T07:04:38-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-08T07:04:38-06:00",
+   "player": "J. Walley",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "D'Iberville"
   },
   "11/05/2026|football|jwilkey|hernando|a1b56353-17cc-49cc-bcd3-61d8cdba681c": {
    "fingerprint": "e2911c145d3fd60e",
@@ -10110,6 +10150,16 @@
    "sport": "football",
    "team": "Pontotoc"
   },
+  "11/05/2026|football|nteater|purvis|1ccf63f5-8b95-4b50-ba47-ff54d5c239f4": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-11-08T07:04:38-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-08T07:04:38-06:00",
+   "player": "N. Teater",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Purvis"
+  },
   "11/05/2026|football|xdennis|picayune|b933b52b-7975-49f9-80b1-ff158782c8b9": {
    "fingerprint": "2bce8565493d1f5e",
    "first_reported": "2026-11-07T07:16:53-06:00",
@@ -10150,6 +10200,46 @@
    "sport": "girls-soccer",
    "team": "Vardaman"
   },
+  "11/06/2026|boys-basketball|cwade|hillcrestchristian|b9f474fc-bd9d-4816-be04-f9272fc12e07": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-08T07:04:38-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-08T07:04:38-06:00",
+   "player": "C. Wade",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Hillcrest Christian"
+  },
+  "11/06/2026|football|dscott|coffeeville|4e32f1de-216c-408f-b67a-fa56760acf3a": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-11-08T07:04:38-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-08T07:04:38-06:00",
+   "player": "D. Scott",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Coffeeville"
+  },
+  "11/06/2026|football|greese|northdelta|5ffcc11c-71a8-442b-ad73-3e2345c41391": {
+   "fingerprint": "967e9c085c5ede49",
+   "first_reported": "2026-11-08T07:04:38-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-08T07:04:38-06:00",
+   "player": "G. Reese",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "North Delta"
+  },
+  "11/06/2026|football|jreeder|staloysius|92f5eb9b-4406-4d66-8a9e-1c1e44381de3": {
+   "fingerprint": "323fb2c981dc8c4f",
+   "first_reported": "2026-11-08T07:04:38-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-08T07:04:38-06:00",
+   "player": "J. Reeder",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "St. Aloysius"
+  },
   "11/06/2026|football|jroberson|washington|fc00a231-7c33-4dc2-9196-a31291f4fd10": {
    "fingerprint": "e945cf1a5f01550e",
    "first_reported": "2026-11-07T07:16:53-06:00",
@@ -10160,6 +10250,26 @@
    "sport": "football",
    "team": "Washington"
   },
+  "11/06/2026|football|jyates|eupora|bbe538e2-eeff-4490-a48b-abee40757830": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-11-08T07:04:38-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-08T07:04:38-06:00",
+   "player": "J. Yates",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Eupora"
+  },
+  "11/06/2026|football|pshipp|northdelta|5ffcc11c-71a8-442b-ad73-3e2345c41391": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-11-08T07:04:38-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-08T07:04:38-06:00",
+   "player": "P. Shipp",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "North Delta"
+  },
   "11/06/2026|football|wspinks|leeacademy|34f4b94c-c79e-4ae0-a368-e769f058a0b4": {
    "fingerprint": "bff0013ccec64bc1",
    "first_reported": "2026-11-07T07:16:53-06:00",
@@ -10169,8 +10279,38 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Lee Academy"
+  },
+  "11/06/2026|girls-basketball|cwade|hillcrestchristian|b9f474fc-bd9d-4816-be04-f9272fc12e07": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-08T07:04:38-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-08T07:04:38-06:00",
+   "player": "C. Wade",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Hillcrest Christian"
+  },
+  "11/07/2026|boys-basketball|iveverka|jacksonhomeschool|76838434-8b76-4428-b121-5133124955e7": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-08T07:04:38-06:00",
+   "game_date": "11/07/2026",
+   "last_reported": "2026-11-08T07:04:38-06:00",
+   "player": "I. Veverka",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Jackson HomeSchool"
+  },
+  "11/07/2026|girls-basketball|iveverka|jacksonhomeschool|76838434-8b76-4428-b121-5133124955e7": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-08T07:04:38-06:00",
+   "game_date": "11/07/2026",
+   "last_reported": "2026-11-08T07:04:38-06:00",
+   "player": "I. Veverka",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Jackson HomeSchool"
   }
  },
- "updated": "2026-11-07T07:16:53-06:00",
+ "updated": "2026-11-08T07:04:38-06:00",
  "version": 1
 }
