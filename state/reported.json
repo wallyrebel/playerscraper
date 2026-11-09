@@ -10070,6 +10070,16 @@
    "sport": "football",
    "team": "D'Iberville"
   },
+  "11/05/2026|football|jvaughn|lafayette|8c70c284-d77f-48f7-959f-44a39bf9b23f": {
+   "fingerprint": "bff0013ccec64bc1",
+   "first_reported": "2026-11-09T07:10:08-06:00",
+   "game_date": "11/05/2026",
+   "last_reported": "2026-11-09T07:10:08-06:00",
+   "player": "J. Vaughn",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Lafayette"
+  },
   "11/05/2026|football|jwalley|diberville|8ac60c4a-2a69-462a-b202-55aa00646702": {
    "fingerprint": "9ac3d9e8216ff223",
    "first_reported": "2026-11-08T07:04:38-06:00",
@@ -10210,6 +10220,46 @@
    "sport": "boys-basketball",
    "team": "Hillcrest Christian"
   },
+  "11/06/2026|football|abeasley|jacksonacademy|1b2c2b6a-6e1d-4948-88b2-b4d1153089c8": {
+   "fingerprint": "3ed17a301a7bc192",
+   "first_reported": "2026-11-09T07:10:08-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-09T07:10:08-06:00",
+   "player": "A. Beasley",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Jackson Academy"
+  },
+  "11/06/2026|football|awalls|vardaman|823feb00-0b52-442f-b98a-48e389f72b00": {
+   "fingerprint": "03e0c57ab48f5b0c",
+   "first_reported": "2026-11-09T07:10:08-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-09T07:10:08-06:00",
+   "player": "A. Walls",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Vardaman"
+  },
+  "11/06/2026|football|ccraft|heidelberg|d8938896-86cf-46dc-92eb-c0c7c16a5536": {
+   "fingerprint": "38c9db7b38baf72d",
+   "first_reported": "2026-11-09T07:10:08-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-09T07:10:08-06:00",
+   "player": "C. Craft",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Heidelberg"
+  },
+  "11/06/2026|football|dcarter|perrycentral|d4eda3d2-ac8e-4b89-bb5b-cdbebe03d2f1": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-11-09T07:10:08-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-09T07:10:08-06:00",
+   "player": "D. Carter",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Perry Central"
+  },
   "11/06/2026|football|dscott|coffeeville|4e32f1de-216c-408f-b67a-fa56760acf3a": {
    "fingerprint": "e2911c145d3fd60e",
    "first_reported": "2026-11-08T07:04:38-06:00",
@@ -10219,6 +10269,36 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Coffeeville"
+  },
+  "11/06/2026|football|eelliott|hartfieldacademy|38b0b907-139f-41a0-b038-8c88a30f82d8": {
+   "fingerprint": "f018d110c8a23450",
+   "first_reported": "2026-11-09T07:10:08-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-09T07:10:08-06:00",
+   "player": "E. Elliott",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Hartfield Academy"
+  },
+  "11/06/2026|football|ejordan|winstonacademy|5ffcc11c-71a8-442b-ad73-3e2345c41391": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-11-09T07:10:08-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-09T07:10:08-06:00",
+   "player": "E. Jordan",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Winston Academy"
+  },
+  "11/06/2026|football|emccoy|perrycentral|d4eda3d2-ac8e-4b89-bb5b-cdbebe03d2f1": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-11-09T07:10:08-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-09T07:10:08-06:00",
+   "player": "E. McCoy",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Perry Central"
   },
   "11/06/2026|football|greese|northdelta|5ffcc11c-71a8-442b-ad73-3e2345c41391": {
    "fingerprint": "967e9c085c5ede49",
@@ -10260,6 +10340,26 @@
    "sport": "football",
    "team": "Eupora"
   },
+  "11/06/2026|football|kashford|winstonacademy|5ffcc11c-71a8-442b-ad73-3e2345c41391": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-11-09T07:10:08-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-09T07:10:08-06:00",
+   "player": "K. Ashford",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Winston Academy"
+  },
+  "11/06/2026|football|kporter|heidelberg|d8938896-86cf-46dc-92eb-c0c7c16a5536": {
+   "fingerprint": "d97a7aad10a0f4b8",
+   "first_reported": "2026-11-09T07:10:08-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-09T07:10:08-06:00",
+   "player": "K. Porter",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Heidelberg"
+  },
   "11/06/2026|football|pshipp|northdelta|5ffcc11c-71a8-442b-ad73-3e2345c41391": {
    "fingerprint": "e2911c145d3fd60e",
    "first_reported": "2026-11-08T07:04:38-06:00",
@@ -10269,6 +10369,36 @@
    "reason_count": 1,
    "sport": "football",
    "team": "North Delta"
+  },
+  "11/06/2026|football|rclearman|westlauderdale|b3ac4b64-0ddf-4298-b3a3-fc00c79ab10c": {
+   "fingerprint": "a93173187220d6b2",
+   "first_reported": "2026-11-09T07:10:08-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-09T07:10:08-06:00",
+   "player": "R. Clearman",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "West Lauderdale"
+  },
+  "11/06/2026|football|thill|winstonacademy|5ffcc11c-71a8-442b-ad73-3e2345c41391": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-11-09T07:10:08-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-09T07:10:08-06:00",
+   "player": "T. Hill",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Winston Academy"
+  },
+  "11/06/2026|football|vtaylor|jacksonacademy|1b2c2b6a-6e1d-4948-88b2-b4d1153089c8": {
+   "fingerprint": "3a6d77ffed9f4c50",
+   "first_reported": "2026-11-09T07:10:08-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-09T07:10:08-06:00",
+   "player": "V. Taylor",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Jackson Academy"
   },
   "11/06/2026|football|wspinks|leeacademy|34f4b94c-c79e-4ae0-a368-e769f058a0b4": {
    "fingerprint": "bff0013ccec64bc1",
@@ -10300,6 +10430,16 @@
    "sport": "boys-basketball",
    "team": "Jackson HomeSchool"
   },
+  "11/07/2026|boys-basketball|jdowdy|hollysprings|fd9a70e5-9bfd-45f3-8838-ca4bcca6725d": {
+   "fingerprint": "2d27b0939d501f51",
+   "first_reported": "2026-11-09T07:10:08-06:00",
+   "game_date": "11/07/2026",
+   "last_reported": "2026-11-09T07:10:08-06:00",
+   "player": "J. DOWDY",
+   "reason_count": 2,
+   "sport": "boys-basketball",
+   "team": "Holly Springs"
+  },
   "11/07/2026|girls-basketball|iveverka|jacksonhomeschool|76838434-8b76-4428-b121-5133124955e7": {
    "fingerprint": "7a65e21dd0e99ce8",
    "first_reported": "2026-11-08T07:04:38-06:00",
@@ -10309,8 +10449,18 @@
    "reason_count": 1,
    "sport": "girls-basketball",
    "team": "Jackson HomeSchool"
+  },
+  "11/07/2026|girls-basketball|jdowdy|hollysprings|fd9a70e5-9bfd-45f3-8838-ca4bcca6725d": {
+   "fingerprint": "2d27b0939d501f51",
+   "first_reported": "2026-11-09T07:10:08-06:00",
+   "game_date": "11/07/2026",
+   "last_reported": "2026-11-09T07:10:08-06:00",
+   "player": "J. DOWDY",
+   "reason_count": 2,
+   "sport": "girls-basketball",
+   "team": "Holly Springs"
   }
  },
- "updated": "2026-11-08T07:04:38-06:00",
+ "updated": "2026-11-09T07:10:08-06:00",
  "version": 1
 }
