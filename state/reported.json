@@ -10210,6 +10210,16 @@
    "sport": "girls-soccer",
    "team": "Vardaman"
   },
+  "11/06/2026|boys-basketball|cfinchjr|longbeach|ae0c0252-70a0-474e-8942-91d344d019e0": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "C. Finch jr",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Long Beach"
+  },
   "11/06/2026|boys-basketball|cwade|hillcrestchristian|b9f474fc-bd9d-4816-be04-f9272fc12e07": {
    "fingerprint": "4aba233025787a6b",
    "first_reported": "2026-11-08T07:04:38-06:00",
@@ -10219,6 +10229,16 @@
    "reason_count": 1,
    "sport": "boys-basketball",
    "team": "Hillcrest Christian"
+  },
+  "11/06/2026|boys-soccer|obacapolanco|ridgeland|db54a3d8-d79d-43a4-af9a-7799a58c3e28": {
+   "fingerprint": "b34ee43f96e43ca3",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "O. Baca Polanco",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Ridgeland"
   },
   "11/06/2026|football|abeasley|jacksonacademy|1b2c2b6a-6e1d-4948-88b2-b4d1153089c8": {
    "fingerprint": "3ed17a301a7bc192",
@@ -10230,6 +10250,26 @@
    "sport": "football",
    "team": "Jackson Academy"
   },
+  "11/06/2026|football|ajenkins|kempercounty|8e0b5449-8ec8-49bb-ae99-38656670e68d": {
+   "fingerprint": "138ed9dd10cd8367",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "A. Jenkins",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Kemper County"
+  },
+  "11/06/2026|football|avasser|aberdeen|c83dae19-bc46-431e-baf6-9e90a0e3939e": {
+   "fingerprint": "276d1cd4f70ada9f",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "A. Vasser",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Aberdeen"
+  },
   "11/06/2026|football|awalls|vardaman|823feb00-0b52-442f-b98a-48e389f72b00": {
    "fingerprint": "03e0c57ab48f5b0c",
    "first_reported": "2026-11-09T07:10:08-06:00",
@@ -10239,6 +10279,26 @@
    "reason_count": 2,
    "sport": "football",
    "team": "Vardaman"
+  },
+  "11/06/2026|football|awootenjr|kempercounty|8e0b5449-8ec8-49bb-ae99-38656670e68d": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "A. Wooten Jr.",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Kemper County"
+  },
+  "11/06/2026|football|bhaines|hazlehurst|b67bbc47-a212-463d-a3f6-0d16cbab08e8": {
+   "fingerprint": "5b1d3c07d43b0ea5",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "B. Haines",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Hazlehurst"
   },
   "11/06/2026|football|ccraft|heidelberg|d8938896-86cf-46dc-92eb-c0c7c16a5536": {
    "fingerprint": "38c9db7b38baf72d",
@@ -10250,6 +10310,16 @@
    "sport": "football",
    "team": "Heidelberg"
   },
+  "11/06/2026|football|chunt|tricountyacademy|af450fa5-436a-4fd7-924a-2477e11c2f4c": {
+   "fingerprint": "946598bb34d88f7b",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "C. Hunt",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Tri-County Academy"
+  },
   "11/06/2026|football|dcarter|perrycentral|d4eda3d2-ac8e-4b89-bb5b-cdbebe03d2f1": {
    "fingerprint": "e2911c145d3fd60e",
    "first_reported": "2026-11-09T07:10:08-06:00",
@@ -10260,6 +10330,26 @@
    "sport": "football",
    "team": "Perry Central"
   },
+  "11/06/2026|football|ddossjr|amandaelzy|6151c1fe-dc7c-4733-8ac7-aa604be76e91": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "D. Doss, Jr.",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Amanda Elzy"
+  },
+  "11/06/2026|football|dmcdonald|morton|1299e163-6a7c-47e0-8b5c-606a9d18fec5": {
+   "fingerprint": "3329203b2153d693",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "D. Mcdonald",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Morton"
+  },
   "11/06/2026|football|dscott|coffeeville|4e32f1de-216c-408f-b67a-fa56760acf3a": {
    "fingerprint": "e2911c145d3fd60e",
    "first_reported": "2026-11-08T07:04:38-06:00",
@@ -10269,6 +10359,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Coffeeville"
+  },
+  "11/06/2026|football|dwatson|senatobia|48ae519b-88dc-4316-8915-d400e33e1844": {
+   "fingerprint": "c3bb0848c82cae7e",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "D. Watson",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Senatobia"
   },
   "11/06/2026|football|eelliott|hartfieldacademy|38b0b907-139f-41a0-b038-8c88a30f82d8": {
    "fingerprint": "f018d110c8a23450",
@@ -10310,6 +10410,26 @@
    "sport": "football",
    "team": "North Delta"
   },
+  "11/06/2026|football|jbreland|forrestcountyagricultural|1299e163-6a7c-47e0-8b5c-606a9d18fec5": {
+   "fingerprint": "da3a7506ee39134b",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "J. BRELAND",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Forrest County Agricultural"
+  },
+  "11/06/2026|football|jdear|quitman|5fb5da8e-8d3f-46e3-85ea-dd9154ce8b2f": {
+   "fingerprint": "f09b42d3fc4b83fd",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "J. Dear",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Quitman"
+  },
   "11/06/2026|football|jreeder|staloysius|92f5eb9b-4406-4d66-8a9e-1c1e44381de3": {
    "fingerprint": "323fb2c981dc8c4f",
    "first_reported": "2026-11-08T07:04:38-06:00",
@@ -10329,6 +10449,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Washington"
+  },
+  "11/06/2026|football|jstowers|morton|1299e163-6a7c-47e0-8b5c-606a9d18fec5": {
+   "fingerprint": "645e3e38ef6fadd8",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "J. Stowers",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Morton"
   },
   "11/06/2026|football|jyates|eupora|bbe538e2-eeff-4490-a48b-abee40757830": {
    "fingerprint": "c8c47321704cc4c3",
@@ -10360,6 +10490,36 @@
    "sport": "football",
    "team": "Heidelberg"
   },
+  "11/06/2026|football|kshaffer|yazoocounty|3224efbd-41fb-4af5-aac5-e21725a8d1d4": {
+   "fingerprint": "da3a7506ee39134b",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "K. Shaffer",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Yazoo County"
+  },
+  "11/06/2026|football|mburks|passchristian|8a566bd6-cd45-4cbf-b017-faa66309747a": {
+   "fingerprint": "d97a7aad10a0f4b8",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "M. Burks",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pass Christian"
+  },
+  "11/06/2026|football|pperkins|eupora|bbe538e2-eeff-4490-a48b-abee40757830": {
+   "fingerprint": "7c69c4d33d800d40",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "P. Perkins",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Eupora"
+  },
   "11/06/2026|football|pshipp|northdelta|5ffcc11c-71a8-442b-ad73-3e2345c41391": {
    "fingerprint": "e2911c145d3fd60e",
    "first_reported": "2026-11-08T07:04:38-06:00",
@@ -10369,6 +10529,26 @@
    "reason_count": 1,
    "sport": "football",
    "team": "North Delta"
+  },
+  "11/06/2026|football|ptrivillion|passchristian|8a566bd6-cd45-4cbf-b017-faa66309747a": {
+   "fingerprint": "5aa44ba7d8d2dd0d",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "P. Trivillion",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Pass Christian"
+  },
+  "11/06/2026|football|qfairley|pisgah|b67bbc47-a212-463d-a3f6-0d16cbab08e8": {
+   "fingerprint": "95b5c27c140febac",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "Q. Fairley",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pisgah"
   },
   "11/06/2026|football|rclearman|westlauderdale|b3ac4b64-0ddf-4298-b3a3-fc00c79ab10c": {
    "fingerprint": "a93173187220d6b2",
@@ -10380,6 +10560,16 @@
    "sport": "football",
    "team": "West Lauderdale"
   },
+  "11/06/2026|football|tdavis|mccomb|9581d81c-0b97-4ddf-9745-c64663ec0303": {
+   "fingerprint": "38c9db7b38baf72d",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "T. Davis",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "McComb"
+  },
   "11/06/2026|football|thill|winstonacademy|5ffcc11c-71a8-442b-ad73-3e2345c41391": {
    "fingerprint": "81d4baf3442fa352",
    "first_reported": "2026-11-09T07:10:08-06:00",
@@ -10389,6 +10579,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Winston Academy"
+  },
+  "11/06/2026|football|trobinson|forrestcountyagricultural|1299e163-6a7c-47e0-8b5c-606a9d18fec5": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "T. ROBINSON",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Forrest County Agricultural"
   },
   "11/06/2026|football|vtaylor|jacksonacademy|1b2c2b6a-6e1d-4948-88b2-b4d1153089c8": {
    "fingerprint": "3a6d77ffed9f4c50",
@@ -10410,6 +10610,16 @@
    "sport": "football",
    "team": "Lee Academy"
   },
+  "11/06/2026|girls-basketball|cfinchjr|longbeach|ae0c0252-70a0-474e-8942-91d344d019e0": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "C. Finch jr",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Long Beach"
+  },
   "11/06/2026|girls-basketball|cwade|hillcrestchristian|b9f474fc-bd9d-4816-be04-f9272fc12e07": {
    "fingerprint": "4aba233025787a6b",
    "first_reported": "2026-11-08T07:04:38-06:00",
@@ -10419,6 +10629,16 @@
    "reason_count": 1,
    "sport": "girls-basketball",
    "team": "Hillcrest Christian"
+  },
+  "11/06/2026|girls-soccer|obacapolanco|ridgeland|db54a3d8-d79d-43a4-af9a-7799a58c3e28": {
+   "fingerprint": "b34ee43f96e43ca3",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/06/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "O. Baca Polanco",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Ridgeland"
   },
   "11/07/2026|boys-basketball|iveverka|jacksonhomeschool|76838434-8b76-4428-b121-5133124955e7": {
    "fingerprint": "7a65e21dd0e99ce8",
@@ -10440,6 +10660,26 @@
    "sport": "boys-basketball",
    "team": "Holly Springs"
   },
+  "11/07/2026|boys-basketball|xgilliand|lakecormorant|1022b0c7-69f0-43de-b102-a61055492651": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/07/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "X. Gilliand",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Lake Cormorant"
+  },
+  "11/07/2026|football|ssmith|pinebelt|7782c480-cd1c-4b35-b8d1-cfe0bd38d83b": {
+   "fingerprint": "bff0013ccec64bc1",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/07/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "S. Smith",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pine Belt"
+  },
   "11/07/2026|girls-basketball|iveverka|jacksonhomeschool|76838434-8b76-4428-b121-5133124955e7": {
    "fingerprint": "7a65e21dd0e99ce8",
    "first_reported": "2026-11-08T07:04:38-06:00",
@@ -10459,8 +10699,18 @@
    "reason_count": 2,
    "sport": "girls-basketball",
    "team": "Holly Springs"
+  },
+  "11/07/2026|girls-basketball|xgilliand|lakecormorant|1022b0c7-69f0-43de-b102-a61055492651": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-10T07:09:55-06:00",
+   "game_date": "11/07/2026",
+   "last_reported": "2026-11-10T07:09:55-06:00",
+   "player": "X. Gilliand",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Lake Cormorant"
   }
  },
- "updated": "2026-11-09T07:10:08-06:00",
+ "updated": "2026-11-10T07:09:55-06:00",
  "version": 1
 }
