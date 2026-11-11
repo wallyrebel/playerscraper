@@ -10640,6 +10640,26 @@
    "sport": "girls-soccer",
    "team": "Ridgeland"
   },
+  "11/07/2026|boys-basketball|bstephens|enterprise|18f00d7b-d985-4c6d-ae45-bd3e8fefd88b": {
+   "fingerprint": "8ade8a9a50aaa014",
+   "first_reported": "2026-11-11T06:59:24-06:00",
+   "game_date": "11/07/2026",
+   "last_reported": "2026-11-11T06:59:24-06:00",
+   "player": "B. Stephens",
+   "reason_count": 2,
+   "sport": "boys-basketball",
+   "team": "Enterprise"
+  },
+  "11/07/2026|boys-basketball|cgullett|biloxi|597663e8-5b6c-48a2-b936-edb8d3af23c1": {
+   "fingerprint": "0e38a869094328c9",
+   "first_reported": "2026-11-11T06:59:24-06:00",
+   "game_date": "11/07/2026",
+   "last_reported": "2026-11-11T06:59:24-06:00",
+   "player": "C. Gullett",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Biloxi"
+  },
   "11/07/2026|boys-basketball|iveverka|jacksonhomeschool|76838434-8b76-4428-b121-5133124955e7": {
    "fingerprint": "7a65e21dd0e99ce8",
    "first_reported": "2026-11-08T07:04:38-06:00",
@@ -10659,6 +10679,16 @@
    "reason_count": 2,
    "sport": "boys-basketball",
    "team": "Holly Springs"
+  },
+  "11/07/2026|boys-basketball|krobinson|newton|18f00d7b-d985-4c6d-ae45-bd3e8fefd88b": {
+   "fingerprint": "d5c49ff7379e0ad1",
+   "first_reported": "2026-11-11T06:59:24-06:00",
+   "game_date": "11/07/2026",
+   "last_reported": "2026-11-11T06:59:24-06:00",
+   "player": "K. Robinson",
+   "reason_count": 2,
+   "sport": "boys-basketball",
+   "team": "Newton"
   },
   "11/07/2026|boys-basketball|xgilliand|lakecormorant|1022b0c7-69f0-43de-b102-a61055492651": {
    "fingerprint": "4aba233025787a6b",
@@ -10680,6 +10710,26 @@
    "sport": "football",
    "team": "Pine Belt"
   },
+  "11/07/2026|girls-basketball|bstephens|enterprise|18f00d7b-d985-4c6d-ae45-bd3e8fefd88b": {
+   "fingerprint": "8ade8a9a50aaa014",
+   "first_reported": "2026-11-11T06:59:24-06:00",
+   "game_date": "11/07/2026",
+   "last_reported": "2026-11-11T06:59:24-06:00",
+   "player": "B. Stephens",
+   "reason_count": 2,
+   "sport": "girls-basketball",
+   "team": "Enterprise"
+  },
+  "11/07/2026|girls-basketball|cgullett|biloxi|597663e8-5b6c-48a2-b936-edb8d3af23c1": {
+   "fingerprint": "0e38a869094328c9",
+   "first_reported": "2026-11-11T06:59:24-06:00",
+   "game_date": "11/07/2026",
+   "last_reported": "2026-11-11T06:59:24-06:00",
+   "player": "C. Gullett",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Biloxi"
+  },
   "11/07/2026|girls-basketball|iveverka|jacksonhomeschool|76838434-8b76-4428-b121-5133124955e7": {
    "fingerprint": "7a65e21dd0e99ce8",
    "first_reported": "2026-11-08T07:04:38-06:00",
@@ -10700,6 +10750,16 @@
    "sport": "girls-basketball",
    "team": "Holly Springs"
   },
+  "11/07/2026|girls-basketball|krobinson|newton|18f00d7b-d985-4c6d-ae45-bd3e8fefd88b": {
+   "fingerprint": "d5c49ff7379e0ad1",
+   "first_reported": "2026-11-11T06:59:24-06:00",
+   "game_date": "11/07/2026",
+   "last_reported": "2026-11-11T06:59:24-06:00",
+   "player": "K. Robinson",
+   "reason_count": 2,
+   "sport": "girls-basketball",
+   "team": "Newton"
+  },
   "11/07/2026|girls-basketball|xgilliand|lakecormorant|1022b0c7-69f0-43de-b102-a61055492651": {
    "fingerprint": "4aba233025787a6b",
    "first_reported": "2026-11-10T07:09:55-06:00",
@@ -10709,8 +10769,68 @@
    "reason_count": 1,
    "sport": "girls-basketball",
    "team": "Lake Cormorant"
+  },
+  "11/09/2026|boys-basketball|iveverka|jacksonhomeschool|c693b46d-daee-4edc-8a67-4e23b5538e10": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-11T06:59:24-06:00",
+   "game_date": "11/09/2026",
+   "last_reported": "2026-11-11T06:59:24-06:00",
+   "player": "I. Veverka",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Jackson HomeSchool"
+  },
+  "11/09/2026|girls-basketball|iveverka|jacksonhomeschool|c693b46d-daee-4edc-8a67-4e23b5538e10": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-11T06:59:24-06:00",
+   "game_date": "11/09/2026",
+   "last_reported": "2026-11-11T06:59:24-06:00",
+   "player": "I. Veverka",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Jackson HomeSchool"
+  },
+  "11/10/2026|boys-soccer|dvick|southeastlauderdale|e4e54830-4d54-4a74-99e1-5562c277618a": {
+   "fingerprint": "d5c8a2073be2caa4",
+   "first_reported": "2026-11-11T06:59:24-06:00",
+   "game_date": "11/10/2026",
+   "last_reported": "2026-11-11T06:59:24-06:00",
+   "player": "D. Vick",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Southeast Lauderdale"
+  },
+  "11/10/2026|boys-soccer|sshirjeel|southeastlauderdale|e4e54830-4d54-4a74-99e1-5562c277618a": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-11T06:59:24-06:00",
+   "game_date": "11/10/2026",
+   "last_reported": "2026-11-11T06:59:24-06:00",
+   "player": "S. Shirjeel",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Southeast Lauderdale"
+  },
+  "11/10/2026|girls-soccer|dvick|southeastlauderdale|e4e54830-4d54-4a74-99e1-5562c277618a": {
+   "fingerprint": "d5c8a2073be2caa4",
+   "first_reported": "2026-11-11T06:59:24-06:00",
+   "game_date": "11/10/2026",
+   "last_reported": "2026-11-11T06:59:24-06:00",
+   "player": "D. Vick",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Southeast Lauderdale"
+  },
+  "11/10/2026|girls-soccer|sshirjeel|southeastlauderdale|e4e54830-4d54-4a74-99e1-5562c277618a": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-11T06:59:24-06:00",
+   "game_date": "11/10/2026",
+   "last_reported": "2026-11-11T06:59:24-06:00",
+   "player": "S. Shirjeel",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Southeast Lauderdale"
   }
  },
- "updated": "2026-11-10T07:09:55-06:00",
+ "updated": "2026-11-11T06:59:24-06:00",
  "version": 1
 }
