@@ -10780,6 +10780,26 @@
    "sport": "boys-basketball",
    "team": "Jackson HomeSchool"
   },
+  "11/09/2026|boys-basketball|tgarcia|christiancollegiateacademy|b605f205-ac92-455e-a03d-353aa3a6a63a": {
+   "fingerprint": "fb3863f2c00dea5d",
+   "first_reported": "2026-11-12T06:57:32-06:00",
+   "game_date": "11/09/2026",
+   "last_reported": "2026-11-12T06:57:32-06:00",
+   "player": "T. Garcia",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Christian Collegiate Academy"
+  },
+  "11/09/2026|boys-soccer|khairston|columbus|f76fca0a-9bca-4e85-a623-9eb0ae6d1a48": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-12T06:57:32-06:00",
+   "game_date": "11/09/2026",
+   "last_reported": "2026-11-12T06:57:32-06:00",
+   "player": "K. Hairston",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Columbus"
+  },
   "11/09/2026|girls-basketball|iveverka|jacksonhomeschool|c693b46d-daee-4edc-8a67-4e23b5538e10": {
    "fingerprint": "4aba233025787a6b",
    "first_reported": "2026-11-11T06:59:24-06:00",
@@ -10789,6 +10809,46 @@
    "reason_count": 1,
    "sport": "girls-basketball",
    "team": "Jackson HomeSchool"
+  },
+  "11/09/2026|girls-basketball|tgarcia|christiancollegiateacademy|b605f205-ac92-455e-a03d-353aa3a6a63a": {
+   "fingerprint": "fb3863f2c00dea5d",
+   "first_reported": "2026-11-12T06:57:32-06:00",
+   "game_date": "11/09/2026",
+   "last_reported": "2026-11-12T06:57:32-06:00",
+   "player": "T. Garcia",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Christian Collegiate Academy"
+  },
+  "11/09/2026|girls-soccer|khairston|columbus|f76fca0a-9bca-4e85-a623-9eb0ae6d1a48": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-12T06:57:32-06:00",
+   "game_date": "11/09/2026",
+   "last_reported": "2026-11-12T06:57:32-06:00",
+   "player": "K. Hairston",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Columbus"
+  },
+  "11/10/2026|boys-basketball|pnason|eastrankinacademy|0a91abd6-ef35-4e14-be42-2de3d8a46bff": {
+   "fingerprint": "df4f30d4e36f396b",
+   "first_reported": "2026-11-12T06:57:32-06:00",
+   "game_date": "11/10/2026",
+   "last_reported": "2026-11-12T06:57:32-06:00",
+   "player": "P. Nason",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "East Rankin Academy"
+  },
+  "11/10/2026|boys-soccer|cchambliss|madisoncentral|e234eb9b-14b8-4b3e-ace8-d60780fff75b": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-12T06:57:32-06:00",
+   "game_date": "11/10/2026",
+   "last_reported": "2026-11-12T06:57:32-06:00",
+   "player": "C. Chambliss",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Madison Central"
   },
   "11/10/2026|boys-soccer|dvick|southeastlauderdale|e4e54830-4d54-4a74-99e1-5562c277618a": {
    "fingerprint": "d5c8a2073be2caa4",
@@ -10809,6 +10869,26 @@
    "reason_count": 1,
    "sport": "boys-soccer",
    "team": "Southeast Lauderdale"
+  },
+  "11/10/2026|girls-basketball|pnason|eastrankinacademy|0a91abd6-ef35-4e14-be42-2de3d8a46bff": {
+   "fingerprint": "df4f30d4e36f396b",
+   "first_reported": "2026-11-12T06:57:32-06:00",
+   "game_date": "11/10/2026",
+   "last_reported": "2026-11-12T06:57:32-06:00",
+   "player": "P. Nason",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "East Rankin Academy"
+  },
+  "11/10/2026|girls-soccer|cchambliss|madisoncentral|e234eb9b-14b8-4b3e-ace8-d60780fff75b": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-12T06:57:32-06:00",
+   "game_date": "11/10/2026",
+   "last_reported": "2026-11-12T06:57:32-06:00",
+   "player": "C. Chambliss",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Madison Central"
   },
   "11/10/2026|girls-soccer|dvick|southeastlauderdale|e4e54830-4d54-4a74-99e1-5562c277618a": {
    "fingerprint": "d5c8a2073be2caa4",
@@ -10831,6 +10911,6 @@
    "team": "Southeast Lauderdale"
   }
  },
- "updated": "2026-11-11T06:59:24-06:00",
+ "updated": "2026-11-12T06:57:32-06:00",
  "version": 1
 }
