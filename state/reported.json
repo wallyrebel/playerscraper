@@ -10840,6 +10840,16 @@
    "sport": "boys-basketball",
    "team": "East Rankin Academy"
   },
+  "11/10/2026|boys-soccer|bladner|westharrison|3d9142b0-c31a-4d92-a8e0-e3d202239663": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-13T07:14:31-06:00",
+   "game_date": "11/10/2026",
+   "last_reported": "2026-11-13T07:14:31-06:00",
+   "player": "B. Ladner",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "West Harrison"
+  },
   "11/10/2026|boys-soccer|cchambliss|madisoncentral|e234eb9b-14b8-4b3e-ace8-d60780fff75b": {
    "fingerprint": "c6a2e4f51eee1080",
    "first_reported": "2026-11-12T06:57:32-06:00",
@@ -10880,6 +10890,16 @@
    "sport": "girls-basketball",
    "team": "East Rankin Academy"
   },
+  "11/10/2026|girls-soccer|bladner|westharrison|3d9142b0-c31a-4d92-a8e0-e3d202239663": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-13T07:14:31-06:00",
+   "game_date": "11/10/2026",
+   "last_reported": "2026-11-13T07:14:31-06:00",
+   "player": "B. Ladner",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "West Harrison"
+  },
   "11/10/2026|girls-soccer|cchambliss|madisoncentral|e234eb9b-14b8-4b3e-ace8-d60780fff75b": {
    "fingerprint": "c6a2e4f51eee1080",
    "first_reported": "2026-11-12T06:57:32-06:00",
@@ -10909,8 +10929,28 @@
    "reason_count": 1,
    "sport": "girls-soccer",
    "team": "Southeast Lauderdale"
+  },
+  "11/12/2026|boys-soccer|dlopez|riverside|2bf95bbc-3bf2-49e9-8c7b-e445c7ee4c7a": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-13T07:14:31-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-13T07:14:31-06:00",
+   "player": "D. Lopez",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Riverside"
+  },
+  "11/12/2026|girls-soccer|dlopez|riverside|2bf95bbc-3bf2-49e9-8c7b-e445c7ee4c7a": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-13T07:14:31-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-13T07:14:31-06:00",
+   "player": "D. Lopez",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Riverside"
   }
  },
- "updated": "2026-11-12T06:57:32-06:00",
+ "updated": "2026-11-13T07:14:31-06:00",
  "version": 1
 }
