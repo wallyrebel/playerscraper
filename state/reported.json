@@ -10840,6 +10840,16 @@
    "sport": "boys-basketball",
    "team": "East Rankin Academy"
   },
+  "11/10/2026|boys-soccer|bford|eastcentral|996776ef-aab2-4164-a82f-30bdf1a1cb34": {
+   "fingerprint": "e7194926e6a194b0",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/10/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "B. Ford",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "East Central"
+  },
   "11/10/2026|boys-soccer|bladner|westharrison|3d9142b0-c31a-4d92-a8e0-e3d202239663": {
    "fingerprint": "c6a2e4f51eee1080",
    "first_reported": "2026-11-13T07:14:31-06:00",
@@ -10890,6 +10900,16 @@
    "sport": "girls-basketball",
    "team": "East Rankin Academy"
   },
+  "11/10/2026|girls-soccer|bford|eastcentral|996776ef-aab2-4164-a82f-30bdf1a1cb34": {
+   "fingerprint": "e7194926e6a194b0",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/10/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "B. Ford",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "East Central"
+  },
   "11/10/2026|girls-soccer|bladner|westharrison|3d9142b0-c31a-4d92-a8e0-e3d202239663": {
    "fingerprint": "c6a2e4f51eee1080",
    "first_reported": "2026-11-13T07:14:31-06:00",
@@ -10930,6 +10950,86 @@
    "sport": "girls-soccer",
    "team": "Southeast Lauderdale"
   },
+  "11/12/2026|boys-basketball|bstephens|enterprise|04d8b4a2-7bc6-4d5c-af76-7a2891d11ade": {
+   "fingerprint": "c082412c0aa63d28",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "B. Stephens",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Enterprise"
+  },
+  "11/12/2026|boys-basketball|dstevens|newton|c0f961cf-f24f-4225-bd4c-d6b5c041b9f0": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "D. Stevens",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Newton"
+  },
+  "11/12/2026|boys-basketball|jgraves|greenecounty|93fba2c6-38cb-49fe-821a-1dbd521de439": {
+   "fingerprint": "f9c45d1c2156b150",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "J. Graves",
+   "reason_count": 3,
+   "sport": "boys-basketball",
+   "team": "Greene County"
+  },
+  "11/12/2026|boys-basketball|lbradley|georgecounty|93fba2c6-38cb-49fe-821a-1dbd521de439": {
+   "fingerprint": "677ea92829756b37",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "L. Bradley",
+   "reason_count": 3,
+   "sport": "boys-basketball",
+   "team": "George County"
+  },
+  "11/12/2026|boys-basketball|ogilmore|yazoocounty|f6f0ed98-fe12-4ccf-a6e3-9be26399967c": {
+   "fingerprint": "e7e0bea1ada30d3d",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "O. Gilmore",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Yazoo County"
+  },
+  "11/12/2026|boys-soccer|ahatch|tupelo|98d8b875-c06e-4201-9f88-e7f9c6416999": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "A. Hatch",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Tupelo"
+  },
+  "11/12/2026|boys-soccer|aluccasen|heritageacademy|ae0174e1-edb8-4cbb-9e6d-ea7694100b0f": {
+   "fingerprint": "b34ee43f96e43ca3",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "A. Luccasen",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Heritage Academy"
+  },
+  "11/12/2026|boys-soccer|bbanks|presbyterianchristian|8ed7a132-6f88-422b-8b8b-07405afd83f6": {
+   "fingerprint": "d5c8a2073be2caa4",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "B. Banks",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Presbyterian Christian"
+  },
   "11/12/2026|boys-soccer|dlopez|riverside|2bf95bbc-3bf2-49e9-8c7b-e445c7ee4c7a": {
    "fingerprint": "c6a2e4f51eee1080",
    "first_reported": "2026-11-13T07:14:31-06:00",
@@ -10940,6 +11040,96 @@
    "sport": "boys-soccer",
    "team": "Riverside"
   },
+  "11/12/2026|boys-soccer|mguerrero|vardaman|561e6cc0-79cf-440c-a9ce-8816369b54ac": {
+   "fingerprint": "bd9f3b61f077591e",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "M. Guerrero",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Vardaman"
+  },
+  "11/12/2026|girls-basketball|bstephens|enterprise|04d8b4a2-7bc6-4d5c-af76-7a2891d11ade": {
+   "fingerprint": "c082412c0aa63d28",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "B. Stephens",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Enterprise"
+  },
+  "11/12/2026|girls-basketball|dstevens|newton|c0f961cf-f24f-4225-bd4c-d6b5c041b9f0": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "D. Stevens",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Newton"
+  },
+  "11/12/2026|girls-basketball|jgraves|greenecounty|93fba2c6-38cb-49fe-821a-1dbd521de439": {
+   "fingerprint": "f9c45d1c2156b150",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "J. Graves",
+   "reason_count": 3,
+   "sport": "girls-basketball",
+   "team": "Greene County"
+  },
+  "11/12/2026|girls-basketball|lbradley|georgecounty|93fba2c6-38cb-49fe-821a-1dbd521de439": {
+   "fingerprint": "677ea92829756b37",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "L. Bradley",
+   "reason_count": 3,
+   "sport": "girls-basketball",
+   "team": "George County"
+  },
+  "11/12/2026|girls-basketball|ogilmore|yazoocounty|f6f0ed98-fe12-4ccf-a6e3-9be26399967c": {
+   "fingerprint": "e7e0bea1ada30d3d",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "O. Gilmore",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Yazoo County"
+  },
+  "11/12/2026|girls-soccer|ahatch|tupelo|98d8b875-c06e-4201-9f88-e7f9c6416999": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "A. Hatch",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Tupelo"
+  },
+  "11/12/2026|girls-soccer|aluccasen|heritageacademy|ae0174e1-edb8-4cbb-9e6d-ea7694100b0f": {
+   "fingerprint": "b34ee43f96e43ca3",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "A. Luccasen",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Heritage Academy"
+  },
+  "11/12/2026|girls-soccer|bbanks|presbyterianchristian|8ed7a132-6f88-422b-8b8b-07405afd83f6": {
+   "fingerprint": "d5c8a2073be2caa4",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "B. Banks",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Presbyterian Christian"
+  },
   "11/12/2026|girls-soccer|dlopez|riverside|2bf95bbc-3bf2-49e9-8c7b-e445c7ee4c7a": {
    "fingerprint": "c6a2e4f51eee1080",
    "first_reported": "2026-11-13T07:14:31-06:00",
@@ -10949,8 +11139,28 @@
    "reason_count": 1,
    "sport": "girls-soccer",
    "team": "Riverside"
+  },
+  "11/12/2026|girls-soccer|mguerrero|vardaman|561e6cc0-79cf-440c-a9ce-8816369b54ac": {
+   "fingerprint": "bd9f3b61f077591e",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "M. Guerrero",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Vardaman"
+  },
+  "11/13/2026|football|lbranson|germantown|98737f14-49a8-4fb4-a517-f42b6adc1e8a": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-11-14T07:35:50-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-14T07:35:50-06:00",
+   "player": "L. Branson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Germantown"
   }
  },
- "updated": "2026-11-13T07:14:31-06:00",
+ "updated": "2026-11-14T07:35:50-06:00",
  "version": 1
 }
