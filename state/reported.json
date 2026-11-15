@@ -10980,6 +10980,16 @@
    "sport": "boys-basketball",
    "team": "Greene County"
   },
+  "11/12/2026|boys-basketball|jnicholsjr|hattiesburg|7ff7a5bc-0419-463a-971b-017b429b86a1": {
+   "fingerprint": "0088c4de80d9afac",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "J. Nichols Jr.",
+   "reason_count": 2,
+   "sport": "boys-basketball",
+   "team": "Hattiesburg"
+  },
   "11/12/2026|boys-basketball|lbradley|georgecounty|93fba2c6-38cb-49fe-821a-1dbd521de439": {
    "fingerprint": "677ea92829756b37",
    "first_reported": "2026-11-14T07:35:50-06:00",
@@ -11080,6 +11090,16 @@
    "sport": "girls-basketball",
    "team": "Greene County"
   },
+  "11/12/2026|girls-basketball|jnicholsjr|hattiesburg|7ff7a5bc-0419-463a-971b-017b429b86a1": {
+   "fingerprint": "0088c4de80d9afac",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "J. Nichols Jr.",
+   "reason_count": 2,
+   "sport": "girls-basketball",
+   "team": "Hattiesburg"
+  },
   "11/12/2026|girls-basketball|lbradley|georgecounty|93fba2c6-38cb-49fe-821a-1dbd521de439": {
    "fingerprint": "677ea92829756b37",
    "first_reported": "2026-11-14T07:35:50-06:00",
@@ -11150,6 +11170,106 @@
    "sport": "girls-soccer",
    "team": "Vardaman"
   },
+  "11/13/2026|boys-basketball|cjones|bruce|5522f1d9-b273-42bf-83c1-0ea42dcfcd32": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "C. Jones",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Bruce"
+  },
+  "11/13/2026|boys-basketball|kclark|houlka|5522f1d9-b273-42bf-83c1-0ea42dcfcd32": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "K. Clark",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Houlka"
+  },
+  "11/13/2026|football|chunt|tricountyacademy|e94bd457-822a-4cac-8490-3eda9604700c": {
+   "fingerprint": "13d62d107d928f07",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "C. Hunt",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Tri-County Academy"
+  },
+  "11/13/2026|football|dcoffey|eastwebster|0c37cc66-695c-4209-a53f-7180b230a390": {
+   "fingerprint": "d2529aa7552dd0fc",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "D. Coffey",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "East Webster"
+  },
+  "11/13/2026|football|dmonix|leeacademy|b46fc2d0-ede4-45f1-8551-7b2d57d2a698": {
+   "fingerprint": "fc98de8b28bbb5b8",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "D. Monix",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Lee Academy"
+  },
+  "11/13/2026|football|ghill|meridian|72735e0e-c5ff-4f0a-bd0c-bcd88eabf142": {
+   "fingerprint": "4c732f7941b5d7b1",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "G. Hill",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Meridian"
+  },
+  "11/13/2026|football|hmills|wayneacademy|b71cdfdf-e2ea-4650-a87e-464c098a10a0": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "H. Mills",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Wayne Academy"
+  },
+  "11/13/2026|football|jcarpenter|pearlrivercentral|59961e39-2f02-4ab7-abd2-c613074890a9": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "J. Carpenter",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pearl River Central"
+  },
+  "11/13/2026|football|jdavis|choctawcounty|89a324e5-8312-4fbe-86f6-c9d6686e83a2": {
+   "fingerprint": "b6c8c08fcf446598",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "J. Davis",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Choctaw County"
+  },
+  "11/13/2026|football|jyates|eupora|529af220-d792-499b-9c20-5c7c75940d79": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "J. Yates",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Eupora"
+  },
   "11/13/2026|football|lbranson|germantown|98737f14-49a8-4fb4-a517-f42b6adc1e8a": {
    "fingerprint": "64e564bcbc50cbab",
    "first_reported": "2026-11-14T07:35:50-06:00",
@@ -11159,8 +11279,58 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Germantown"
+  },
+  "11/13/2026|football|mferracci|leeacademy|b46fc2d0-ede4-45f1-8551-7b2d57d2a698": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "M. Ferracci",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Lee Academy"
+  },
+  "11/13/2026|girls-basketball|cjones|bruce|5522f1d9-b273-42bf-83c1-0ea42dcfcd32": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "C. Jones",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Bruce"
+  },
+  "11/13/2026|girls-basketball|kclark|houlka|5522f1d9-b273-42bf-83c1-0ea42dcfcd32": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "K. Clark",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Houlka"
+  },
+  "11/14/2026|boys-soccer|rbillings|enterprise|c0870036-7e49-49c6-bcf5-8ebc1b971409": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/14/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "R. Billings",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Enterprise"
+  },
+  "11/14/2026|girls-soccer|rbillings|enterprise|c0870036-7e49-49c6-bcf5-8ebc1b971409": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-15T07:09:31-06:00",
+   "game_date": "11/14/2026",
+   "last_reported": "2026-11-15T07:09:31-06:00",
+   "player": "R. Billings",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Enterprise"
   }
  },
- "updated": "2026-11-14T07:35:50-06:00",
+ "updated": "2026-11-15T07:09:31-06:00",
  "version": 1
 }
