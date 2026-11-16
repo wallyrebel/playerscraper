@@ -10950,6 +10950,16 @@
    "sport": "girls-soccer",
    "team": "Southeast Lauderdale"
   },
+  "11/12/2026|boys-basketball|bfarmer|stone|e19be04f-8ac7-4d1f-8f5d-a68f9c11b4c9": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "B. Farmer",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Stone"
+  },
   "11/12/2026|boys-basketball|bstephens|enterprise|04d8b4a2-7bc6-4d5c-af76-7a2891d11ade": {
    "fingerprint": "c082412c0aa63d28",
    "first_reported": "2026-11-14T07:35:50-06:00",
@@ -11010,6 +11020,16 @@
    "sport": "boys-basketball",
    "team": "Yazoo County"
   },
+  "11/12/2026|boys-basketball|rsandershall|stmartin|e8cc4fcd-2523-46d2-995a-616998e4cf9a": {
+   "fingerprint": "a8364936d11ff365",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "R. Sanders-Hall",
+   "reason_count": 2,
+   "sport": "boys-basketball",
+   "team": "St. Martin"
+  },
   "11/12/2026|boys-soccer|ahatch|tupelo|98d8b875-c06e-4201-9f88-e7f9c6416999": {
    "fingerprint": "c6a2e4f51eee1080",
    "first_reported": "2026-11-14T07:35:50-06:00",
@@ -11059,6 +11079,16 @@
    "reason_count": 1,
    "sport": "boys-soccer",
    "team": "Vardaman"
+  },
+  "11/12/2026|girls-basketball|bfarmer|stone|e19be04f-8ac7-4d1f-8f5d-a68f9c11b4c9": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "B. Farmer",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Stone"
   },
   "11/12/2026|girls-basketball|bstephens|enterprise|04d8b4a2-7bc6-4d5c-af76-7a2891d11ade": {
    "fingerprint": "c082412c0aa63d28",
@@ -11119,6 +11149,16 @@
    "reason_count": 1,
    "sport": "girls-basketball",
    "team": "Yazoo County"
+  },
+  "11/12/2026|girls-basketball|rsandershall|stmartin|e8cc4fcd-2523-46d2-995a-616998e4cf9a": {
+   "fingerprint": "a8364936d11ff365",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/12/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "R. Sanders-Hall",
+   "reason_count": 2,
+   "sport": "girls-basketball",
+   "team": "St. Martin"
   },
   "11/12/2026|girls-soccer|ahatch|tupelo|98d8b875-c06e-4201-9f88-e7f9c6416999": {
    "fingerprint": "c6a2e4f51eee1080",
@@ -11190,6 +11230,66 @@
    "sport": "boys-basketball",
    "team": "Houlka"
   },
+  "11/13/2026|football|amcmillian|heidelberg|9280f5b0-5bd6-4490-9103-e8722e1c1c29": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "A. McMillian",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Heidelberg"
+  },
+  "11/13/2026|football|avasser|aberdeen|6ac1f517-fc51-43a0-b84d-2e0f8b7260c2": {
+   "fingerprint": "fb1d680274adb5f7",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "A. Vasser",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Aberdeen"
+  },
+  "11/13/2026|football|bagee|westjones|07d4a60e-e630-4338-ab26-34ce6760e0ca": {
+   "fingerprint": "bbad591146c938af",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "B. Agee",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "West Jones"
+  },
+  "11/13/2026|football|bstringer|presbyterianchristian|6face664-835e-4d5c-b3de-89fc40eaba9f": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "B. Stringer",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Presbyterian Christian"
+  },
+  "11/13/2026|football|cbenson|holmescountycentral|34ada1c1-ae5d-44a0-b9f5-80d4a5a0e960": {
+   "fingerprint": "f427c3dbfa81a128",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "C. Benson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Holmes County Central"
+  },
+  "11/13/2026|football|cglenn|noxubeecounty|e3003750-50dc-4379-b4b6-fe5b8c148c3f": {
+   "fingerprint": "7eb09cc1c1be6276",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "C. Glenn",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Noxubee County"
+  },
   "11/13/2026|football|chunt|tricountyacademy|e94bd457-822a-4cac-8490-3eda9604700c": {
    "fingerprint": "13d62d107d928f07",
    "first_reported": "2026-11-15T07:09:31-06:00",
@@ -11199,6 +11299,26 @@
    "reason_count": 2,
    "sport": "football",
    "team": "Tri-County Academy"
+  },
+  "11/13/2026|football|csandifer|kosciusko|fa137e94-bb39-4197-9ec6-4a425560295d": {
+   "fingerprint": "9e5629512c9a5cc8",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "C. Sandifer",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Kosciusko"
+  },
+  "11/13/2026|football|cwiggins|madisoncentral|da4dc3f5-508d-4222-a852-d9766751ebcc": {
+   "fingerprint": "bdd320f5c6aed71b",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "C. Wiggins",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Madison Central"
   },
   "11/13/2026|football|dcoffey|eastwebster|0c37cc66-695c-4209-a53f-7180b230a390": {
    "fingerprint": "d2529aa7552dd0fc",
@@ -11220,6 +11340,16 @@
    "sport": "football",
    "team": "Lee Academy"
   },
+  "11/13/2026|football|dtownsend|leake|e7d0a03e-c0a7-4aa5-86fd-17d562fbec46": {
+   "fingerprint": "84eacf01a2bb9c61",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "D. Townsend",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Leake"
+  },
   "11/13/2026|football|ghill|meridian|72735e0e-c5ff-4f0a-bd0c-bcd88eabf142": {
    "fingerprint": "4c732f7941b5d7b1",
    "first_reported": "2026-11-15T07:09:31-06:00",
@@ -11240,6 +11370,16 @@
    "sport": "football",
    "team": "Wayne Academy"
   },
+  "11/13/2026|football|jadams|lumberton|381d903a-a165-44c7-a121-07621422930b": {
+   "fingerprint": "8e58cb9f8e645995",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "J. Adams",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Lumberton"
+  },
   "11/13/2026|football|jcarpenter|pearlrivercentral|59961e39-2f02-4ab7-abd2-c613074890a9": {
    "fingerprint": "78bf9c8f80946a62",
    "first_reported": "2026-11-15T07:09:31-06:00",
@@ -11249,6 +11389,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Pearl River Central"
+  },
+  "11/13/2026|football|jdaley|leake|e7d0a03e-c0a7-4aa5-86fd-17d562fbec46": {
+   "fingerprint": "48256659c1fde5af",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "J. Daley",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Leake"
   },
   "11/13/2026|football|jdavis|choctawcounty|89a324e5-8312-4fbe-86f6-c9d6686e83a2": {
    "fingerprint": "b6c8c08fcf446598",
@@ -11260,6 +11410,16 @@
    "sport": "football",
    "team": "Choctaw County"
   },
+  "11/13/2026|football|jhall|westpoint|e7d0a03e-c0a7-4aa5-86fd-17d562fbec46": {
+   "fingerprint": "45cdd9c73c450160",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "J. Hall",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "West Point"
+  },
   "11/13/2026|football|jyates|eupora|529af220-d792-499b-9c20-5c7c75940d79": {
    "fingerprint": "81d4baf3442fa352",
    "first_reported": "2026-11-15T07:09:31-06:00",
@@ -11269,6 +11429,36 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Eupora"
+  },
+  "11/13/2026|football|kbranham|westpoint|e7d0a03e-c0a7-4aa5-86fd-17d562fbec46": {
+   "fingerprint": "67a737e3851a0517",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "K. Branham",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "West Point"
+  },
+  "11/13/2026|football|kcopeland|parklaneacademy|ee68a987-0057-47ff-a9cf-98ef113807e2": {
+   "fingerprint": "de6098c746190135",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "K. Copeland",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Parklane Academy"
+  },
+  "11/13/2026|football|kcork|choctawcounty|89a324e5-8312-4fbe-86f6-c9d6686e83a2": {
+   "fingerprint": "eb53e1075c66c5b9",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "K. Cork",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Choctaw County"
   },
   "11/13/2026|football|lbranson|germantown|98737f14-49a8-4fb4-a517-f42b6adc1e8a": {
    "fingerprint": "64e564bcbc50cbab",
@@ -11289,6 +11479,26 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Lee Academy"
+  },
+  "11/13/2026|football|rbridges|presbyterianchristian|6face664-835e-4d5c-b3de-89fc40eaba9f": {
+   "fingerprint": "d97a7aad10a0f4b8",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "R. Bridges",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Presbyterian Christian"
+  },
+  "11/13/2026|football|twatkins|madisoncentral|da4dc3f5-508d-4222-a852-d9766751ebcc": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-11-16T07:24:11-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-16T07:24:11-06:00",
+   "player": "T. Watkins",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Madison Central"
   },
   "11/13/2026|girls-basketball|cjones|bruce|5522f1d9-b273-42bf-83c1-0ea42dcfcd32": {
    "fingerprint": "4aba233025787a6b",
@@ -11331,6 +11541,6 @@
    "team": "Enterprise"
   }
  },
- "updated": "2026-11-15T07:09:31-06:00",
+ "updated": "2026-11-16T07:24:11-06:00",
  "version": 1
 }
