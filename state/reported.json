@@ -11230,6 +11230,16 @@
    "sport": "boys-basketball",
    "team": "Houlka"
   },
+  "11/13/2026|football|agreen|stone|762012ce-50a6-4d33-b88e-ea0161d8541b": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "A. Green",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Stone"
+  },
   "11/13/2026|football|amcmillian|heidelberg|9280f5b0-5bd6-4490-9103-e8722e1c1c29": {
    "fingerprint": "e2911c145d3fd60e",
    "first_reported": "2026-11-16T07:24:11-06:00",
@@ -11250,6 +11260,16 @@
    "sport": "football",
    "team": "Aberdeen"
   },
+  "11/13/2026|football|awilsonjr|centralhindsacademy|d0e565e7-3641-41f7-bc32-30f5873f7884": {
+   "fingerprint": "315039412048118a",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "A. Wilson Jr.",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Central Hinds Academy"
+  },
   "11/13/2026|football|bagee|westjones|07d4a60e-e630-4338-ab26-34ce6760e0ca": {
    "fingerprint": "bbad591146c938af",
    "first_reported": "2026-11-16T07:24:11-06:00",
@@ -11260,6 +11280,16 @@
    "sport": "football",
    "team": "West Jones"
   },
+  "11/13/2026|football|barmstrong|southjones|da78848a-2ce9-44dd-a12a-f59fe7ad188d": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "B. Armstrong",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "South Jones"
+  },
   "11/13/2026|football|bstringer|presbyterianchristian|6face664-835e-4d5c-b3de-89fc40eaba9f": {
    "fingerprint": "64e564bcbc50cbab",
    "first_reported": "2026-11-16T07:24:11-06:00",
@@ -11269,6 +11299,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Presbyterian Christian"
+  },
+  "11/13/2026|football|caustin|nanihwaiya|381d903a-a165-44c7-a121-07621422930b": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "C. Austin",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Nanih Waiya"
   },
   "11/13/2026|football|cbenson|holmescountycentral|34ada1c1-ae5d-44a0-b9f5-80d4a5a0e960": {
    "fingerprint": "f427c3dbfa81a128",
@@ -11300,6 +11340,16 @@
    "sport": "football",
    "team": "Tri-County Academy"
   },
+  "11/13/2026|football|crodgers|desotocentral|98737f14-49a8-4fb4-a517-f42b6adc1e8a": {
+   "fingerprint": "5c2e5c3cad4a3f7c",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "C. RODGERS",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "DeSoto Central"
+  },
   "11/13/2026|football|csandifer|kosciusko|fa137e94-bb39-4197-9ec6-4a425560295d": {
    "fingerprint": "9e5629512c9a5cc8",
    "first_reported": "2026-11-16T07:24:11-06:00",
@@ -11330,6 +11380,16 @@
    "sport": "football",
    "team": "East Webster"
   },
+  "11/13/2026|football|djenkins|morton|8bb63cc8-0cdf-4203-baba-a95b2a254380": {
+   "fingerprint": "cf9b28e32efd2c24",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "D. Jenkins",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Morton"
+  },
   "11/13/2026|football|dmonix|leeacademy|b46fc2d0-ede4-45f1-8551-7b2d57d2a698": {
    "fingerprint": "fc98de8b28bbb5b8",
    "first_reported": "2026-11-15T07:09:31-06:00",
@@ -11350,6 +11410,26 @@
    "sport": "football",
    "team": "Leake"
   },
+  "11/13/2026|football|ejohnson|corinth|fa137e94-bb39-4197-9ec6-4a425560295d": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "E. Johnson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Corinth"
+  },
+  "11/13/2026|football|gcochran|eastcentral|da78848a-2ce9-44dd-a12a-f59fe7ad188d": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "G. Cochran",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "East Central"
+  },
   "11/13/2026|football|ghill|meridian|72735e0e-c5ff-4f0a-bd0c-bcd88eabf142": {
    "fingerprint": "4c732f7941b5d7b1",
    "first_reported": "2026-11-15T07:09:31-06:00",
@@ -11369,6 +11449,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Wayne Academy"
+  },
+  "11/13/2026|football|hsmith|brookhaven|81f6bec7-d58b-46e9-a30e-77938a84c7d4": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "H. Smith",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Brookhaven"
   },
   "11/13/2026|football|jadams|lumberton|381d903a-a165-44c7-a121-07621422930b": {
    "fingerprint": "8e58cb9f8e645995",
@@ -11420,6 +11510,16 @@
    "sport": "football",
    "team": "West Point"
   },
+  "11/13/2026|football|jvaughn|lafayette|430f8767-9ca3-4d3b-8ad4-5a6ba1fb97b2": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "J. Vaughn",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Lafayette"
+  },
   "11/13/2026|football|jyates|eupora|529af220-d792-499b-9c20-5c7c75940d79": {
    "fingerprint": "81d4baf3442fa352",
    "first_reported": "2026-11-15T07:09:31-06:00",
@@ -11460,6 +11560,56 @@
    "sport": "football",
    "team": "Choctaw County"
   },
+  "11/13/2026|football|kforrest|waynecounty|ac7d8dcc-4369-4e21-857a-3d6dd79e8850": {
+   "fingerprint": "e9187b4fe072e8cd",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "K. Forrest",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Wayne County"
+  },
+  "11/13/2026|football|kgray|waynecounty|ac7d8dcc-4369-4e21-857a-3d6dd79e8850": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "K. Gray",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Wayne County"
+  },
+  "11/13/2026|football|kplump|hattiesburg|59961e39-2f02-4ab7-abd2-c613074890a9": {
+   "fingerprint": "88d51d02443939a9",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "K. Plump",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Hattiesburg"
+  },
+  "11/13/2026|football|ktaylor|waynecounty|ac7d8dcc-4369-4e21-857a-3d6dd79e8850": {
+   "fingerprint": "8cf8a2c534ca21a7",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "K. Taylor",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Wayne County"
+  },
+  "11/13/2026|football|kyoung|lumberton|381d903a-a165-44c7-a121-07621422930b": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "K. Young",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Lumberton"
+  },
   "11/13/2026|football|lbranson|germantown|98737f14-49a8-4fb4-a517-f42b6adc1e8a": {
    "fingerprint": "64e564bcbc50cbab",
    "first_reported": "2026-11-14T07:35:50-06:00",
@@ -11469,6 +11619,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Germantown"
+  },
+  "11/13/2026|football|lcrawford|winona|b0d32ffc-022f-4e65-87d1-39b36ca32ba8": {
+   "fingerprint": "2bce8565493d1f5e",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "L. Crawford",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Winona"
   },
   "11/13/2026|football|mferracci|leeacademy|b46fc2d0-ede4-45f1-8551-7b2d57d2a698": {
    "fingerprint": "e2911c145d3fd60e",
@@ -11480,6 +11640,16 @@
    "sport": "football",
    "team": "Lee Academy"
   },
+  "11/13/2026|football|pmoffett|nanihwaiya|381d903a-a165-44c7-a121-07621422930b": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "P. Moffett",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Nanih Waiya"
+  },
   "11/13/2026|football|rbridges|presbyterianchristian|6face664-835e-4d5c-b3de-89fc40eaba9f": {
    "fingerprint": "d97a7aad10a0f4b8",
    "first_reported": "2026-11-16T07:24:11-06:00",
@@ -11490,6 +11660,56 @@
    "sport": "football",
    "team": "Presbyterian Christian"
   },
+  "11/13/2026|football|sross|brookhaven|81f6bec7-d58b-46e9-a30e-77938a84c7d4": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "S. Ross",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Brookhaven"
+  },
+  "11/13/2026|football|tdaniels|sumrall|ac7d8dcc-4369-4e21-857a-3d6dd79e8850": {
+   "fingerprint": "ff5c06325d36dc15",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "T. Daniels",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Sumrall"
+  },
+  "11/13/2026|football|tfortune|leake|e7d0a03e-c0a7-4aa5-86fd-17d562fbec46": {
+   "fingerprint": "95b5c27c140febac",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "T. Fortune",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Leake"
+  },
+  "11/13/2026|football|thardy|brookhaven|81f6bec7-d58b-46e9-a30e-77938a84c7d4": {
+   "fingerprint": "e2911c145d3fd60e",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "T. Hardy",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Brookhaven"
+  },
+  "11/13/2026|football|tkeys|poplarville|8bb63cc8-0cdf-4203-baba-a95b2a254380": {
+   "fingerprint": "1664007e0bea5b8d",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "T. Keys",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Poplarville"
+  },
   "11/13/2026|football|twatkins|madisoncentral|da4dc3f5-508d-4222-a852-d9766751ebcc": {
    "fingerprint": "e2911c145d3fd60e",
    "first_reported": "2026-11-16T07:24:11-06:00",
@@ -11499,6 +11719,46 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Madison Central"
+  },
+  "11/13/2026|football|twolverton|laurel|762012ce-50a6-4d33-b88e-ea0161d8541b": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "T. Wolverton",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Laurel"
+  },
+  "11/13/2026|football|vlabega|gulfport|07e7bfbf-881a-407a-aa3d-77c4bdc26dc2": {
+   "fingerprint": "c8c47321704cc4c3",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "V. Labega",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Gulfport"
+  },
+  "11/13/2026|football|wmarsh|sumrall|ac7d8dcc-4369-4e21-857a-3d6dd79e8850": {
+   "fingerprint": "bedd074a9ac88509",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "W. Marsh",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Sumrall"
+  },
+  "11/13/2026|football|wwilkinson|oxford|b0295a9e-1ef4-47ff-b935-dc359439fd21": {
+   "fingerprint": "323fb2c981dc8c4f",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/13/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "W. Wilkinson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Oxford"
   },
   "11/13/2026|girls-basketball|cjones|bruce|5522f1d9-b273-42bf-83c1-0ea42dcfcd32": {
    "fingerprint": "4aba233025787a6b",
@@ -11520,6 +11780,36 @@
    "sport": "girls-basketball",
    "team": "Houlka"
   },
+  "11/14/2026|boys-basketball|adunklin|bay|15473a72-c53e-4122-8f29-d9321cf215e1": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/14/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "A. Dunklin",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Bay"
+  },
+  "11/14/2026|boys-basketball|klaneaux|bay|15473a72-c53e-4122-8f29-d9321cf215e1": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/14/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "K. Laneaux",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Bay"
+  },
+  "11/14/2026|boys-basketball|xgilliand|lakecormorant|b12ef933-f9d1-40b0-994d-a9ea1769d86b": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/14/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "X. Gilliand",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Lake Cormorant"
+  },
   "11/14/2026|boys-soccer|rbillings|enterprise|c0870036-7e49-49c6-bcf5-8ebc1b971409": {
    "fingerprint": "c6a2e4f51eee1080",
    "first_reported": "2026-11-15T07:09:31-06:00",
@@ -11530,6 +11820,36 @@
    "sport": "boys-soccer",
    "team": "Enterprise"
   },
+  "11/14/2026|girls-basketball|adunklin|bay|15473a72-c53e-4122-8f29-d9321cf215e1": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/14/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "A. Dunklin",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Bay"
+  },
+  "11/14/2026|girls-basketball|klaneaux|bay|15473a72-c53e-4122-8f29-d9321cf215e1": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/14/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "K. Laneaux",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Bay"
+  },
+  "11/14/2026|girls-basketball|xgilliand|lakecormorant|b12ef933-f9d1-40b0-994d-a9ea1769d86b": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/14/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "X. Gilliand",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Lake Cormorant"
+  },
   "11/14/2026|girls-soccer|rbillings|enterprise|c0870036-7e49-49c6-bcf5-8ebc1b971409": {
    "fingerprint": "c6a2e4f51eee1080",
    "first_reported": "2026-11-15T07:09:31-06:00",
@@ -11539,8 +11859,28 @@
    "reason_count": 1,
    "sport": "girls-soccer",
    "team": "Enterprise"
+  },
+  "11/16/2026|boys-soccer|ibedolla|houston|10b42a44-649e-46fa-9d72-37ec71bbb730": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/16/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "I. Bedolla",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Houston"
+  },
+  "11/16/2026|girls-soccer|ibedolla|houston|10b42a44-649e-46fa-9d72-37ec71bbb730": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-17T06:54:33-06:00",
+   "game_date": "11/16/2026",
+   "last_reported": "2026-11-17T06:54:33-06:00",
+   "player": "I. Bedolla",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Houston"
   }
  },
- "updated": "2026-11-16T07:24:11-06:00",
+ "updated": "2026-11-17T06:54:33-06:00",
  "version": 1
 }
