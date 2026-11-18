@@ -11790,6 +11790,16 @@
    "sport": "boys-basketball",
    "team": "Bay"
   },
+  "11/14/2026|boys-basketball|jgilbert|edwards|7e267868-2f9b-49df-b26f-a241230db0db": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-18T06:57:28-06:00",
+   "game_date": "11/14/2026",
+   "last_reported": "2026-11-18T06:57:28-06:00",
+   "player": "J. Gilbert",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Edwards"
+  },
   "11/14/2026|boys-basketball|klaneaux|bay|15473a72-c53e-4122-8f29-d9321cf215e1": {
    "fingerprint": "4aba233025787a6b",
    "first_reported": "2026-11-17T06:54:33-06:00",
@@ -11809,6 +11819,26 @@
    "reason_count": 1,
    "sport": "boys-basketball",
    "team": "Lake Cormorant"
+  },
+  "11/14/2026|boys-soccer|cgeorge|newalbany|cfdd8c04-a8b5-49a5-a0fb-652b2f185146": {
+   "fingerprint": "e7194926e6a194b0",
+   "first_reported": "2026-11-18T06:57:28-06:00",
+   "game_date": "11/14/2026",
+   "last_reported": "2026-11-18T06:57:28-06:00",
+   "player": "C. George",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "New Albany"
+  },
+  "11/14/2026|boys-soccer|eumanzor|newalbany|0ee43335-48fe-431b-9058-7271ddfb2a8b": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-18T06:57:28-06:00",
+   "game_date": "11/14/2026",
+   "last_reported": "2026-11-18T06:57:28-06:00",
+   "player": "E. Umanzor",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "New Albany"
   },
   "11/14/2026|boys-soccer|rbillings|enterprise|c0870036-7e49-49c6-bcf5-8ebc1b971409": {
    "fingerprint": "c6a2e4f51eee1080",
@@ -11830,6 +11860,16 @@
    "sport": "girls-basketball",
    "team": "Bay"
   },
+  "11/14/2026|girls-basketball|jgilbert|edwards|7e267868-2f9b-49df-b26f-a241230db0db": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-18T06:57:28-06:00",
+   "game_date": "11/14/2026",
+   "last_reported": "2026-11-18T06:57:28-06:00",
+   "player": "J. Gilbert",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Edwards"
+  },
   "11/14/2026|girls-basketball|klaneaux|bay|15473a72-c53e-4122-8f29-d9321cf215e1": {
    "fingerprint": "4aba233025787a6b",
    "first_reported": "2026-11-17T06:54:33-06:00",
@@ -11850,6 +11890,26 @@
    "sport": "girls-basketball",
    "team": "Lake Cormorant"
   },
+  "11/14/2026|girls-soccer|cgeorge|newalbany|cfdd8c04-a8b5-49a5-a0fb-652b2f185146": {
+   "fingerprint": "e7194926e6a194b0",
+   "first_reported": "2026-11-18T06:57:28-06:00",
+   "game_date": "11/14/2026",
+   "last_reported": "2026-11-18T06:57:28-06:00",
+   "player": "C. George",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "New Albany"
+  },
+  "11/14/2026|girls-soccer|eumanzor|newalbany|0ee43335-48fe-431b-9058-7271ddfb2a8b": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-18T06:57:28-06:00",
+   "game_date": "11/14/2026",
+   "last_reported": "2026-11-18T06:57:28-06:00",
+   "player": "E. Umanzor",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "New Albany"
+  },
   "11/14/2026|girls-soccer|rbillings|enterprise|c0870036-7e49-49c6-bcf5-8ebc1b971409": {
    "fingerprint": "c6a2e4f51eee1080",
    "first_reported": "2026-11-15T07:09:31-06:00",
@@ -11859,6 +11919,36 @@
    "reason_count": 1,
    "sport": "girls-soccer",
    "team": "Enterprise"
+  },
+  "11/16/2026|boys-basketball|cmclin|florence|4c2dde94-600d-407a-9e06-b486a996b4e6": {
+   "fingerprint": "0e38a869094328c9",
+   "first_reported": "2026-11-18T06:57:28-06:00",
+   "game_date": "11/16/2026",
+   "last_reported": "2026-11-18T06:57:28-06:00",
+   "player": "C. McLin",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Florence"
+  },
+  "11/16/2026|boys-basketball|nwillis|crystalsprings|4c2dde94-600d-407a-9e06-b486a996b4e6": {
+   "fingerprint": "9fbe75facd5e7567",
+   "first_reported": "2026-11-18T06:57:28-06:00",
+   "game_date": "11/16/2026",
+   "last_reported": "2026-11-18T06:57:28-06:00",
+   "player": "N. WILLIS",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Crystal Springs"
+  },
+  "11/16/2026|boys-soccer|cballard|loydstar|feee47c2-1a3e-4ca1-8a83-1b20a411faf2": {
+   "fingerprint": "1cc226fa2c7951a4",
+   "first_reported": "2026-11-18T06:57:28-06:00",
+   "game_date": "11/16/2026",
+   "last_reported": "2026-11-18T06:57:28-06:00",
+   "player": "C. Ballard",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Loyd Star"
   },
   "11/16/2026|boys-soccer|ibedolla|houston|10b42a44-649e-46fa-9d72-37ec71bbb730": {
    "fingerprint": "c6a2e4f51eee1080",
@@ -11870,6 +11960,36 @@
    "sport": "boys-soccer",
    "team": "Houston"
   },
+  "11/16/2026|girls-basketball|cmclin|florence|4c2dde94-600d-407a-9e06-b486a996b4e6": {
+   "fingerprint": "0e38a869094328c9",
+   "first_reported": "2026-11-18T06:57:28-06:00",
+   "game_date": "11/16/2026",
+   "last_reported": "2026-11-18T06:57:28-06:00",
+   "player": "C. McLin",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Florence"
+  },
+  "11/16/2026|girls-basketball|nwillis|crystalsprings|4c2dde94-600d-407a-9e06-b486a996b4e6": {
+   "fingerprint": "9fbe75facd5e7567",
+   "first_reported": "2026-11-18T06:57:28-06:00",
+   "game_date": "11/16/2026",
+   "last_reported": "2026-11-18T06:57:28-06:00",
+   "player": "N. WILLIS",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Crystal Springs"
+  },
+  "11/16/2026|girls-soccer|cballard|loydstar|feee47c2-1a3e-4ca1-8a83-1b20a411faf2": {
+   "fingerprint": "1cc226fa2c7951a4",
+   "first_reported": "2026-11-18T06:57:28-06:00",
+   "game_date": "11/16/2026",
+   "last_reported": "2026-11-18T06:57:28-06:00",
+   "player": "C. Ballard",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Loyd Star"
+  },
   "11/16/2026|girls-soccer|ibedolla|houston|10b42a44-649e-46fa-9d72-37ec71bbb730": {
    "fingerprint": "c6a2e4f51eee1080",
    "first_reported": "2026-11-17T06:54:33-06:00",
@@ -11879,8 +11999,48 @@
    "reason_count": 1,
    "sport": "girls-soccer",
    "team": "Houston"
+  },
+  "11/17/2026|boys-soccer|fortiz|deltastreetsacademy|ae1aa142-924a-42ac-a1b8-d153e938d9dc": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-18T06:57:28-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-18T06:57:28-06:00",
+   "player": "F. Ortiz",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Delta Streets Academy"
+  },
+  "11/17/2026|boys-soccer|jmenogan|jacksonacademy|0dec6d99-7068-4e49-8380-b43b6f471f81": {
+   "fingerprint": "d5c8a2073be2caa4",
+   "first_reported": "2026-11-18T06:57:28-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-18T06:57:28-06:00",
+   "player": "J. Menogan",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Jackson Academy"
+  },
+  "11/17/2026|girls-soccer|fortiz|deltastreetsacademy|ae1aa142-924a-42ac-a1b8-d153e938d9dc": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-18T06:57:28-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-18T06:57:28-06:00",
+   "player": "F. Ortiz",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Delta Streets Academy"
+  },
+  "11/17/2026|girls-soccer|jmenogan|jacksonacademy|0dec6d99-7068-4e49-8380-b43b6f471f81": {
+   "fingerprint": "d5c8a2073be2caa4",
+   "first_reported": "2026-11-18T06:57:28-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-18T06:57:28-06:00",
+   "player": "J. Menogan",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Jackson Academy"
   }
  },
- "updated": "2026-11-17T06:54:33-06:00",
+ "updated": "2026-11-18T06:57:28-06:00",
  "version": 1
 }
