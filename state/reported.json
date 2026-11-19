@@ -11940,6 +11940,16 @@
    "sport": "boys-basketball",
    "team": "Crystal Springs"
   },
+  "11/16/2026|boys-soccer|bharris|lamar|810534f6-357e-4486-a11a-e76b43bd227b": {
+   "fingerprint": "b34ee43f96e43ca3",
+   "first_reported": "2026-11-19T07:06:45-06:00",
+   "game_date": "11/16/2026",
+   "last_reported": "2026-11-19T07:06:45-06:00",
+   "player": "B. Harris",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Lamar"
+  },
   "11/16/2026|boys-soccer|cballard|loydstar|feee47c2-1a3e-4ca1-8a83-1b20a411faf2": {
    "fingerprint": "1cc226fa2c7951a4",
    "first_reported": "2026-11-18T06:57:28-06:00",
@@ -11959,6 +11969,16 @@
    "reason_count": 1,
    "sport": "boys-soccer",
    "team": "Houston"
+  },
+  "11/16/2026|boys-soccer|rscott|booneville|221bdb2d-00ac-45ea-9396-24d782bd2be9": {
+   "fingerprint": "bd9f3b61f077591e",
+   "first_reported": "2026-11-19T07:06:45-06:00",
+   "game_date": "11/16/2026",
+   "last_reported": "2026-11-19T07:06:45-06:00",
+   "player": "R. Scott",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Booneville"
   },
   "11/16/2026|girls-basketball|cmclin|florence|4c2dde94-600d-407a-9e06-b486a996b4e6": {
    "fingerprint": "0e38a869094328c9",
@@ -11980,6 +12000,16 @@
    "sport": "girls-basketball",
    "team": "Crystal Springs"
   },
+  "11/16/2026|girls-soccer|bharris|lamar|810534f6-357e-4486-a11a-e76b43bd227b": {
+   "fingerprint": "b34ee43f96e43ca3",
+   "first_reported": "2026-11-19T07:06:45-06:00",
+   "game_date": "11/16/2026",
+   "last_reported": "2026-11-19T07:06:45-06:00",
+   "player": "B. Harris",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Lamar"
+  },
   "11/16/2026|girls-soccer|cballard|loydstar|feee47c2-1a3e-4ca1-8a83-1b20a411faf2": {
    "fingerprint": "1cc226fa2c7951a4",
    "first_reported": "2026-11-18T06:57:28-06:00",
@@ -12000,6 +12030,46 @@
    "sport": "girls-soccer",
    "team": "Houston"
   },
+  "11/16/2026|girls-soccer|rscott|booneville|221bdb2d-00ac-45ea-9396-24d782bd2be9": {
+   "fingerprint": "bd9f3b61f077591e",
+   "first_reported": "2026-11-19T07:06:45-06:00",
+   "game_date": "11/16/2026",
+   "last_reported": "2026-11-19T07:06:45-06:00",
+   "player": "R. Scott",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Booneville"
+  },
+  "11/17/2026|boys-basketball|kdowl|independence|1a6b1678-543f-4967-ad4b-dcec773d6128": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-19T07:06:45-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-19T07:06:45-06:00",
+   "player": "K. Dowl",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Independence"
+  },
+  "11/17/2026|boys-basketball|lwilbanks|walnut|31c8b9bf-2b32-4d5a-bbc7-a06f02f8785a": {
+   "fingerprint": "44b74d1a25c64d9c",
+   "first_reported": "2026-11-19T07:06:45-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-19T07:06:45-06:00",
+   "player": "L. Wilbanks",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Walnut"
+  },
+  "11/17/2026|boys-basketball|mjohnson|westlincoln|31d0f4ba-ab4f-44e2-a184-8a4163b7f4e3": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-19T07:06:45-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-19T07:06:45-06:00",
+   "player": "M. Johnson",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "West Lincoln"
+  },
   "11/17/2026|boys-soccer|fortiz|deltastreetsacademy|ae1aa142-924a-42ac-a1b8-d153e938d9dc": {
    "fingerprint": "c6a2e4f51eee1080",
    "first_reported": "2026-11-18T06:57:28-06:00",
@@ -12009,6 +12079,16 @@
    "reason_count": 1,
    "sport": "boys-soccer",
    "team": "Delta Streets Academy"
+  },
+  "11/17/2026|boys-soccer|jguiterrez|pearlrivercentral|18e75f09-38f8-4ab4-97a8-782590254d5f": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-19T07:06:45-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-19T07:06:45-06:00",
+   "player": "J. Guiterrez",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Pearl River Central"
   },
   "11/17/2026|boys-soccer|jmenogan|jacksonacademy|0dec6d99-7068-4e49-8380-b43b6f471f81": {
    "fingerprint": "d5c8a2073be2caa4",
@@ -12020,6 +12100,46 @@
    "sport": "boys-soccer",
    "team": "Jackson Academy"
   },
+  "11/17/2026|boys-soccer|rscott|booneville|681266c1-abf9-4d03-add8-861129c1720e": {
+   "fingerprint": "01af93776b3fb007",
+   "first_reported": "2026-11-19T07:06:45-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-19T07:06:45-06:00",
+   "player": "R. Scott",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Booneville"
+  },
+  "11/17/2026|girls-basketball|kdowl|independence|1a6b1678-543f-4967-ad4b-dcec773d6128": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-19T07:06:45-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-19T07:06:45-06:00",
+   "player": "K. Dowl",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Independence"
+  },
+  "11/17/2026|girls-basketball|lwilbanks|walnut|31c8b9bf-2b32-4d5a-bbc7-a06f02f8785a": {
+   "fingerprint": "44b74d1a25c64d9c",
+   "first_reported": "2026-11-19T07:06:45-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-19T07:06:45-06:00",
+   "player": "L. Wilbanks",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Walnut"
+  },
+  "11/17/2026|girls-basketball|mjohnson|westlincoln|31d0f4ba-ab4f-44e2-a184-8a4163b7f4e3": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-19T07:06:45-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-19T07:06:45-06:00",
+   "player": "M. Johnson",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "West Lincoln"
+  },
   "11/17/2026|girls-soccer|fortiz|deltastreetsacademy|ae1aa142-924a-42ac-a1b8-d153e938d9dc": {
    "fingerprint": "c6a2e4f51eee1080",
    "first_reported": "2026-11-18T06:57:28-06:00",
@@ -12030,6 +12150,16 @@
    "sport": "girls-soccer",
    "team": "Delta Streets Academy"
   },
+  "11/17/2026|girls-soccer|jguiterrez|pearlrivercentral|18e75f09-38f8-4ab4-97a8-782590254d5f": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-19T07:06:45-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-19T07:06:45-06:00",
+   "player": "J. Guiterrez",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Pearl River Central"
+  },
   "11/17/2026|girls-soccer|jmenogan|jacksonacademy|0dec6d99-7068-4e49-8380-b43b6f471f81": {
    "fingerprint": "d5c8a2073be2caa4",
    "first_reported": "2026-11-18T06:57:28-06:00",
@@ -12039,8 +12169,18 @@
    "reason_count": 1,
    "sport": "girls-soccer",
    "team": "Jackson Academy"
+  },
+  "11/17/2026|girls-soccer|rscott|booneville|681266c1-abf9-4d03-add8-861129c1720e": {
+   "fingerprint": "01af93776b3fb007",
+   "first_reported": "2026-11-19T07:06:45-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-19T07:06:45-06:00",
+   "player": "R. Scott",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Booneville"
   }
  },
- "updated": "2026-11-18T06:57:28-06:00",
+ "updated": "2026-11-19T07:06:45-06:00",
  "version": 1
 }
