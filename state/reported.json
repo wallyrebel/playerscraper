@@ -12040,6 +12040,46 @@
    "sport": "girls-soccer",
    "team": "Booneville"
   },
+  "11/17/2026|boys-basketball|bfairley|georgecounty|cb2771d8-f3f3-43c1-ba3e-92880aea9f88": {
+   "fingerprint": "0e38a869094328c9",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "B. Fairley",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "George County"
+  },
+  "11/17/2026|boys-basketball|btackett|centralhindsacademy|0649bf99-df7d-4df5-bfb5-7a883d8048e7": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "B. Tackett",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Central Hinds Academy"
+  },
+  "11/17/2026|boys-basketball|eclingan|tishomingocounty|3b1aa6bf-6682-4550-b703-08bda13b9d4e": {
+   "fingerprint": "2492ab6a32623ba0",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "E. Clingan",
+   "reason_count": 3,
+   "sport": "boys-basketball",
+   "team": "Tishomingo County"
+  },
+  "11/17/2026|boys-basketball|jrobbins|myrtle|8621fb6f-fd5a-4312-beb4-1a38306a76fe": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "J. Robbins",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Myrtle"
+  },
   "11/17/2026|boys-basketball|kdowl|independence|1a6b1678-543f-4967-ad4b-dcec773d6128": {
    "fingerprint": "4aba233025787a6b",
    "first_reported": "2026-11-19T07:06:45-06:00",
@@ -12049,6 +12089,16 @@
    "reason_count": 1,
    "sport": "boys-basketball",
    "team": "Independence"
+  },
+  "11/17/2026|boys-basketball|lbradley|georgecounty|cb2771d8-f3f3-43c1-ba3e-92880aea9f88": {
+   "fingerprint": "3b6846b9f6884000",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "L. Bradley",
+   "reason_count": 3,
+   "sport": "boys-basketball",
+   "team": "George County"
   },
   "11/17/2026|boys-basketball|lwilbanks|walnut|31c8b9bf-2b32-4d5a-bbc7-a06f02f8785a": {
    "fingerprint": "44b74d1a25c64d9c",
@@ -12100,6 +12150,26 @@
    "sport": "boys-soccer",
    "team": "Jackson Academy"
   },
+  "11/17/2026|boys-soccer|oballard|westharrison|e7547ba0-9be6-4a18-8241-80288bb23a0a": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "O. Ballard",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "West Harrison"
+  },
+  "11/17/2026|boys-soccer|pmearett|winona|5495158e-460f-42bf-bd54-57a08bcc6feb": {
+   "fingerprint": "01af93776b3fb007",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "P. Mearett",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Winona"
+  },
   "11/17/2026|boys-soccer|rscott|booneville|681266c1-abf9-4d03-add8-861129c1720e": {
    "fingerprint": "01af93776b3fb007",
    "first_reported": "2026-11-19T07:06:45-06:00",
@@ -12110,6 +12180,46 @@
    "sport": "boys-soccer",
    "team": "Booneville"
   },
+  "11/17/2026|girls-basketball|bfairley|georgecounty|cb2771d8-f3f3-43c1-ba3e-92880aea9f88": {
+   "fingerprint": "0e38a869094328c9",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "B. Fairley",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "George County"
+  },
+  "11/17/2026|girls-basketball|btackett|centralhindsacademy|0649bf99-df7d-4df5-bfb5-7a883d8048e7": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "B. Tackett",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Central Hinds Academy"
+  },
+  "11/17/2026|girls-basketball|eclingan|tishomingocounty|3b1aa6bf-6682-4550-b703-08bda13b9d4e": {
+   "fingerprint": "2492ab6a32623ba0",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "E. Clingan",
+   "reason_count": 3,
+   "sport": "girls-basketball",
+   "team": "Tishomingo County"
+  },
+  "11/17/2026|girls-basketball|jrobbins|myrtle|8621fb6f-fd5a-4312-beb4-1a38306a76fe": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "J. Robbins",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Myrtle"
+  },
   "11/17/2026|girls-basketball|kdowl|independence|1a6b1678-543f-4967-ad4b-dcec773d6128": {
    "fingerprint": "4aba233025787a6b",
    "first_reported": "2026-11-19T07:06:45-06:00",
@@ -12119,6 +12229,16 @@
    "reason_count": 1,
    "sport": "girls-basketball",
    "team": "Independence"
+  },
+  "11/17/2026|girls-basketball|lbradley|georgecounty|cb2771d8-f3f3-43c1-ba3e-92880aea9f88": {
+   "fingerprint": "3b6846b9f6884000",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "L. Bradley",
+   "reason_count": 3,
+   "sport": "girls-basketball",
+   "team": "George County"
   },
   "11/17/2026|girls-basketball|lwilbanks|walnut|31c8b9bf-2b32-4d5a-bbc7-a06f02f8785a": {
    "fingerprint": "44b74d1a25c64d9c",
@@ -12170,6 +12290,26 @@
    "sport": "girls-soccer",
    "team": "Jackson Academy"
   },
+  "11/17/2026|girls-soccer|oballard|westharrison|e7547ba0-9be6-4a18-8241-80288bb23a0a": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "O. Ballard",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "West Harrison"
+  },
+  "11/17/2026|girls-soccer|pmearett|winona|5495158e-460f-42bf-bd54-57a08bcc6feb": {
+   "fingerprint": "01af93776b3fb007",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "P. Mearett",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Winona"
+  },
   "11/17/2026|girls-soccer|rscott|booneville|681266c1-abf9-4d03-add8-861129c1720e": {
    "fingerprint": "01af93776b3fb007",
    "first_reported": "2026-11-19T07:06:45-06:00",
@@ -12179,8 +12319,88 @@
    "reason_count": 1,
    "sport": "girls-soccer",
    "team": "Booneville"
+  },
+  "11/18/2026|boys-basketball|tmaxwell|rosafort|b0b9804d-2620-4d3d-8aa2-b63bb69529a7": {
+   "fingerprint": "448c587a4f086256",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/18/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "T. Maxwell",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Rosa Fort"
+  },
+  "11/18/2026|girls-basketball|tmaxwell|rosafort|b0b9804d-2620-4d3d-8aa2-b63bb69529a7": {
+   "fingerprint": "448c587a4f086256",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/18/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "T. Maxwell",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Rosa Fort"
+  },
+  "11/19/2026|boys-basketball|jatterberry|mcadams|d4e1b1b1-5d63-42b7-a583-afdd1ec845d7": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/19/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "J. Atterberry",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "McAdams"
+  },
+  "11/19/2026|boys-soccer|ftorres|houston|a7472998-da8d-45bf-841d-795760d824e8": {
+   "fingerprint": "d5c8a2073be2caa4",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/19/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "F. Torres",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Houston"
+  },
+  "11/19/2026|boys-soccer|ibedolla|houston|a7472998-da8d-45bf-841d-795760d824e8": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/19/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "I. Bedolla",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Houston"
+  },
+  "11/19/2026|girls-basketball|jatterberry|mcadams|d4e1b1b1-5d63-42b7-a583-afdd1ec845d7": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/19/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "J. Atterberry",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "McAdams"
+  },
+  "11/19/2026|girls-soccer|ftorres|houston|a7472998-da8d-45bf-841d-795760d824e8": {
+   "fingerprint": "d5c8a2073be2caa4",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/19/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "F. Torres",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Houston"
+  },
+  "11/19/2026|girls-soccer|ibedolla|houston|a7472998-da8d-45bf-841d-795760d824e8": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-20T07:22:51-06:00",
+   "game_date": "11/19/2026",
+   "last_reported": "2026-11-20T07:22:51-06:00",
+   "player": "I. Bedolla",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Houston"
   }
  },
- "updated": "2026-11-19T07:06:45-06:00",
+ "updated": "2026-11-20T07:22:51-06:00",
  "version": 1
 }
