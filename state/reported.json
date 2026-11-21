@@ -12090,6 +12090,16 @@
    "sport": "boys-basketball",
    "team": "Independence"
   },
+  "11/17/2026|boys-basketball|kdunn|oxford|9fa0d19e-9ab4-430b-af64-a1c5d5377bf0": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-21T07:38:05-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-21T07:38:05-06:00",
+   "player": "K. Dunn",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Oxford"
+  },
   "11/17/2026|boys-basketball|lbradley|georgecounty|cb2771d8-f3f3-43c1-ba3e-92880aea9f88": {
    "fingerprint": "3b6846b9f6884000",
    "first_reported": "2026-11-20T07:22:51-06:00",
@@ -12230,6 +12240,16 @@
    "sport": "girls-basketball",
    "team": "Independence"
   },
+  "11/17/2026|girls-basketball|kdunn|oxford|9fa0d19e-9ab4-430b-af64-a1c5d5377bf0": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-21T07:38:05-06:00",
+   "game_date": "11/17/2026",
+   "last_reported": "2026-11-21T07:38:05-06:00",
+   "player": "K. Dunn",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Oxford"
+  },
   "11/17/2026|girls-basketball|lbradley|georgecounty|cb2771d8-f3f3-43c1-ba3e-92880aea9f88": {
    "fingerprint": "3b6846b9f6884000",
    "first_reported": "2026-11-20T07:22:51-06:00",
@@ -12350,6 +12370,16 @@
    "sport": "boys-basketball",
    "team": "McAdams"
   },
+  "11/19/2026|boys-basketball|lbradley|georgecounty|f661beee-e313-4432-93e7-6f38dc4ae8cc": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-21T07:38:05-06:00",
+   "game_date": "11/19/2026",
+   "last_reported": "2026-11-21T07:38:05-06:00",
+   "player": "L. Bradley",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "George County"
+  },
   "11/19/2026|boys-soccer|ftorres|houston|a7472998-da8d-45bf-841d-795760d824e8": {
    "fingerprint": "d5c8a2073be2caa4",
    "first_reported": "2026-11-20T07:22:51-06:00",
@@ -12370,6 +12400,16 @@
    "sport": "boys-soccer",
    "team": "Houston"
   },
+  "11/19/2026|boys-soccer|rhernadez|magee|f6666698-0695-4405-a0d0-ae85a10a5cd9": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-21T07:38:05-06:00",
+   "game_date": "11/19/2026",
+   "last_reported": "2026-11-21T07:38:05-06:00",
+   "player": "R. Hernadez",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Magee"
+  },
   "11/19/2026|girls-basketball|jatterberry|mcadams|d4e1b1b1-5d63-42b7-a583-afdd1ec845d7": {
    "fingerprint": "7a65e21dd0e99ce8",
    "first_reported": "2026-11-20T07:22:51-06:00",
@@ -12379,6 +12419,16 @@
    "reason_count": 1,
    "sport": "girls-basketball",
    "team": "McAdams"
+  },
+  "11/19/2026|girls-basketball|lbradley|georgecounty|f661beee-e313-4432-93e7-6f38dc4ae8cc": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-21T07:38:05-06:00",
+   "game_date": "11/19/2026",
+   "last_reported": "2026-11-21T07:38:05-06:00",
+   "player": "L. Bradley",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "George County"
   },
   "11/19/2026|girls-soccer|ftorres|houston|a7472998-da8d-45bf-841d-795760d824e8": {
    "fingerprint": "d5c8a2073be2caa4",
@@ -12399,8 +12449,48 @@
    "reason_count": 1,
    "sport": "girls-soccer",
    "team": "Houston"
+  },
+  "11/19/2026|girls-soccer|rhernadez|magee|f6666698-0695-4405-a0d0-ae85a10a5cd9": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-21T07:38:05-06:00",
+   "game_date": "11/19/2026",
+   "last_reported": "2026-11-21T07:38:05-06:00",
+   "player": "R. Hernadez",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Magee"
+  },
+  "11/20/2026|boys-soccer|rbillings|enterprise|37727f45-dba6-40c5-864b-edc1812b9a16": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-21T07:38:05-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-21T07:38:05-06:00",
+   "player": "R. Billings",
+   "reason_count": 1,
+   "sport": "boys-soccer",
+   "team": "Enterprise"
+  },
+  "11/20/2026|football|tduffy|poplarville|9738f6ff-65d4-4abb-be25-cbb62434fcea": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-11-21T07:38:05-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-21T07:38:05-06:00",
+   "player": "T. Duffy",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Poplarville"
+  },
+  "11/20/2026|girls-soccer|rbillings|enterprise|37727f45-dba6-40c5-864b-edc1812b9a16": {
+   "fingerprint": "c6a2e4f51eee1080",
+   "first_reported": "2026-11-21T07:38:05-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-21T07:38:05-06:00",
+   "player": "R. Billings",
+   "reason_count": 1,
+   "sport": "girls-soccer",
+   "team": "Enterprise"
   }
  },
- "updated": "2026-11-20T07:22:51-06:00",
+ "updated": "2026-11-21T07:38:05-06:00",
  "version": 1
 }
