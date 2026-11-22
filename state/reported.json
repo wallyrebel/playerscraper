@@ -12380,6 +12380,16 @@
    "sport": "boys-basketball",
    "team": "George County"
   },
+  "11/19/2026|boys-basketball|ndavis|christiancollegiateacademy|0a3a809a-9bc5-40ab-8bec-f1262a3ec77f": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/19/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "N. Davis",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Christian Collegiate Academy"
+  },
   "11/19/2026|boys-soccer|ftorres|houston|a7472998-da8d-45bf-841d-795760d824e8": {
    "fingerprint": "d5c8a2073be2caa4",
    "first_reported": "2026-11-20T07:22:51-06:00",
@@ -12430,6 +12440,16 @@
    "sport": "girls-basketball",
    "team": "George County"
   },
+  "11/19/2026|girls-basketball|ndavis|christiancollegiateacademy|0a3a809a-9bc5-40ab-8bec-f1262a3ec77f": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/19/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "N. Davis",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Christian Collegiate Academy"
+  },
   "11/19/2026|girls-soccer|ftorres|houston|a7472998-da8d-45bf-841d-795760d824e8": {
    "fingerprint": "d5c8a2073be2caa4",
    "first_reported": "2026-11-20T07:22:51-06:00",
@@ -12460,6 +12480,46 @@
    "sport": "girls-soccer",
    "team": "Magee"
   },
+  "11/20/2026|boys-basketball|kfinley|hollysprings|1553db69-a3db-4148-a2a9-ddf8365853dd": {
+   "fingerprint": "aa3e230910a8d4f2",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "K. finley",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Holly Springs"
+  },
+  "11/20/2026|boys-basketball|ndavis|christiancollegiateacademy|ba0cbd46-6880-464e-a09f-18a0273f5992": {
+   "fingerprint": "5ee19ae428544da1",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "N. Davis",
+   "reason_count": 3,
+   "sport": "boys-basketball",
+   "team": "Christian Collegiate Academy"
+  },
+  "11/20/2026|boys-basketball|tgarcia|christiancollegiateacademy|ba0cbd46-6880-464e-a09f-18a0273f5992": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "T. Garcia",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Christian Collegiate Academy"
+  },
+  "11/20/2026|boys-basketball|tmaxwell|rosafort|1553db69-a3db-4148-a2a9-ddf8365853dd": {
+   "fingerprint": "33d007f76441f18c",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "T. Maxwell",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Rosa Fort"
+  },
   "11/20/2026|boys-soccer|rbillings|enterprise|37727f45-dba6-40c5-864b-edc1812b9a16": {
    "fingerprint": "c6a2e4f51eee1080",
    "first_reported": "2026-11-21T07:38:05-06:00",
@@ -12470,6 +12530,116 @@
    "sport": "boys-soccer",
    "team": "Enterprise"
   },
+  "11/20/2026|football|adawson|meridian|59b58db8-4c30-4934-bd36-cad48dd1a3d4": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "A. Dawson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Meridian"
+  },
+  "11/20/2026|football|bcaffie|magee|56f1c31e-1075-4533-96bb-e71ccccdff36": {
+   "fingerprint": "64e564bcbc50cbab",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "B. Caffie",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Magee"
+  },
+  "11/20/2026|football|cwiggins|madisoncentral|4ffb67f7-8922-4cb7-89f0-25db034df492": {
+   "fingerprint": "f74f33fc36e9c66f",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "C. Wiggins",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Madison Central"
+  },
+  "11/20/2026|football|djohnson|meridian|59b58db8-4c30-4934-bd36-cad48dd1a3d4": {
+   "fingerprint": "81d4baf3442fa352",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "D. Johnson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Meridian"
+  },
+  "11/20/2026|football|jgriffinjr|clevelandcentral|6dd5d7e4-d44f-49a8-9e7d-524296c33b8d": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "J. Griffin Jr.",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Cleveland Central"
+  },
+  "11/20/2026|football|kbranham|westpoint|6dd5d7e4-d44f-49a8-9e7d-524296c33b8d": {
+   "fingerprint": "1075d06596833584",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "K. Branham",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "West Point"
+  },
+  "11/20/2026|football|kporter|heidelberg|48293a99-8bee-4bf4-bb5b-308c67c3128a": {
+   "fingerprint": "1c8ff16d94f35098",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "K. Porter",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Heidelberg"
+  },
+  "11/20/2026|football|lbranson|germantown|46720c60-a338-4552-933f-bc6b3f18192c": {
+   "fingerprint": "f235dd7677353e6a",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "L. Branson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Germantown"
+  },
+  "11/20/2026|football|mburks|passchristian|904a9950-069f-41fa-9e4f-d818dd6c835a": {
+   "fingerprint": "ffbb8ca31de294ff",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "M. Burks",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Pass Christian"
+  },
+  "11/20/2026|football|mwilliams|westpoint|6dd5d7e4-d44f-49a8-9e7d-524296c33b8d": {
+   "fingerprint": "644af849aa7c4704",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "M. Williams",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "West Point"
+  },
+  "11/20/2026|football|nbrycejohnson|germantown|46720c60-a338-4552-933f-bc6b3f18192c": {
+   "fingerprint": "88d51d02443939a9",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "N. Bryce Johnson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Germantown"
+  },
   "11/20/2026|football|tduffy|poplarville|9738f6ff-65d4-4abb-be25-cbb62434fcea": {
    "fingerprint": "81d4baf3442fa352",
    "first_reported": "2026-11-21T07:38:05-06:00",
@@ -12479,6 +12649,56 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Poplarville"
+  },
+  "11/20/2026|football|tkeys|poplarville|9738f6ff-65d4-4abb-be25-cbb62434fcea": {
+   "fingerprint": "c0917c14f69b68f0",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "T. Keys",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Poplarville"
+  },
+  "11/20/2026|girls-basketball|kfinley|hollysprings|1553db69-a3db-4148-a2a9-ddf8365853dd": {
+   "fingerprint": "aa3e230910a8d4f2",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "K. finley",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Holly Springs"
+  },
+  "11/20/2026|girls-basketball|ndavis|christiancollegiateacademy|ba0cbd46-6880-464e-a09f-18a0273f5992": {
+   "fingerprint": "5ee19ae428544da1",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "N. Davis",
+   "reason_count": 3,
+   "sport": "girls-basketball",
+   "team": "Christian Collegiate Academy"
+  },
+  "11/20/2026|girls-basketball|tgarcia|christiancollegiateacademy|ba0cbd46-6880-464e-a09f-18a0273f5992": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "T. Garcia",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Christian Collegiate Academy"
+  },
+  "11/20/2026|girls-basketball|tmaxwell|rosafort|1553db69-a3db-4148-a2a9-ddf8365853dd": {
+   "fingerprint": "33d007f76441f18c",
+   "first_reported": "2026-11-22T07:00:59-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-22T07:00:59-06:00",
+   "player": "T. Maxwell",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Rosa Fort"
   },
   "11/20/2026|girls-soccer|rbillings|enterprise|37727f45-dba6-40c5-864b-edc1812b9a16": {
    "fingerprint": "c6a2e4f51eee1080",
@@ -12491,6 +12711,6 @@
    "team": "Enterprise"
   }
  },
- "updated": "2026-11-21T07:38:05-06:00",
+ "updated": "2026-11-22T07:00:59-06:00",
  "version": 1
 }
