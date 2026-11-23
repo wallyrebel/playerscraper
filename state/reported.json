@@ -12370,6 +12370,16 @@
    "sport": "boys-basketball",
    "team": "McAdams"
   },
+  "11/19/2026|boys-basketball|kdunn|oxford|45d74327-8c04-48f1-bc84-cbaf7f557c87": {
+   "fingerprint": "0e38a869094328c9",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/19/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "K. Dunn",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Oxford"
+  },
   "11/19/2026|boys-basketball|lbradley|georgecounty|f661beee-e313-4432-93e7-6f38dc4ae8cc": {
    "fingerprint": "4aba233025787a6b",
    "first_reported": "2026-11-21T07:38:05-06:00",
@@ -12420,6 +12430,16 @@
    "sport": "boys-soccer",
    "team": "Magee"
   },
+  "11/19/2026|football|chunt|tricountyacademy|253e5e86-43cb-49c1-ad3e-5ec40fafead4": {
+   "fingerprint": "da9151616f7d8bdb",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/19/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "C. Hunt",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Tri-County Academy"
+  },
   "11/19/2026|girls-basketball|jatterberry|mcadams|d4e1b1b1-5d63-42b7-a583-afdd1ec845d7": {
    "fingerprint": "7a65e21dd0e99ce8",
    "first_reported": "2026-11-20T07:22:51-06:00",
@@ -12429,6 +12449,16 @@
    "reason_count": 1,
    "sport": "girls-basketball",
    "team": "McAdams"
+  },
+  "11/19/2026|girls-basketball|kdunn|oxford|45d74327-8c04-48f1-bc84-cbaf7f557c87": {
+   "fingerprint": "0e38a869094328c9",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/19/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "K. Dunn",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Oxford"
   },
   "11/19/2026|girls-basketball|lbradley|georgecounty|f661beee-e313-4432-93e7-6f38dc4ae8cc": {
    "fingerprint": "4aba233025787a6b",
@@ -12480,6 +12510,16 @@
    "sport": "girls-soccer",
    "team": "Magee"
   },
+  "11/20/2026|boys-basketball|ddillon|northwestrankin|1ed49f0b-11e9-4203-89a9-2174f8012a2f": {
+   "fingerprint": "ca40e36da0e6c9c1",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "D. Dillon",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Northwest Rankin"
+  },
   "11/20/2026|boys-basketball|kfinley|hollysprings|1553db69-a3db-4148-a2a9-ddf8365853dd": {
    "fingerprint": "aa3e230910a8d4f2",
    "first_reported": "2026-11-22T07:00:59-06:00",
@@ -12489,6 +12529,16 @@
    "reason_count": 1,
    "sport": "boys-basketball",
    "team": "Holly Springs"
+  },
+  "11/20/2026|boys-basketball|mmitchell|hatley|a75031cb-81b7-4ba1-a42e-58bf26f0107c": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "M. Mitchell",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Hatley"
   },
   "11/20/2026|boys-basketball|ndavis|christiancollegiateacademy|ba0cbd46-6880-464e-a09f-18a0273f5992": {
    "fingerprint": "5ee19ae428544da1",
@@ -12570,6 +12620,16 @@
    "sport": "football",
    "team": "Meridian"
   },
+  "11/20/2026|football|jgoodwin|noxubeecounty|728d2840-256b-45ab-9d83-d68b9c724fad": {
+   "fingerprint": "b01876a727237a04",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "J. Goodwin",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Noxubee County"
+  },
   "11/20/2026|football|jgriffinjr|clevelandcentral|6dd5d7e4-d44f-49a8-9e7d-524296c33b8d": {
    "fingerprint": "9ac3d9e8216ff223",
    "first_reported": "2026-11-22T07:00:59-06:00",
@@ -12580,6 +12640,26 @@
    "sport": "football",
    "team": "Cleveland Central"
   },
+  "11/20/2026|football|jkeyes|seminary|9203f894-3057-4bd1-a48b-2f2e45681719": {
+   "fingerprint": "da3a7506ee39134b",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "J. Keyes",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Seminary"
+  },
+  "11/20/2026|football|kbobo|tupelo|4ffb67f7-8922-4cb7-89f0-25db034df492": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "K. Bobo",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Tupelo"
+  },
   "11/20/2026|football|kbranham|westpoint|6dd5d7e4-d44f-49a8-9e7d-524296c33b8d": {
    "fingerprint": "1075d06596833584",
    "first_reported": "2026-11-22T07:00:59-06:00",
@@ -12589,6 +12669,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "West Point"
+  },
+  "11/20/2026|football|kplump|hattiesburg|17484696-41fc-471e-94e3-a254893be82d": {
+   "fingerprint": "0dbe9658ad02f236",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "K. Plump",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Hattiesburg"
   },
   "11/20/2026|football|kporter|heidelberg|48293a99-8bee-4bf4-bb5b-308c67c3128a": {
    "fingerprint": "1c8ff16d94f35098",
@@ -12640,6 +12730,16 @@
    "sport": "football",
    "team": "Germantown"
   },
+  "11/20/2026|football|rcausey|oakgrove|8c608a25-feb1-4478-ac79-e5ac754fc709": {
+   "fingerprint": "9ac3d9e8216ff223",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "R. Causey",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Oak Grove"
+  },
   "11/20/2026|football|tduffy|poplarville|9738f6ff-65d4-4abb-be25-cbb62434fcea": {
    "fingerprint": "81d4baf3442fa352",
    "first_reported": "2026-11-21T07:38:05-06:00",
@@ -12649,6 +12749,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Poplarville"
+  },
+  "11/20/2026|football|teden|winona|007771cc-de9a-47a8-b4c4-2d00948bee32": {
+   "fingerprint": "3ed17a301a7bc192",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "T. Eden",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Winona"
   },
   "11/20/2026|football|tkeys|poplarville|9738f6ff-65d4-4abb-be25-cbb62434fcea": {
    "fingerprint": "c0917c14f69b68f0",
@@ -12660,6 +12770,16 @@
    "sport": "football",
    "team": "Poplarville"
   },
+  "11/20/2026|girls-basketball|ddillon|northwestrankin|1ed49f0b-11e9-4203-89a9-2174f8012a2f": {
+   "fingerprint": "ca40e36da0e6c9c1",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "D. Dillon",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Northwest Rankin"
+  },
   "11/20/2026|girls-basketball|kfinley|hollysprings|1553db69-a3db-4148-a2a9-ddf8365853dd": {
    "fingerprint": "aa3e230910a8d4f2",
    "first_reported": "2026-11-22T07:00:59-06:00",
@@ -12669,6 +12789,16 @@
    "reason_count": 1,
    "sport": "girls-basketball",
    "team": "Holly Springs"
+  },
+  "11/20/2026|girls-basketball|mmitchell|hatley|a75031cb-81b7-4ba1-a42e-58bf26f0107c": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "M. Mitchell",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Hatley"
   },
   "11/20/2026|girls-basketball|ndavis|christiancollegiateacademy|ba0cbd46-6880-464e-a09f-18a0273f5992": {
    "fingerprint": "5ee19ae428544da1",
@@ -12709,8 +12839,48 @@
    "reason_count": 1,
    "sport": "girls-soccer",
    "team": "Enterprise"
+  },
+  "11/21/2026|boys-basketball|jnelson|pottscamp|12d86f75-bed0-4b6d-9622-f091da950fad": {
+   "fingerprint": "5ee7c7e0ba3f81fc",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/21/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "J. Nelson",
+   "reason_count": 3,
+   "sport": "boys-basketball",
+   "team": "Potts Camp"
+  },
+  "11/21/2026|boys-basketball|zmayfield|hattiesburg|608a599a-6a7e-4b80-904b-1e711a16ddbe": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/21/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "Z. Mayfield",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Hattiesburg"
+  },
+  "11/21/2026|girls-basketball|jnelson|pottscamp|12d86f75-bed0-4b6d-9622-f091da950fad": {
+   "fingerprint": "5ee7c7e0ba3f81fc",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/21/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "J. Nelson",
+   "reason_count": 3,
+   "sport": "girls-basketball",
+   "team": "Potts Camp"
+  },
+  "11/21/2026|girls-basketball|zmayfield|hattiesburg|608a599a-6a7e-4b80-904b-1e711a16ddbe": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-23T07:14:33-06:00",
+   "game_date": "11/21/2026",
+   "last_reported": "2026-11-23T07:14:33-06:00",
+   "player": "Z. Mayfield",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Hattiesburg"
   }
  },
- "updated": "2026-11-22T07:00:59-06:00",
+ "updated": "2026-11-23T07:14:33-06:00",
  "version": 1
 }
