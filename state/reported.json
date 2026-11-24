@@ -12580,6 +12580,16 @@
    "sport": "boys-soccer",
    "team": "Enterprise"
   },
+  "11/20/2026|football|acoleman|louisville|263ac84a-8df0-47ad-be28-d57b17e143f6": {
+   "fingerprint": "da3a7506ee39134b",
+   "first_reported": "2026-11-24T07:02:29-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-24T07:02:29-06:00",
+   "player": "A. Coleman",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Louisville"
+  },
   "11/20/2026|football|adawson|meridian|59b58db8-4c30-4934-bd36-cad48dd1a3d4": {
    "fingerprint": "81d4baf3442fa352",
    "first_reported": "2026-11-22T07:00:59-06:00",
@@ -12589,6 +12599,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Meridian"
+  },
+  "11/20/2026|football|bburkeen|stringer|139a5206-c093-4d0f-96d1-9a15dd0b35e2": {
+   "fingerprint": "dd9afa6c59c17d96",
+   "first_reported": "2026-11-24T07:02:29-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-24T07:02:29-06:00",
+   "player": "B. Burkeen",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Stringer"
   },
   "11/20/2026|football|bcaffie|magee|56f1c31e-1075-4533-96bb-e71ccccdff36": {
    "fingerprint": "64e564bcbc50cbab",
@@ -12670,6 +12690,16 @@
    "sport": "football",
    "team": "West Point"
   },
+  "11/20/2026|football|kforrest|waynecounty|861d5fa4-dcb2-4d6b-99d8-59ae734cad7e": {
+   "fingerprint": "89bd4609e09b9bad",
+   "first_reported": "2026-11-24T07:02:29-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-24T07:02:29-06:00",
+   "player": "K. Forrest",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Wayne County"
+  },
   "11/20/2026|football|kplump|hattiesburg|17484696-41fc-471e-94e3-a254893be82d": {
    "fingerprint": "0dbe9658ad02f236",
    "first_reported": "2026-11-23T07:14:33-06:00",
@@ -12740,6 +12770,26 @@
    "sport": "football",
    "team": "Oak Grove"
   },
+  "11/20/2026|football|skingjr|passchristian|904a9950-069f-41fa-9e4f-d818dd6c835a": {
+   "fingerprint": "78bf9c8f80946a62",
+   "first_reported": "2026-11-24T07:02:29-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-24T07:02:29-06:00",
+   "player": "S. King Jr",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Pass Christian"
+  },
+  "11/20/2026|football|sstewart|eastwebster|d750d62d-f5d6-49ad-bd95-cbccfe821569": {
+   "fingerprint": "2d8f31df86c5f3d6",
+   "first_reported": "2026-11-24T07:02:29-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-24T07:02:29-06:00",
+   "player": "S. Stewart",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "East Webster"
+  },
   "11/20/2026|football|tduffy|poplarville|9738f6ff-65d4-4abb-be25-cbb62434fcea": {
    "fingerprint": "81d4baf3442fa352",
    "first_reported": "2026-11-21T07:38:05-06:00",
@@ -12760,6 +12810,16 @@
    "sport": "football",
    "team": "Winona"
   },
+  "11/20/2026|football|tgordon|stringer|139a5206-c093-4d0f-96d1-9a15dd0b35e2": {
+   "fingerprint": "a7b85ee9f238d03e",
+   "first_reported": "2026-11-24T07:02:29-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-24T07:02:29-06:00",
+   "player": "T. Gordon",
+   "reason_count": 2,
+   "sport": "football",
+   "team": "Stringer"
+  },
   "11/20/2026|football|tkeys|poplarville|9738f6ff-65d4-4abb-be25-cbb62434fcea": {
    "fingerprint": "c0917c14f69b68f0",
    "first_reported": "2026-11-22T07:00:59-06:00",
@@ -12769,6 +12829,16 @@
    "reason_count": 1,
    "sport": "football",
    "team": "Poplarville"
+  },
+  "11/20/2026|football|wwilkinson|oxford|46720c60-a338-4552-933f-bc6b3f18192c": {
+   "fingerprint": "95b5c27c140febac",
+   "first_reported": "2026-11-24T07:02:29-06:00",
+   "game_date": "11/20/2026",
+   "last_reported": "2026-11-24T07:02:29-06:00",
+   "player": "W. Wilkinson",
+   "reason_count": 1,
+   "sport": "football",
+   "team": "Oxford"
   },
   "11/20/2026|girls-basketball|ddillon|northwestrankin|1ed49f0b-11e9-4203-89a9-2174f8012a2f": {
    "fingerprint": "ca40e36da0e6c9c1",
@@ -12879,8 +12949,68 @@
    "reason_count": 1,
    "sport": "girls-basketball",
    "team": "Hattiesburg"
+  },
+  "11/23/2026|boys-basketball|btotten|pottscamp|573a487a-925b-4cb9-9c15-9d81c89f101c": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-24T07:02:29-06:00",
+   "game_date": "11/23/2026",
+   "last_reported": "2026-11-24T07:02:29-06:00",
+   "player": "B. Totten",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Potts Camp"
+  },
+  "11/23/2026|boys-basketball|cwade|hillcrestchristian|536cefb4-8ee3-423d-98ea-daf51bbb0c24": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-24T07:02:29-06:00",
+   "game_date": "11/23/2026",
+   "last_reported": "2026-11-24T07:02:29-06:00",
+   "player": "C. Wade",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Hillcrest Christian"
+  },
+  "11/23/2026|boys-basketball|jdowdy|hollysprings|5e87960d-8571-4d83-881a-597e3976faaa": {
+   "fingerprint": "5ee19ae428544da1",
+   "first_reported": "2026-11-24T07:02:29-06:00",
+   "game_date": "11/23/2026",
+   "last_reported": "2026-11-24T07:02:29-06:00",
+   "player": "J. DOWDY",
+   "reason_count": 3,
+   "sport": "boys-basketball",
+   "team": "Holly Springs"
+  },
+  "11/23/2026|girls-basketball|btotten|pottscamp|573a487a-925b-4cb9-9c15-9d81c89f101c": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-24T07:02:29-06:00",
+   "game_date": "11/23/2026",
+   "last_reported": "2026-11-24T07:02:29-06:00",
+   "player": "B. Totten",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Potts Camp"
+  },
+  "11/23/2026|girls-basketball|cwade|hillcrestchristian|536cefb4-8ee3-423d-98ea-daf51bbb0c24": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-24T07:02:29-06:00",
+   "game_date": "11/23/2026",
+   "last_reported": "2026-11-24T07:02:29-06:00",
+   "player": "C. Wade",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Hillcrest Christian"
+  },
+  "11/23/2026|girls-basketball|jdowdy|hollysprings|5e87960d-8571-4d83-881a-597e3976faaa": {
+   "fingerprint": "5ee19ae428544da1",
+   "first_reported": "2026-11-24T07:02:29-06:00",
+   "game_date": "11/23/2026",
+   "last_reported": "2026-11-24T07:02:29-06:00",
+   "player": "J. DOWDY",
+   "reason_count": 3,
+   "sport": "girls-basketball",
+   "team": "Holly Springs"
   }
  },
- "updated": "2026-11-23T07:14:33-06:00",
+ "updated": "2026-11-24T07:02:29-06:00",
  "version": 1
 }
