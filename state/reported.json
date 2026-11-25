@@ -13009,8 +13009,28 @@
    "reason_count": 3,
    "sport": "girls-basketball",
    "team": "Holly Springs"
+  },
+  "11/24/2026|boys-basketball|cparker|heidelberg|8740571f-4c7f-4d58-aced-3cbd74df4911": {
+   "fingerprint": "448c587a4f086256",
+   "first_reported": "2026-11-25T06:59:13-06:00",
+   "game_date": "11/24/2026",
+   "last_reported": "2026-11-25T06:59:13-06:00",
+   "player": "C. Parker",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Heidelberg"
+  },
+  "11/24/2026|girls-basketball|cparker|heidelberg|8740571f-4c7f-4d58-aced-3cbd74df4911": {
+   "fingerprint": "448c587a4f086256",
+   "first_reported": "2026-11-25T06:59:13-06:00",
+   "game_date": "11/24/2026",
+   "last_reported": "2026-11-25T06:59:13-06:00",
+   "player": "C. Parker",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Heidelberg"
   }
  },
- "updated": "2026-11-24T07:02:29-06:00",
+ "updated": "2026-11-25T06:59:13-06:00",
  "version": 1
 }
