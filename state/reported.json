@@ -12980,6 +12980,16 @@
    "sport": "boys-basketball",
    "team": "Holly Springs"
   },
+  "11/23/2026|boys-basketball|rmallory|eastmarion|7bd275d3-8c0e-4111-a6de-9fa54a2b41a0": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-26T06:53:35-06:00",
+   "game_date": "11/23/2026",
+   "last_reported": "2026-11-26T06:53:35-06:00",
+   "player": "R. Mallory",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "East Marion"
+  },
   "11/23/2026|girls-basketball|btotten|pottscamp|573a487a-925b-4cb9-9c15-9d81c89f101c": {
    "fingerprint": "4aba233025787a6b",
    "first_reported": "2026-11-24T07:02:29-06:00",
@@ -13010,6 +13020,16 @@
    "sport": "girls-basketball",
    "team": "Holly Springs"
   },
+  "11/23/2026|girls-basketball|rmallory|eastmarion|7bd275d3-8c0e-4111-a6de-9fa54a2b41a0": {
+   "fingerprint": "7a65e21dd0e99ce8",
+   "first_reported": "2026-11-26T06:53:35-06:00",
+   "game_date": "11/23/2026",
+   "last_reported": "2026-11-26T06:53:35-06:00",
+   "player": "R. Mallory",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "East Marion"
+  },
   "11/24/2026|boys-basketball|cparker|heidelberg|8740571f-4c7f-4d58-aced-3cbd74df4911": {
    "fingerprint": "448c587a4f086256",
    "first_reported": "2026-11-25T06:59:13-06:00",
@@ -13020,6 +13040,46 @@
    "sport": "boys-basketball",
    "team": "Heidelberg"
   },
+  "11/24/2026|boys-basketball|jwhite|clevelandcentral|a0f400ec-55ff-4b56-ad4e-e302367debcc": {
+   "fingerprint": "b361a7132841b540",
+   "first_reported": "2026-11-26T06:53:35-06:00",
+   "game_date": "11/24/2026",
+   "last_reported": "2026-11-26T06:53:35-06:00",
+   "player": "J. White",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Cleveland Central"
+  },
+  "11/24/2026|boys-basketball|lelliott|jumpertown|8570d7a8-90f4-4a16-b1bd-9faf6ee43628": {
+   "fingerprint": "54bdb35fc5d29125",
+   "first_reported": "2026-11-26T06:53:35-06:00",
+   "game_date": "11/24/2026",
+   "last_reported": "2026-11-26T06:53:35-06:00",
+   "player": "L. Elliott",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Jumpertown"
+  },
+  "11/24/2026|boys-basketball|lwilbanks|walnut|8570d7a8-90f4-4a16-b1bd-9faf6ee43628": {
+   "fingerprint": "15de1fce6c25d156",
+   "first_reported": "2026-11-26T06:53:35-06:00",
+   "game_date": "11/24/2026",
+   "last_reported": "2026-11-26T06:53:35-06:00",
+   "player": "L. Wilbanks",
+   "reason_count": 2,
+   "sport": "boys-basketball",
+   "team": "Walnut"
+  },
+  "11/24/2026|boys-basketball|wbayless|walnut|8570d7a8-90f4-4a16-b1bd-9faf6ee43628": {
+   "fingerprint": "aa3e230910a8d4f2",
+   "first_reported": "2026-11-26T06:53:35-06:00",
+   "game_date": "11/24/2026",
+   "last_reported": "2026-11-26T06:53:35-06:00",
+   "player": "W. Bayless",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Walnut"
+  },
   "11/24/2026|girls-basketball|cparker|heidelberg|8740571f-4c7f-4d58-aced-3cbd74df4911": {
    "fingerprint": "448c587a4f086256",
    "first_reported": "2026-11-25T06:59:13-06:00",
@@ -13029,8 +13089,48 @@
    "reason_count": 1,
    "sport": "girls-basketball",
    "team": "Heidelberg"
+  },
+  "11/24/2026|girls-basketball|jwhite|clevelandcentral|a0f400ec-55ff-4b56-ad4e-e302367debcc": {
+   "fingerprint": "b361a7132841b540",
+   "first_reported": "2026-11-26T06:53:35-06:00",
+   "game_date": "11/24/2026",
+   "last_reported": "2026-11-26T06:53:35-06:00",
+   "player": "J. White",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Cleveland Central"
+  },
+  "11/24/2026|girls-basketball|lelliott|jumpertown|8570d7a8-90f4-4a16-b1bd-9faf6ee43628": {
+   "fingerprint": "54bdb35fc5d29125",
+   "first_reported": "2026-11-26T06:53:35-06:00",
+   "game_date": "11/24/2026",
+   "last_reported": "2026-11-26T06:53:35-06:00",
+   "player": "L. Elliott",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Jumpertown"
+  },
+  "11/24/2026|girls-basketball|lwilbanks|walnut|8570d7a8-90f4-4a16-b1bd-9faf6ee43628": {
+   "fingerprint": "15de1fce6c25d156",
+   "first_reported": "2026-11-26T06:53:35-06:00",
+   "game_date": "11/24/2026",
+   "last_reported": "2026-11-26T06:53:35-06:00",
+   "player": "L. Wilbanks",
+   "reason_count": 2,
+   "sport": "girls-basketball",
+   "team": "Walnut"
+  },
+  "11/24/2026|girls-basketball|wbayless|walnut|8570d7a8-90f4-4a16-b1bd-9faf6ee43628": {
+   "fingerprint": "aa3e230910a8d4f2",
+   "first_reported": "2026-11-26T06:53:35-06:00",
+   "game_date": "11/24/2026",
+   "last_reported": "2026-11-26T06:53:35-06:00",
+   "player": "W. Bayless",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Walnut"
   }
  },
- "updated": "2026-11-25T06:59:13-06:00",
+ "updated": "2026-11-26T06:53:35-06:00",
  "version": 1
 }
