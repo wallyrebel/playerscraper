@@ -13050,6 +13050,16 @@
    "sport": "boys-basketball",
    "team": "Cleveland Central"
   },
+  "11/24/2026|boys-basketball|kgriffin|hatley|db9c3f1d-0bdc-45e1-ad03-76c092432f8d": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-27T06:56:59-06:00",
+   "game_date": "11/24/2026",
+   "last_reported": "2026-11-27T06:56:59-06:00",
+   "player": "K. Griffin",
+   "reason_count": 1,
+   "sport": "boys-basketball",
+   "team": "Hatley"
+  },
   "11/24/2026|boys-basketball|lelliott|jumpertown|8570d7a8-90f4-4a16-b1bd-9faf6ee43628": {
    "fingerprint": "54bdb35fc5d29125",
    "first_reported": "2026-11-26T06:53:35-06:00",
@@ -13069,6 +13079,16 @@
    "reason_count": 2,
    "sport": "boys-basketball",
    "team": "Walnut"
+  },
+  "11/24/2026|boys-basketball|ndavis|christiancollegiateacademy|b55137e8-f1cb-4de2-8dff-a699a9dd0243": {
+   "fingerprint": "f9c45d1c2156b150",
+   "first_reported": "2026-11-27T06:56:59-06:00",
+   "game_date": "11/24/2026",
+   "last_reported": "2026-11-27T06:56:59-06:00",
+   "player": "N. Davis",
+   "reason_count": 3,
+   "sport": "boys-basketball",
+   "team": "Christian Collegiate Academy"
   },
   "11/24/2026|boys-basketball|wbayless|walnut|8570d7a8-90f4-4a16-b1bd-9faf6ee43628": {
    "fingerprint": "aa3e230910a8d4f2",
@@ -13100,6 +13120,16 @@
    "sport": "girls-basketball",
    "team": "Cleveland Central"
   },
+  "11/24/2026|girls-basketball|kgriffin|hatley|db9c3f1d-0bdc-45e1-ad03-76c092432f8d": {
+   "fingerprint": "4aba233025787a6b",
+   "first_reported": "2026-11-27T06:56:59-06:00",
+   "game_date": "11/24/2026",
+   "last_reported": "2026-11-27T06:56:59-06:00",
+   "player": "K. Griffin",
+   "reason_count": 1,
+   "sport": "girls-basketball",
+   "team": "Hatley"
+  },
   "11/24/2026|girls-basketball|lelliott|jumpertown|8570d7a8-90f4-4a16-b1bd-9faf6ee43628": {
    "fingerprint": "54bdb35fc5d29125",
    "first_reported": "2026-11-26T06:53:35-06:00",
@@ -13120,6 +13150,16 @@
    "sport": "girls-basketball",
    "team": "Walnut"
   },
+  "11/24/2026|girls-basketball|ndavis|christiancollegiateacademy|b55137e8-f1cb-4de2-8dff-a699a9dd0243": {
+   "fingerprint": "f9c45d1c2156b150",
+   "first_reported": "2026-11-27T06:56:59-06:00",
+   "game_date": "11/24/2026",
+   "last_reported": "2026-11-27T06:56:59-06:00",
+   "player": "N. Davis",
+   "reason_count": 3,
+   "sport": "girls-basketball",
+   "team": "Christian Collegiate Academy"
+  },
   "11/24/2026|girls-basketball|wbayless|walnut|8570d7a8-90f4-4a16-b1bd-9faf6ee43628": {
    "fingerprint": "aa3e230910a8d4f2",
    "first_reported": "2026-11-26T06:53:35-06:00",
@@ -13131,6 +13171,6 @@
    "team": "Walnut"
   }
  },
- "updated": "2026-11-26T06:53:35-06:00",
+ "updated": "2026-11-27T06:56:59-06:00",
  "version": 1
 }
